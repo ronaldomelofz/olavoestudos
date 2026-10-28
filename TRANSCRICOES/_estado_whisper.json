@@ -1,0 +1,21 @@
+{
+ "DRn-CEsduHg": {
+  "status": "ok",
+  "palavras": 1297,
+  "seg": 262,
+  "ritmo": 0.5,
+  "em": "2026-10-28T09:39:32"
+ },
+ "ZQjven0AQHU": {
+  "status": "ok",
+  "palavras": 13639,
+  "seg": 3206,
+  "ritmo": 0.46,
+  "em": "2026-10-28T10:33:50"
+ },
+ "-0xrXUgXyZQ": {
+  "status": "erro",
+  "erro": "Unable to allocate 1.79 GiB for an array with shape (1, 599502, 400) and data type float64",
+  "em": "2026-10-28T10:36:05"
+ }
+}

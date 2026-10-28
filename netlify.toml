@@ -1,0 +1,11 @@
+# Build a partir do GitHub. A pasta base é o site; o filtro tira do dist os vídeos
+# removidos do YouTube e o texto integral das aulas (estudo pessoal, só na pasta local).
+[build]
+  base = "site"
+  command = "npm run build && python ../scripts/filtrar_publico.py"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

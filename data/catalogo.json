@@ -1,0 +1,46 @@
+{
+ "videos": 1131,
+ "com_descricao": 829,
+ "lives": 4,
+ "ingles": 24,
+ "playlists": 19,
+ "textos": 2460,
+ "cursos": 30,
+ "guias": 8,
+ "por_trilha": {
+  "vida-intelectual": {
+   "videos": 210,
+   "textos": 138
+  },
+  "personalidade": {
+   "videos": 73,
+   "textos": 102
+  },
+  "conhecimento": {
+   "videos": 341,
+   "textos": 180
+  },
+  "espirito": {
+   "videos": 122,
+   "textos": 173
+  },
+  "politica": {
+   "videos": 419,
+   "textos": 735
+  },
+  "cultura": {
+   "videos": 94,
+   "textos": 160
+  },
+  "mestres": {
+   "videos": 119,
+   "textos": 102
+  }
+ },
+ "sem_trilha": 219,
+ "externos": 112,
+ "videos_locais": 58,
+ "textos_locais": 1867,
+ "cursos_locais": 30,
+ "com_transcricao": 102
+}

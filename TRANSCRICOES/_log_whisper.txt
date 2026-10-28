@@ -1,0 +1,21 @@
+[09:35:01] ============================================================
+[09:35:01] RETRANSCRIÇÃO FINA | modelo=small | pendentes=1
+[09:35:05] Carregando Whisper small (CPU int8, threads=4)…
+[09:35:10] Modelo pronto.
+[09:35:15] [1/1] áudio DRn-CEsduHg.m4a (3134 KB) · Não seja um idiota | Olavo de Carvalho
+[09:39:32]   OK 1297 palavras em 262s (ritmo 0.5× a duração)
+[09:39:32] Fim da rodada.
+[09:40:18] ============================================================
+[09:40:18] RETRANSCRIÇÃO FINA | modelo=small | pendentes=33
+[09:40:22] Carregando Whisper small (CPU int8, threads=4)…
+[09:40:24] Modelo pronto.
+[09:40:33] [1/33] áudio ZQjven0AQHU.webm (84795 KB) · 05-  Pré Socráticos - História Essencial da Filosofia - Olav
+[10:33:50]   OK 13639 palavras em 3206s (ritmo 0.46× a duração)
+[10:34:14] [2/33] áudio -0xrXUgXyZQ.m4a (41907 KB) · 01- História das Histórias da Filosofia - História Essencial
+[10:36:05]   FALHA -0xrXUgXyZQ: Unable to allocate 1.79 GiB for an array with shape (1, 599502, 400) and data type float64
+[10:36:30] [3/33] áudio XCN2XlDeks0.webm (88909 KB) · 07- Período Helenístico (Parte 2) - História Essencial da Fi
+[11:13:25] ============================================================
+[11:13:25] RETRANSCRIÇÃO FINA | modelo=small | pendentes=31
+[11:13:44] Carregando Whisper small (CPU int8, threads=2)…
+[11:13:51] Modelo pronto.
+[11:13:51] [1/31] áudio -0xrXUgXyZQ.mp4 (558813 KB) · 01- História das Histórias da Filosofia - História Essencial

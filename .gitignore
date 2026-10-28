@@ -1,0 +1,24 @@
+node_modules/
+dist/
+site/node_modules/
+site/dist/
+__pycache__/
+*.pyc
+
+# Arquivos grandes ou obra integral: ficam na pasta, não vão para o GitHub público.
+ACERVO/VIDEOS/*.mp4
+ACERVO/VIDEOS/*.m4a
+ACERVO/VIDEOS/*.webm
+ACERVO/VIDEOS/*.part
+ACERVO/VIDEOS/*.ytdl
+ACERVO/VIDEOS/*.jpg
+ACERVO/VIDEOS/*.webp
+ACERVO/VIDEOS/*.info.json
+ACERVO/SEMINARIO/textos/
+ACERVO/SEMINARIO/guias/
+ACERVO/SEMINARIO/imagens/
+TRANSCRICOES/BRUTO/
+TRANSCRICOES/ESTUDO/
+TRANSCRICOES/_audio/
+TRANSCRICOES/_work/
+site/public/data/transcricoes/

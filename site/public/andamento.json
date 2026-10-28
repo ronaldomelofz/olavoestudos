@@ -1,0 +1,49 @@
+{
+ "em": "2026-10-28 11:14",
+ "gb": 12.84,
+ "removidos": 31,
+ "etapas": [
+  {
+   "id": "videos",
+   "nome": "Vídeos em MP4 no acervo",
+   "feito": 55,
+   "total": 1100,
+   "detalhe": "12.84 GB salvos · pausa de 20 s entre vídeos"
+  },
+  {
+   "id": "seminario",
+   "nome": "Textos integrais do Seminário",
+   "feito": 1894,
+   "total": 2460,
+   "detalhe": "artigos abertos em JSON e Markdown"
+  },
+  {
+   "id": "legendas",
+   "nome": "Legendas com marcação de tempo",
+   "feito": 268,
+   "total": 1100,
+   "detalhe": "sem acesso: 31 · erros a repetir: 2"
+  },
+  {
+   "id": "estudo",
+   "nome": "Edição para estudo",
+   "feito": 262,
+   "total": 268,
+   "detalhe": "parágrafos com tempo, a partir das legendas já extraídas"
+  },
+  {
+   "id": "whisper",
+   "nome": "Retranscrição fina das aulas completas",
+   "feito": 2,
+   "total": 33,
+   "detalhe": "Whisper small em fatias de 20 min · falhas: 1"
+  },
+  {
+   "id": "cursos",
+   "nome": "Cursos, capas e guias",
+   "feito": 38,
+   "total": 38,
+   "detalhe": "30 fichas de curso e 8 guias (parte pública)"
+  }
+ ]
+}
