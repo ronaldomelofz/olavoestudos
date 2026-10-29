@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { Carregando, Externo } from '../components/Cards'
 import { salvarNota, useCaderno } from '../lib/caderno'
-import { imagemLocal, urlGuia, urlTexto } from '../lib/data'
+import { imagemLocal, thumb, urlGuia, urlTexto, useData, videoLocal } from '../lib/data'
 
 interface ArtigoSalvo {
   title: string
@@ -24,6 +24,8 @@ interface ArtigoSalvo {
 export function TextoPage({ pasta }: { pasta: 'textos' | 'guias' }) {
   const { slug = '' } = useParams()
   const caderno = useCaderno()
+  const videos = useData('videos')
+  const catalogo = new Set(videos?.map((v) => v.id))
   const [d, setD] = useState<ArtigoSalvo | null | undefined>(undefined)
   const [nota, setNota] = useState('')
   const chave = `texto:${slug}`
@@ -43,6 +45,8 @@ export function TextoPage({ pasta }: { pasta: 'textos' | 'guias' }) {
   }, [pasta, slug])
 
   if (d === undefined) return <Carregando />
+  const citados = `${d?.small_description ?? ''} ${d?.text ?? ''}`.matchAll(/(?:v=|youtu\.be\/|embed\/)([\w-]{11})/g)
+  const videosCitados = [...new Set([...citados].map((m) => m[1]))].filter((id) => videoLocal(id))
   const oficial = pasta === 'guias' ? urlGuia(slug) : urlTexto(slug)
   if (!d)
     return (
@@ -76,6 +80,16 @@ export function TextoPage({ pasta }: { pasta: 'textos' | 'guias' }) {
             <Externo href={oficial}>site oficial</Externo>
           </p>
           {d.capa_local && <img className="capa-texto" src={imagemLocal(d.capa_local)} alt="" />}
+          {videosCitados.map((id) => (
+            <figure key={id} className="video-texto">
+              <video controls preload="metadata" poster={thumb(id)} src={videoLocal(id)!} />
+              {catalogo.has(id) && (
+                <figcaption>
+                  <Link to={`/videos/${id}`}>Abrir na videoteca, com o texto da aula</Link>
+                </figcaption>
+              )}
+            </figure>
+          ))}
           {bloco('Resumo', d.summary)}
           {bloco('Pontos principais', d.principal_points)}
           {d.text ? (

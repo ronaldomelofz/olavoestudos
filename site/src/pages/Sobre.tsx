@@ -1,5 +1,5 @@
-import { Carregando, Externo } from '../components/Cards'
-import { SITE, urlTexto, useData } from '../lib/data'
+import { Carregando, Externo, LinkSeminario } from '../components/Cards'
+import { SITE, useData } from '../lib/data'
 
 export function Sobre() {
   const curadoria = useData('curadoria')
@@ -21,7 +21,9 @@ export function Sobre() {
         </p>
         <p>
           Para a biografia escrita pela família, leia{' '}
-          <Externo href={urlTexto('quem-e-olavo-de-carvalho')}>Quem é Olavo de Carvalho?</Externo>
+          <LinkSeminario pasta="textos" slug="quem-e-olavo-de-carvalho">
+            Quem é Olavo de Carvalho?
+          </LinkSeminario>
         </p>
       </section>
 

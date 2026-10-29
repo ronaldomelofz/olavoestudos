@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { Carregando, Externo, TextoItem, VideoGrid } from '../components/Cards'
-import { SITE, urlCurso, urlGuia, useData } from '../lib/data'
+import { Carregando, Externo, LinkSeminario, TextoItem, VideoGrid } from '../components/Cards'
+import { SITE, urlCurso, useData } from '../lib/data'
 
 const PASSO = 24
 
@@ -96,7 +96,9 @@ export function TrilhaPage() {
                 <h3>{g!.titulo}</h3>
                 <p className="texto-meta">{g!.autor}</p>
                 <p>{g!.desc}…</p>
-                <Externo href={urlGuia(g!.slug)}>Abrir guia</Externo>
+                <LinkSeminario pasta="guias" slug={g!.slug}>
+                  Abrir guia
+                </LinkSeminario>
               </article>
             ))}
           </div>

@@ -1317,3 +1317,12 @@ ERROR:
 [08:20:51] [36/37] OK TWntHTvdDqM 30.1 MB em 14s
 [08:21:17] [37/37] OK zGmHsT0HFFQ 2.5 MB em 6s
 [08:21:17] Fim da rodada · 1083 vídeos no acervo · 50.3 GB
+[14:11:29] ============================================================
+[14:11:29] VÍDEOS | fila=1 pendentes=1 pausa=1.0s
+[14:12:19] [1/1] OK pGh0ZLZrhV4 90.9 MB em 50s
+[14:12:19] Fim da rodada · 1084 vídeos no acervo · 50.4 GB
+[14:12:36] ============================================================
+[14:12:36] VÍDEOS | fila=11 pendentes=11 pausa=20.0s
+[14:12:59] [1/11] OK vf5IxZ3Frto 100.7 MB em 24s
+[14:13:22] [2/11] INDISPONIVEL Z1mViCAh4Nc: ies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[14:13:45] [3/11] ERRO gICSWXGs0d4: ERROR: [youtube] gICSWXGs0d4: This video is unavailable

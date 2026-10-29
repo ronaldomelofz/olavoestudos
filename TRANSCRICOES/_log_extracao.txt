@@ -1464,3 +1464,70 @@
 [11:33:36] [25/69] SEM ACESSO yhKSUrIL27E (incorporação restrita; tentar outro método)
 [11:33:41] [26/69] FALHA Mn9iS9jSs9E: HTTP Error 429: Too Many Requests
 [11:33:41]   excesso de requisições (1/5) — cooldown 180s
+[11:36:54] [27/69] SEM ACESSO EeTDAhQudqo (incorporação restrita; tentar outro método)
+[11:36:57] [28/69] SEM ACESSO aD9mcd-mOFc (incorporação restrita; tentar outro método)
+[11:37:00] [29/69] SEM ACESSO JL-MHE6yyQY (incorporação restrita; tentar outro método)
+[11:37:03] [30/69] SEM ACESSO rTBhhl6eLrg (incorporação restrita; tentar outro método)
+[11:37:06] [31/69] SEM ACESSO xYYKXZTg24A (incorporação restrita; tentar outro método)
+[11:37:09] [32/69] SEM ACESSO g3epjUL52Hg (incorporação restrita; tentar outro método)
+[11:37:12] [33/69] SEM ACESSO raetl_PYrfQ (incorporação restrita; tentar outro método)
+[11:37:15] [34/69] SEM ACESSO qSB6y3KdKwM (incorporação restrita; tentar outro método)
+[11:37:18] [35/69] SEM ACESSO MnzI7ClNIas (incorporação restrita; tentar outro método)
+[11:37:23] [36/69] FALHA 4qMSWlTDUKc: HTTP Error 429: Too Many Requests
+[11:37:23]   excesso de requisições (1/5) — cooldown 180s
+[11:40:36] [37/69] SEM ACESSO G-bRw7uQ6Ns (incorporação restrita; tentar outro método)
+[11:40:41] [38/69] FALHA PksauAdgbwI: HTTP Error 429: Too Many Requests
+[11:40:41]   excesso de requisições (1/5) — cooldown 180s
+[11:43:57] [39/69] FALHA qySuenfRkDk: HTTP Error 429: Too Many Requests
+[11:43:57]   excesso de requisições (1/5) — cooldown 180s
+[11:47:13] [40/69] FALHA 1xrYpXPObdo: HTTP Error 429: Too Many Requests
+[11:47:13]   excesso de requisições (1/5) — cooldown 180s
+[11:50:23] — lote 40/69 · pausa 60.0s —
+[11:51:29] [41/69] FALHA CkT_5AuaZTA: HTTP Error 429: Too Many Requests
+[11:51:29]   excesso de requisições (1/5) — cooldown 180s
+[11:54:42] [42/69] SEM ACESSO k2zaD5KRCp8 (incorporação restrita; tentar outro método)
+[11:54:45] [43/69] SEM ACESSO YjCGRMKqt4I (incorporação restrita; tentar outro método)
+[11:54:48] [44/69] SEM ACESSO HD87s5EqgDc (incorporação restrita; tentar outro método)
+[11:54:51] [45/69] SEM ACESSO HYrsYrA7an0 (incorporação restrita; tentar outro método)
+[11:54:54] [46/69] SEM ACESSO _y6lrUY_y_g (incorporação restrita; tentar outro método)
+[11:54:58] [47/69] SEM ACESSO sID2DRYjNJc (incorporação restrita; tentar outro método)
+[11:55:01] [48/69] SEM ACESSO I1ghkPFb90E (incorporação restrita; tentar outro método)
+[11:55:04] [49/69] SEM ACESSO OlZP736Dvko (incorporação restrita; tentar outro método)
+[11:55:10] [50/69] FALHA _xxxcOOS-d8: HTTP Error 429: Too Many Requests
+[11:55:10]   excesso de requisições (1/5) — cooldown 180s
+[11:58:20] — lote 50/69 · pausa 60.0s —
+[11:59:23] [51/69] SEM ACESSO iBy559jYXE0 (incorporação restrita; tentar outro método)
+[11:59:28] [52/69] FALHA dt3RPMkRjlo: HTTP Error 429: Too Many Requests
+[11:59:28]   excesso de requisições (1/5) — cooldown 180s
+[12:02:41] [53/69] SEM ACESSO W4rNjzkmfzI (incorporação restrita; tentar outro método)
+[12:02:47] [54/69] FALHA vg2kijqQa3A: HTTP Error 429: Too Many Requests
+[12:02:47]   excesso de requisições (1/5) — cooldown 180s
+[12:06:03] [55/69] FALHA a4FIipEnmcQ: HTTP Error 429: Too Many Requests
+[12:06:03]   excesso de requisições (1/5) — cooldown 180s
+[12:09:19] [56/69] FALHA IJ3H1Y0PBS0: HTTP Error 429: Too Many Requests
+[12:09:19]   excesso de requisições (1/5) — cooldown 180s
+[12:12:35] [57/69] FALHA iE3wK9YQN6Y: HTTP Error 429: Too Many Requests
+[12:12:35]   excesso de requisições (1/5) — cooldown 180s
+[12:15:51] [58/69] OK lDyDa-7G0Og 3 palavras · legenda automática (pt) · 6.2s · Novo livro do professor Olavo: “A felicidade geral da n
+[12:16:07] [59/69] FALHA FWGu740-24k: HTTP Error 429: Too Many Requests
+[12:16:07]   excesso de requisições (1/5) — cooldown 180s
+[12:19:23] [60/69] FALHA Dv7PpqWq4lI: HTTP Error 429: Too Many Requests
+[12:19:23]   excesso de requisições (1/5) — cooldown 180s
+[12:22:33] — lote 60/69 · pausa 60.0s —
+[12:23:39] [61/69] FALHA 1fOlh4wnnhs: HTTP Error 429: Too Many Requests
+[12:23:39]   excesso de requisições (1/5) — cooldown 180s
+[12:26:55] [62/69] FALHA NqMNxRT7JUE: HTTP Error 429: Too Many Requests
+[12:26:55]   excesso de requisições (1/5) — cooldown 180s
+[12:30:10] [63/69] FALHA LOTEs-EyRPM: HTTP Error 429: Too Many Requests
+[12:30:10]   excesso de requisições (1/5) — cooldown 180s
+[12:33:26] [64/69] FALHA mSwYes2NOfM: HTTP Error 429: Too Many Requests
+[12:33:26]   excesso de requisições (1/5) — cooldown 180s
+[12:36:42] [65/69] FALHA mCw3QAdQjaI: HTTP Error 429: Too Many Requests
+[12:36:42]   excesso de requisições (1/5) — cooldown 180s
+[12:39:58] [66/69] FALHA 8C8itcrqQPA: HTTP Error 429: Too Many Requests
+[12:39:58]   excesso de requisições (1/5) — cooldown 180s
+[12:43:13] [67/69] FALHA IV_4RYkAgII: HTTP Error 429: Too Many Requests
+[12:43:13]   excesso de requisições (1/5) — cooldown 180s
+[12:46:30] [68/69] OK -95EoegPWMo 595 palavras · legenda automática (pt) · 6.6s · Três vigaristas: um zé-mané, um filisteu e um quase-esc
+[12:46:47] [69/69] OK oYD66OucgJQ 286 palavras · legenda automática (pt) · 6.8s · Wolfgang Smith sobre Olavo de Carvalho
+[12:46:47] Fim da rodada: novos=3 · estado geral {'ok': 1010, 'sem_legenda': 54, 'indisponivel': 0, 'erro': 22}

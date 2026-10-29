@@ -5508,5 +5508,30 @@
   "status": "ok",
   "mb": 2.0,
   "em": "2026-10-29T00:31:26"
+ },
+ "cBVUy1fDPMQ": {
+  "status": "indisponivel",
+  "erro": "restrição de idade: o YouTube exige login",
+  "em": "2026-10-29T14:06:23"
+ },
+ "pGh0ZLZrhV4": {
+  "status": "ok",
+  "mb": 90.9,
+  "em": "2026-10-29T14:12:19"
+ },
+ "vf5IxZ3Frto": {
+  "status": "ok",
+  "mb": 100.7,
+  "em": "2026-10-29T14:12:59"
+ },
+ "Z1mViCAh4Nc": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-29T14:13:22"
+ },
+ "gICSWXGs0d4": {
+  "status": "erro",
+  "erro": "ERROR: [youtube] gICSWXGs0d4: This video is unavailable",
+  "em": "2026-10-29T14:13:45"
  }
 }

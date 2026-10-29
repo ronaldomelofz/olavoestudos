@@ -1,7 +1,7 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 import { useCaderno } from '../lib/caderno'
-import { ACERVO, dataBR, duracao, milhar, thumb, urlTexto } from '../lib/data'
+import { ACERVO, dataBR, duracao, milhar, thumb, urlGuia, urlTexto } from '../lib/data'
 import type { Texto, Video } from '../lib/types'
 
 export function Carregando() {
@@ -67,6 +67,13 @@ export function TextoItem({ x }: { x: Texto }) {
       )}
     </li>
   )
+}
+
+/** Abre a cópia salva em ACERVO/SEMINARIO quando existe; senão, o site oficial. */
+export function LinkSeminario({ pasta, slug, children }: { pasta: 'textos' | 'guias'; slug: string; children: ReactNode }) {
+  const local = pasta === 'textos' ? ACERVO.textos.has(slug) : ACERVO.guias.has(slug)
+  if (local) return <Link to={`/${pasta}/${slug}`}>{children}</Link>
+  return <Externo href={pasta === 'textos' ? urlTexto(slug) : urlGuia(slug)}>{children}</Externo>
 }
 
 export function Externo({ href, children }: { href: string; children: ReactNode }) {

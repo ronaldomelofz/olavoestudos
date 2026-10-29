@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
-import { Carregando, Externo, VideoGrid } from '../components/Cards'
+import { Carregando, Externo, LinkSeminario, VideoGrid } from '../components/Cards'
 import { useCaderno } from '../lib/caderno'
-import { milhar, urlCurso, urlTexto, useData } from '../lib/data'
+import { milhar, urlCurso, useData } from '../lib/data'
 
 export function Home() {
   const videos = useData('videos')
@@ -86,7 +86,9 @@ export function Home() {
             <article className="card">
               <h3>Quem foi Olavo</h3>
               <p>O retrato escrito pela família, no site oficial — o ponto de partida biográfico.</p>
-              <Externo href={urlTexto('quem-e-olavo-de-carvalho')}>Ler no Seminário</Externo>
+              <LinkSeminario pasta="textos" slug="quem-e-olavo-de-carvalho">
+                Ler no Seminário
+              </LinkSeminario>
             </article>
             <article className="card">
               <h3>Aula 425 do COF</h3>

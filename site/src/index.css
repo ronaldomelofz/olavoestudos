@@ -1406,3 +1406,7 @@ li.visto .check {
 .paginacao a:hover {
   text-decoration: underline;
 }
+
+.video-texto { margin: 1.2rem 0; }
+.video-texto video { width: 100%; border-radius: 10px; background: #000; }
+.video-texto figcaption { margin-top: .4rem; font-size: .9rem; }

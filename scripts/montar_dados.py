@@ -132,6 +132,10 @@ def montar_videos():
     nome_pl = {p["id"]: p["titulo"] for p in playlists}
     est = ROOT / "TRANSCRICOES" / "_estado_extracao.json"
     removidos = {i for i, s in carregar(est).items() if s.get("status") in ("sem_acesso", "indisponivel")} if est.exists() else set()
+    baixados = ROOT / "ACERVO" / "VIDEOS"
+    if (baixados / "_estado.json").exists():
+        removidos |= {i for i, s in carregar(baixados / "_estado.json").items()
+                      if s.get("status") == "indisponivel" and not (baixados / f"{i}.mp4").exists()}
 
     videos = []
     for vid, e in flat.items():

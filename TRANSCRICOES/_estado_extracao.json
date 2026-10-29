@@ -387,7 +387,7 @@
  "Mn9iS9jSs9E": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:09:42"
+  "em": "2026-10-29T11:33:41"
  },
  "1lZHlMVeygA": {
   "status": "ok",
@@ -426,7 +426,7 @@
  },
  "EeTDAhQudqo": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:12:56"
+  "em": "2026-10-29T11:36:54"
  },
  "LqG0Gap_v0U": {
   "status": "ok",
@@ -444,7 +444,7 @@
  },
  "aD9mcd-mOFc": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:12:59"
+  "em": "2026-10-29T11:36:57"
  },
  "qLZ6r1rH6dE": {
   "status": "ok",
@@ -945,15 +945,15 @@
  },
  "JL-MHE6yyQY": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:02"
+  "em": "2026-10-29T11:37:00"
  },
  "rTBhhl6eLrg": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:05"
+  "em": "2026-10-29T11:37:03"
  },
  "xYYKXZTg24A": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:09"
+  "em": "2026-10-29T11:37:06"
  },
  "9ScWBkvPT5o": {
   "status": "ok",
@@ -1062,7 +1062,7 @@
  },
  "g3epjUL52Hg": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:12"
+  "em": "2026-10-29T11:37:09"
  },
  "_QZ_b3FFH_w": {
   "status": "ok",
@@ -2074,7 +2074,7 @@
  },
  "raetl_PYrfQ": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:16"
+  "em": "2026-10-29T11:37:12"
  },
  "INiLw3Yiy4A": {
   "status": "ok",
@@ -2638,7 +2638,7 @@
  },
  "qSB6y3KdKwM": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:19"
+  "em": "2026-10-29T11:37:15"
  },
  "GE5m6sC0xSM": {
   "status": "ok",
@@ -2649,7 +2649,7 @@
  },
  "MnzI7ClNIas": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:13:22"
+  "em": "2026-10-29T11:37:18"
  },
  "21-xpVywGDY": {
   "status": "ok",
@@ -2710,11 +2710,11 @@
  "4qMSWlTDUKc": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:13:29"
+  "em": "2026-10-29T11:37:23"
  },
  "G-bRw7uQ6Ns": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:16:43"
+  "em": "2026-10-29T11:40:36"
  },
  "U9yFWEdKBLg": {
   "status": "ok",
@@ -2920,7 +2920,7 @@
  "PksauAdgbwI": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:16:49"
+  "em": "2026-10-29T11:40:41"
  },
  "ehjCZYDOoE0": {
   "status": "ok",
@@ -3093,7 +3093,7 @@
  "qySuenfRkDk": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:20:05"
+  "em": "2026-10-29T11:43:57"
  },
  "QGtuaDZiTpk": {
   "status": "ok",
@@ -3316,7 +3316,7 @@
  "1xrYpXPObdo": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:23:21"
+  "em": "2026-10-29T11:47:13"
  },
  "dssZLzi70Ro": {
   "status": "sem_legenda",
@@ -3476,7 +3476,7 @@
  "CkT_5AuaZTA": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:27:37"
+  "em": "2026-10-29T11:51:29"
  },
  "nGCfxN8Sbms": {
   "status": "ok",
@@ -3703,40 +3703,40 @@
  },
  "k2zaD5KRCp8": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:30:51"
+  "em": "2026-10-29T11:54:42"
  },
  "YjCGRMKqt4I": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:30:54"
+  "em": "2026-10-29T11:54:45"
  },
  "HD87s5EqgDc": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:30:57"
+  "em": "2026-10-29T11:54:48"
  },
  "HYrsYrA7an0": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:31:01"
+  "em": "2026-10-29T11:54:51"
  },
  "_y6lrUY_y_g": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:31:04"
+  "em": "2026-10-29T11:54:54"
  },
  "sID2DRYjNJc": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:31:08"
+  "em": "2026-10-29T11:54:58"
  },
  "I1ghkPFb90E": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:31:11"
+  "em": "2026-10-29T11:55:01"
  },
  "OlZP736Dvko": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:31:14"
+  "em": "2026-10-29T11:55:04"
  },
  "_xxxcOOS-d8": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:31:20"
+  "em": "2026-10-29T11:55:10"
  },
  "vESSlog0kZ0": {
   "status": "ok",
@@ -3747,7 +3747,7 @@
  },
  "iBy559jYXE0": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:35:36"
+  "em": "2026-10-29T11:59:23"
  },
  "C0TUsKluhok": {
   "status": "ok",
@@ -3916,7 +3916,7 @@
  "dt3RPMkRjlo": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:35:42"
+  "em": "2026-10-29T11:59:28"
  },
  "4SqpdfkumEo": {
   "status": "ok",
@@ -4144,7 +4144,7 @@
  },
  "W4rNjzkmfzI": {
   "status": "sem_acesso",
-  "em": "2026-10-28T17:38:55"
+  "em": "2026-10-29T12:02:41"
  },
  "8bcsI6UNDRM": {
   "status": "ok",
@@ -6441,7 +6441,7 @@
  "vg2kijqQa3A": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:39:01"
+  "em": "2026-10-29T12:02:47"
  },
  "yZVusFmxg0w": {
   "status": "ok",
@@ -6556,22 +6556,24 @@
  "a4FIipEnmcQ": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:42:17"
+  "em": "2026-10-29T12:06:03"
  },
  "IJ3H1Y0PBS0": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:45:35"
+  "em": "2026-10-29T12:09:19"
  },
  "iE3wK9YQN6Y": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:48:51"
+  "em": "2026-10-29T12:12:35"
  },
  "lDyDa-7G0Og": {
-  "status": "erro",
-  "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:52:07"
+  "status": "ok",
+  "fonte": "legenda automática (pt)",
+  "palavras": 3,
+  "dur": 30,
+  "em": "2026-10-29T12:15:51"
  },
  "ZJ0xy2EvZqU": {
   "status": "ok",
@@ -6625,7 +6627,7 @@
  "FWGu740-24k": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:55:24"
+  "em": "2026-10-29T12:16:07"
  },
  "krIBkG-mEj0": {
   "status": "ok",
@@ -6672,7 +6674,7 @@
  "Dv7PpqWq4lI": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T17:58:40"
+  "em": "2026-10-29T12:19:23"
  },
  "dfjSf7c6Ax8": {
   "status": "ok",
@@ -6684,7 +6686,7 @@
  "1fOlh4wnnhs": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:02:56"
+  "em": "2026-10-29T12:23:39"
  },
  "dU0a8890NXk": {
   "status": "ok",
@@ -6899,7 +6901,7 @@
  "NqMNxRT7JUE": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:06:13"
+  "em": "2026-10-29T12:26:55"
  },
  "2Pki-0tg9u0": {
   "status": "sem_legenda",
@@ -7045,7 +7047,7 @@
  "LOTEs-EyRPM": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:09:28"
+  "em": "2026-10-29T12:30:10"
  },
  "hwG6Cmhq1f4": {
   "status": "ok",
@@ -7099,7 +7101,7 @@
  "mSwYes2NOfM": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:12:45"
+  "em": "2026-10-29T12:33:26"
  },
  "9Fi87YPZlb8": {
   "status": "sem_legenda",
@@ -7135,7 +7137,7 @@
  "mCw3QAdQjaI": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:16:01"
+  "em": "2026-10-29T12:36:42"
  },
  "vdZm1Rbm7hI": {
   "status": "sem_legenda",
@@ -7386,7 +7388,7 @@
  "8C8itcrqQPA": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:19:18"
+  "em": "2026-10-29T12:39:58"
  },
  "_ZY5CHT7Iwk": {
   "status": "ok",
@@ -7434,7 +7436,7 @@
  "IV_4RYkAgII": {
   "status": "erro",
   "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:22:34"
+  "em": "2026-10-29T12:43:13"
  },
  "ylSPmZENf9w": {
   "status": "ok",
@@ -7468,9 +7470,11 @@
   "em": "2026-10-28T16:53:34"
  },
  "-95EoegPWMo": {
-  "status": "erro",
-  "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:25:51"
+  "status": "ok",
+  "fonte": "legenda automática (pt)",
+  "palavras": 595,
+  "dur": 239,
+  "em": "2026-10-29T12:46:30"
  },
  "_t0JIe5KM8Q": {
   "status": "sem_legenda",
@@ -7495,9 +7499,11 @@
   "em": "2026-10-28T16:57:08"
  },
  "oYD66OucgJQ": {
-  "status": "erro",
-  "erro": "HTTP Error 429: Too Many Requests",
-  "em": "2026-10-28T18:29:07"
+  "status": "ok",
+  "fonte": "legenda automática (pt)",
+  "palavras": 286,
+  "dur": 167,
+  "em": "2026-10-29T12:46:47"
  },
  "zklEKLiPYR4": {
   "status": "ok",

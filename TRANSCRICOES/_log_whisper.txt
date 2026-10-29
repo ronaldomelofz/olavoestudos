@@ -76,3 +76,10 @@
 [09:45:01] [4/11] áudio aEstAPRko8c.mp4 (140077 KB) · Olavo de Carvalho - Aula 432 do Curso Online de Filosofia
 [10:08:04]   OK 6058 palavras em 1384s (ritmo 0.51× a duração)
 [10:08:12] [5/11] áudio V_S95CfEzmc.mp4 (301572 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula 01 Co
+[12:46:47] ============================================================
+[12:46:47] RETRANSCRIÇÃO FINA | modelo=small | pendentes=7
+[12:47:16] Carregando Whisper small (CPU int8, threads=2)…
+[12:47:22] Modelo pronto.
+[12:47:22] [1/7] áudio V_S95CfEzmc.mp4 (301572 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula 01 Co
+[14:00:29]   OK 20903 palavras em 4387s (ritmo 0.45× a duração)
+[14:00:37] [2/7] áudio 0nu4zO48wWs.mp4 (178125 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula Final
