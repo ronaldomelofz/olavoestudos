@@ -974,6 +974,71 @@ a.externo[target="_blank"]::after {
   margin: 0;
 }
 
+.vivos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.vivo {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.9rem 1rem 1rem;
+}
+
+.vivo header {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.vivo header em {
+  margin-left: auto;
+  font-style: normal;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+.pulso-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--line);
+  flex: none;
+}
+
+.vivo-ativo .pulso-dot {
+  background: var(--wine);
+  animation: pulso 1.1s ease-in-out infinite;
+}
+
+.vivo-pausa .pulso-dot,
+.vivo-ocioso .pulso-dot {
+  background: var(--gold);
+}
+
+.vivo-ha {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  margin: 0.35rem 0 0.2rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.vivo-mb,
+.vivo-linha {
+  margin: 0.2rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.88rem;
+}
+
+@keyframes pulso {
+  50% {
+    opacity: 0.25;
+  }
+}
+
 .andamento {
   list-style: none;
   padding: 0;

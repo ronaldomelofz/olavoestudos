@@ -14,8 +14,171 @@
   "em": "2026-10-28T10:33:50"
  },
  "-0xrXUgXyZQ": {
-  "status": "erro",
-  "erro": "Unable to allocate 1.79 GiB for an array with shape (1, 599502, 400) and data type float64",
-  "em": "2026-10-28T10:36:05"
+  "status": "ok",
+  "palavras": 14468,
+  "seg": 3234,
+  "ritmo": 0.46,
+  "em": "2026-10-28T12:07:45"
+ },
+ "XCN2XlDeks0": {
+  "status": "ok",
+  "palavras": 16372,
+  "seg": 3815,
+  "ritmo": 0.54,
+  "em": "2026-10-28T13:11:28"
+ },
+ "1iFF05wpJEI": {
+  "status": "ok",
+  "palavras": 12686,
+  "seg": 2754,
+  "ritmo": 0.46,
+  "em": "2026-10-28T13:57:30"
+ },
+ "5TVuQC_Y_x0": {
+  "status": "ok",
+  "palavras": 14796,
+  "seg": 3266,
+  "ritmo": 0.46,
+  "em": "2026-10-28T14:52:04"
+ },
+ "kAtHbdo3DBo": {
+  "status": "ok",
+  "palavras": 14193,
+  "seg": 3385,
+  "ritmo": 0.48,
+  "em": "2026-10-28T15:48:37"
+ },
+ "VKJCO2hGjmw": {
+  "status": "ok",
+  "palavras": 14408,
+  "seg": 3239,
+  "ritmo": 0.47,
+  "em": "2026-10-28T16:43:29"
+ },
+ "jNbU7eAcOHM": {
+  "status": "ok",
+  "palavras": 14938,
+  "seg": 3498,
+  "ritmo": 0.5,
+  "em": "2026-10-28T17:41:55"
+ },
+ "NkBdlzJdkE8": {
+  "status": "ok",
+  "palavras": 937,
+  "seg": 212,
+  "ritmo": 0.5,
+  "em": "2026-10-28T17:45:34"
+ },
+ "xiSRpfE_uIE": {
+  "status": "ok",
+  "palavras": 3076,
+  "seg": 700,
+  "ritmo": 0.56,
+  "em": "2026-10-28T17:57:22"
+ },
+ "VW7kFlMxf7k": {
+  "status": "ok",
+  "palavras": 591,
+  "seg": 122,
+  "ritmo": 0.5,
+  "em": "2026-10-28T17:59:33"
+ },
+ "mrcFLXp-1zs": {
+  "status": "ok",
+  "palavras": 2421,
+  "seg": 538,
+  "ritmo": 0.53,
+  "em": "2026-10-28T18:09:24"
+ },
+ "_E_g-P9v6eM": {
+  "status": "ok",
+  "palavras": 13676,
+  "seg": 2842,
+  "ritmo": 0.47,
+  "em": "2026-10-28T18:56:54"
+ },
+ "lk4oMi3B5wY": {
+  "status": "ok",
+  "palavras": 13455,
+  "seg": 2941,
+  "ritmo": 0.46,
+  "em": "2026-10-28T19:46:03"
+ },
+ "AzEmBFB-Sw4": {
+  "status": "ok",
+  "palavras": 16546,
+  "seg": 3574,
+  "ritmo": 0.48,
+  "em": "2026-10-28T20:45:45"
+ },
+ "9NHYiqXBb-A": {
+  "status": "ok",
+  "palavras": 7051,
+  "seg": 1458,
+  "ritmo": 0.44,
+  "em": "2026-10-28T21:10:11"
+ },
+ "FJaHf9kFA7s": {
+  "status": "ok",
+  "palavras": 3955,
+  "seg": 828,
+  "ritmo": 0.43,
+  "em": "2026-10-28T21:24:51"
+ },
+ "Jdz7-nq9PkQ": {
+  "status": "ok",
+  "palavras": 8816,
+  "seg": 1878,
+  "ritmo": 0.49,
+  "em": "2026-10-28T21:56:17"
+ },
+ "0oc65pBVNhc": {
+  "status": "ok",
+  "palavras": 16308,
+  "seg": 3444,
+  "ritmo": 0.47,
+  "em": "2026-10-28T22:53:49"
+ },
+ "K4AvvvTpl5c": {
+  "status": "ok",
+  "palavras": 9363,
+  "seg": 1804,
+  "ritmo": 0.45,
+  "em": "2026-10-28T23:24:01"
+ },
+ "QPhIWgfsjPM": {
+  "status": "ok",
+  "palavras": 12194,
+  "seg": 2773,
+  "ritmo": 0.53,
+  "em": "2026-10-29T00:10:22"
+ },
+ "cCNHD-fuwzw": {
+  "status": "ok",
+  "palavras": 11330,
+  "seg": 2747,
+  "ritmo": 0.6,
+  "em": "2026-10-29T08:31:03"
+ },
+ "dlQG02mwTD0": {
+  "status": "ok",
+  "palavras": 12861,
+  "seg": 3188,
+  "ritmo": 0.58,
+  "em": "2026-10-29T09:24:19"
+ },
+ "XI1O86A0cNA": {
+  "status": "ok",
+  "palavras": 5164,
+  "seg": 1225,
+  "ritmo": 0.38,
+  "em": "2026-10-29T09:44:53"
+ },
+ "aEstAPRko8c": {
+  "status": "ok",
+  "palavras": 6058,
+  "seg": 1384,
+  "ritmo": 0.51,
+  "em": "2026-10-29T10:08:04"
  }
 }

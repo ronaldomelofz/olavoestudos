@@ -22,3 +22,5 @@ TRANSCRICOES/ESTUDO/
 TRANSCRICOES/_audio/
 TRANSCRICOES/_work/
 site/public/data/transcricoes/
+
+TRANSCRICOES/_andamento_cache.json

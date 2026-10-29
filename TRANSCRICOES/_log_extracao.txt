@@ -412,3 +412,1055 @@
 [11:13:24] [219/1050] OK t3rarcalAno 5326 palavras · legenda automática (pt-orig) · 5.5s · Como viver a Eternidade desde já | Olavo de Carvalho
 [11:13:40] [220/1050] OK 8bi9K61RO6s 176 palavras · legenda automática (pt-orig) · 5.4s · O medo é o motor humano | Olavo de Carvalho
 [11:13:50] — lote 220/1050 · pausa 60.0s —
+[11:14:56] [221/1050] OK _lox432CHhI 147 palavras · legenda automática (pt-orig) · 6.0s · Analfabetos no poder | Olavo de Carvalho
+[11:15:12] [222/1050] OK K3_OR0DPqTg 103 palavras · legenda automática (pt-orig) · 5.9s · O renascimento da propaganda comunista | Olavo de Carva
+[11:15:28] [223/1050] OK rxerLthdxhw 950 palavras · legenda manual (pt) · 5.8s · Tudo é sobre sexo, e sexo é poder | Olavo de Carvalho
+[11:15:44] [224/1050] OK u6UDmbeSu-Y 1233 palavras · legenda manual (pt) · 6.4s · Te transformaram num comunista e você não percebeu | Ol
+[11:16:00] [225/1050] OK HWUOZqPh4fw 196 palavras · legenda automática (pt-orig) · 5.7s · Não existe ordem de leitura | Olavo de Carvalho
+[11:16:16] [226/1050] OK X92svRlESDw 1344 palavras · legenda manual (pt) · 6.3s · O brasileiro é triste porque não deixa o passado para t
+[11:16:32] [227/1050] OK kJ2nV5FN-lg 158 palavras · legenda automática (pt-orig) · 6.0s · União estável na parada gay? | Olavo de Carvalho
+[11:16:48] [228/1050] OK FImvtDUkCAI 157 palavras · legenda automática (pt-orig) · 6.4s · O Brasil e as FARC são inseparáveis | Olavo de Carvalho
+[11:17:05] [229/1050] OK mWylX6DJ7VI 146 palavras · legenda automática (pt-orig) · 6.2s · Como a URSS ajudou a Alemanha na guerra | Olavo de Carv
+[11:17:18] [230/1050] SEM ACESSO raetl_PYrfQ (incorporação restrita; tentar outro método)
+[11:17:24] [231/1050] OK INiLw3Yiy4A 220 palavras · legenda automática (pt-orig) · 6.1s · Progressismo nas igrejas? | Olavo de Carvalho
+[11:17:40] [232/1050] OK QqMDBL_PzWI 163 palavras · legenda automática (pt-orig) · 5.8s · Acabando com os anticristãos | Olavo de Carvalho
+[11:17:56] [233/1050] OK MLbhHM4u3eE 1143 palavras · legenda manual (pt) · 6.1s · Como o comunismo dominou o Ocidente | Olavo de Carvalho
+[11:18:12] [234/1050] OK KRZ-Ziq-2i4 710 palavras · legenda automática (pt-orig) · 6.0s · A agenda woke está dominando as igrejas? | Olavo de Car
+[11:18:28] [235/1050] OK On-PyKuSnmo 193 palavras · legenda automática (pt-orig) · 5.8s · Intelectual brasileiro é papagaio da mídia | Olavo de C
+[11:18:44] [236/1050] OK fBxM1720wdg 671 palavras · legenda manual (pt) · 5.9s · Brasil: onde a piada vira realidade | Olavo de Carvalho
+[11:19:00] [237/1050] OK 0P6Txxatce4 181 palavras · legenda automática (pt-orig) · 5.7s · Taxista, baixista sim, faxista jamais | Olavo de Carval
+[11:19:15] [238/1050] OK OkbGxArEldE 184 palavras · legenda automática (pt-orig) · 5.8s · A Política é a mãe do Crime Organizado | Olavo de Carva
+[11:19:32] [239/1050] OK n2CQT1NZAkE 8627 palavras · legenda manual (pt) · 6.1s · Especial - True Outspeak ep. 204 | Olavo de Carvalho
+[11:19:47] [240/1050] OK 4xAhTek2GX0 178 palavras · legenda automática (pt-orig) · 5.7s · Não se deixe enganar pelo sentimento | Olavo de Carvalh
+[11:19:57] — lote 240/1050 · pausa 60.0s —
+[11:21:03] [241/1050] OK uRLYFcm9nKo 210 palavras · legenda automática (pt-orig) · 5.5s · Desejo de eternidade do ser amado | Olavo de Carvalho
+[11:21:19] [242/1050] OK 8NYKqXo_SwI 1066 palavras · legenda manual (pt) · 5.8s · Por que você deve ler | Olavo de Carvalho
+[11:21:35] [243/1050] OK YaqOloE-yII 129 palavras · legenda automática (pt-orig) · 6.1s · Destruição das famílias | Olavo de Carvalho
+[11:21:51] [244/1050] OK 0FKwhhAhO-c 131 palavras · legenda automática (pt-orig) · 5.9s · Ame o seu trabalho | Olavo de Carvalho
+[11:22:06] [245/1050] OK Z1ABfIyjSlY 228 palavras · legenda automática (pt-orig) · 5.7s · Amor verdadeiro | Olavo de Carvalho
+[11:22:22] [246/1050] OK eOwZHHtc3dY 1229 palavras · legenda automática (pt-orig) · 5.9s · Só uma sociedade brutal defende isso | Olavo de Carvalh
+[11:22:39] [247/1050] OK yLlHDSiP4Gk 77 palavras · legenda automática (pt-orig) · 6.6s · O brasileiro despreza o conhecimento | Olavo de Carvalh
+[11:22:55] [248/1050] OK Z8xYuF891WI 77 palavras · legenda automática (pt-orig) · 5.7s · O brasileiro despreza o conhecimento | Olavo de Carvalh
+[11:23:11] [249/1050] OK 6w-it-X63jo 109 palavras · legenda automática (pt-orig) · 6.2s · O homem maduro | Olavo de Carvalho
+[11:23:27] [250/1050] OK 1IwhtZJtRuw 877 palavras · legenda automática (pt-orig) · 6.4s · A REVOLUÇÃO mais perigosa da humanidade | Olavo de Carv
+[11:23:37] — lote 250/1050 · pausa 60.0s —
+[11:24:43] [251/1050] OK yyHkdTuIIw0 129 palavras · legenda automática (pt-orig) · 6.0s · A verdade sobre a pobreza | Olavo de Carvalho
+[11:24:59] [252/1050] OK DZluiTQHz5Y 126 palavras · legenda automática (pt-orig) · 5.4s · A nova religião mundial | Olavo de Carvalho
+[11:25:15] [253/1050] OK lm31dlNeBFI 5122 palavras · legenda automática (pt-orig) · 6.2s · Isso é o que acontece quando os idiotas mandam no mundo
+[11:25:31] [254/1050] OK i_tp3MtQcfc 114 palavras · legenda automática (pt-orig) · 5.7s · Gostar de ler é vício | Olavo de Carvalho
+[11:25:46] [255/1050] OK dza_u64Ea44 114 palavras · legenda automática (pt-orig) · 5.4s · O poeta domina a métrica | Olavo de Carvalho
+[11:26:02] [256/1050] OK Hs3bC9h8F9c 172 palavras · legenda automática (pt-orig) · 5.9s · O Estado está destruindo a sua religião | Olavo de Carv
+[11:26:18] [257/1050] OK QIQJdwY6fEk 195 palavras · legenda automática (pt-orig) · 5.7s · O feto é um ser humano? | Olavo de Carvalho
+[11:26:33] [258/1050] OK -RKkB1w6U7Q 189 palavras · legenda automática (pt-orig) · 5.9s · A verdade sobre a ciência | Olavo de Carvalho
+[11:26:50] [259/1050] OK q9wWPcpJgcs 1652 palavras · legenda automática (pt-orig) · 6.3s · O progresso tecnológico expandiu a miséria social  | Ol
+[11:27:07] [260/1050] OK VV1Hd0eeC-8 76 palavras · legenda automática (pt-orig) · 6.7s · Não vão conseguir barrar o cara | Olavo de Carvalho
+[11:27:17] — lote 260/1050 · pausa 60.0s —
+[11:28:22] [261/1050] OK JedONtDnIbY 89 palavras · legenda automática (pt-orig) · 5.4s · Não vão conseguir barrar o cara | Olavo de Carvalho
+[11:28:38] [262/1050] OK nEctiMDWoJU 141 palavras · legenda automática (pt-orig) · 5.6s · A decadente alfabetização no Brasil | Olavo de Carvalho
+[11:28:55] [263/1050] OK 2pQoegTWByg 2724 palavras · legenda automática (pt-orig) · 6.9s · A harmonia é o fundamento do conhecimento humano | Olav
+[11:29:11] [264/1050] OK q3eSLd5nhqM 136 palavras · legenda automática (pt-orig) · 6.0s · Ciência VS Religião | Olavo de Carvalho
+[11:29:26] [265/1050] OK mydKg3zRPtw 122 palavras · legenda automática (pt-orig) · 5.7s · O choque entre ciência e realidade | Olavo de Carvalho
+[11:29:42] [266/1050] OK ASVsCR-6uFM 1137 palavras · legenda automática (pt-orig) · 6.2s · Deus fala com a gente através da realidade | Olavo de C
+[11:29:58] [267/1050] OK MKvbedQZty4 132 palavras · legenda automática (pt-orig) · 5.7s · Você é budista e não sabe | Olavo de Carvalho
+[11:30:14] [268/1050] OK 2bJhdBn_KSE 183 palavras · legenda automática (pt-orig) · 5.9s · O conceito não é uma realidade vida | Olavo de Carvalho
+[11:30:30] [269/1050] OK eR4s0SQd30U 2482 palavras · legenda automática (pt-orig) · 6.2s · Quanto vale o seu bichinho de estimação? | Olavo de Car
+[11:30:46] [270/1050] OK UKWZcpL0AIk 149 palavras · legenda automática (pt-orig) · 5.8s · A realidade é infinita, a Ciência é limitada | Olavo de
+[11:30:56] — lote 270/1050 · pausa 60.0s —
+[11:32:02] [271/1050] OK OfOJSxGlhvQ 2619 palavras · legenda automática (pt-orig) · 5.9s · Por que a Ciência Moderna é tão subjetiva? | Olavo de C
+[11:32:18] [272/1050] OK QEyp6kx4Jjw 129 palavras · legenda automática (pt-orig) · 5.9s · A ética ecológica é letal | Olavo de Carvalho
+[11:32:33] [273/1050] OK xWvhfYzOTIY 103 palavras · legenda automática (pt-orig) · 5.6s · Os capitalistas odeiam os índios? | Olavo de Carvalho
+[11:32:50] [274/1050] OK SvS_8kfl1Jw 1926 palavras · legenda automática (pt-orig) · 6.3s · Quando os homens passaram a servir os animais | Olavo d
+[11:33:05] [275/1050] OK PU_mwBakA1Q 173 palavras · legenda automática (pt-orig) · 5.6s · A esquerda ocupa tudo através da cultura | Olavo de Car
+[11:33:21] [276/1050] OK ECFVLUe1BNw 186 palavras · legenda automática (pt-orig) · 6.0s · A nossa luta é espiritual | Olavo de Carvalho
+[11:33:37] [277/1050] OK P97Q5eZgU5Y 2132 palavras · legenda automática (pt-orig) · 5.8s · O Brasil tem salvação? | Olavo de Carvalho
+[11:33:53] [278/1050] OK SzfRnMIrlI8 187 palavras · legenda automática (pt-orig) · 6.1s · O intelectual não busca conforto | Olavo de Carvalho
+[11:34:10] [279/1050] OK Cfpm3rHEPQY 5469 palavras · legenda automática (pt-orig) · 6.2s · O plano secreto de islamização do Ocidente | Olavo de C
+[11:34:25] [280/1050] OK pdwpjDWJVqw 103 palavras · legenda automática (pt-orig) · 6.0s · Como sobreviver no Brasil? | Olavo de Carvalho
+[11:34:36] — lote 280/1050 · pausa 60.0s —
+[11:35:41] [281/1050] OK N9zwPqD9lWw 144 palavras · legenda automática (pt-orig) · 5.7s · A metafísica do hinduísmo | Olavo de Carvalho
+[11:35:58] [282/1050] OK UrAOKvlWg64 1325 palavras · legenda automática (pt-orig) · 7.2s · Quem são os gênios do Brasil? | Olavo de Carvalho
+[11:36:15] [283/1050] OK LKXqnx-51bY 179 palavras · legenda automática (pt-orig) · 6.5s · Você é um guenoniano e não sabe? | Olavo de Carvalho
+[11:36:31] [284/1050] OK g9Zhnn1uRzU 136 palavras · legenda automática (pt-orig) · 6.2s · Globalismo e poder | Olavo de Carvalho
+[11:36:47] [285/1050] OK QefMKUZGZzQ 2657 palavras · legenda automática (pt-orig) · 5.9s · Como ser forte e encarar a sociedade | Olavo de Carvalh
+[11:37:03] [286/1050] OK gpIXFCbAOIU 4114 palavras · legenda automática (pt-orig) · 6.0s · O que acontece quando a elite quer te dominar | Olavo d
+[11:37:19] [287/1050] OK tLBgl4Ot3l4 91 palavras · legenda automática (pt-orig) · 5.9s · Igreja Católica e Globalismo| Olavo de Carvalho
+[11:37:35] [288/1050] OK vwqNzqYCZfs 140 palavras · legenda automática (pt-orig) · 6.0s · Os professores da USP são analfabetos | Olavo de Carval
+[11:37:51] [289/1050] OK L-8UVVelGEc 140 palavras · legenda automática (pt-orig) · 5.8s · A falsa intelectualidade universitária | Olavo de Carva
+[11:38:07] [290/1050] OK HARoKIUJNIU 1567 palavras · legenda automática (pt-orig) · 6.1s · As universidades destruíram a alta cultura | Olavo de C
+[11:38:17] — lote 290/1050 · pausa 60.0s —
+[11:39:23] [291/1050] OK 51oswn92sIY 122 palavras · legenda automática (pt-orig) · 5.9s · A elite brasileira é uma farsa | Olavo de Carvalho
+[11:39:39] [292/1050] OK ISEpzYHg0MI 970 palavras · legenda automática (pt-orig) · 6.5s · Você já não sabe mais o que é real | Olavo de Carvalho
+[11:39:55] [293/1050] OK Ao-YJAevDak 135 palavras · legenda automática (pt-orig) · 5.9s · Todos os professores da USP são analfabetos funcionais 
+[11:40:11] [294/1050] OK Qaf95ixJ0bY 3959 palavras · legenda automática (pt-orig) · 6.3s · Quando histórias se tornam profecias | Olavo de Carvalh
+[11:40:28] [295/1050] OK LkLAJGyvuvY 197 palavras · legenda automática (pt-orig) · 6.2s · A classe intelectual que não produz | Olavo de Carvalho
+[11:40:43] [296/1050] OK AJ1nAtifJ0s 162 palavras · legenda automática (pt-orig) · 5.7s · O primeiro intelectual do Ocidente | Olavo de Carvalho
+[11:41:00] [297/1050] OK Jkl3inQT4Vk 2350 palavras · legenda automática (pt-orig) · 7.0s · Este é o fim da Igreja Católica? | Olavo de Carvalho
+[11:41:17] [298/1050] OK fHG4Dbdd-Qg 123 palavras · legenda automática (pt-orig) · 6.2s · Esquizofrenia linguística | Olavo de Carvalho
+[11:41:32] [299/1050] OK BVA4Xk8Jqos 2359 palavras · legenda automática (pt-orig) · 5.7s · Como criamos nomes para compreender a realidade? | Olav
+[11:41:48] [300/1050] OK dL150PhDuXI 179 palavras · legenda automática (pt-orig) · 5.6s · Não se separa língua de realidade | Olavo de Carvalho
+[11:41:58] — lote 300/1050 · pausa 60.0s —
+[11:43:04] [301/1050] OK 4JWaGAi5PN8 4346 palavras · legenda automática (pt-orig) · 6.1s · As 3 forças globalistas que mandam no mundo | Olavo de 
+[11:43:20] [302/1050] OK u9rBBDSqHWE 179 palavras · legenda automática (pt-orig) · 5.6s · A linguagem é a estrutura da realidade | Olavo de Carva
+[11:43:35] [303/1050] OK o7pmngvx_Nc 133 palavras · legenda automática (pt-orig) · 5.7s · As nossas narrativas são incompletas | Olavo de Carvalh
+[11:43:51] [304/1050] OK RjXPSsho49g 1318 palavras · legenda automática (pt-orig) · 5.8s · Por que o brasileiro é pobre e escravo do prazer? | Ola
+[11:44:07] [305/1050] OK kokjI2Fgz2M 182 palavras · legenda automática (pt-orig) · 5.5s · A sua opinião é uma resposta a que pergunta? | Olavo de
+[11:44:23] [306/1050] OK q6vyNaQVA-o 1362 palavras · legenda automática (pt-orig) · 6.3s · O que fazer quando estamos cercados de imbecis? | Olavo
+[11:44:39] [307/1050] OK IGmCwL2owf4 1310 palavras · legenda automática (pt-orig) · 6.0s · A decadência da cultura brasileira ou O quê fazemos aqu
+[11:44:54] [308/1050] OK Nlm6zY7XbW4 10 palavras · legenda automática (pt-orig) · 5.5s · Um novo capítulo na história da inteligência brasileira
+[11:45:10] [309/1050] OK ghz__of0QPM 114 palavras · legenda automática (pt-orig) · 5.9s · 15 Anos do COF | Você vai sair daqui muito mais intelig
+[11:45:27] [310/1050] OK ytpzadKOrsE 137 palavras · legenda automática (pt-orig) · 6.6s · 15 Anos do COF | Uma calamidade intelectual como nunca 
+[11:45:37] — lote 310/1050 · pausa 60.0s —
+[11:46:40] [311/1050] SEM ACESSO qSB6y3KdKwM (incorporação restrita; tentar outro método)
+[11:46:46] [312/1050] OK GE5m6sC0xSM 112 palavras · legenda automática (pt-orig) · 5.8s · 15 Anos do COF | A ideia do Seminário de Filosofia
+[11:46:59] [313/1050] SEM ACESSO MnzI7ClNIas (incorporação restrita; tentar outro método)
+[11:47:05] [314/1050] OK 21-xpVywGDY 137 palavras · legenda automática (pt-orig) · 5.5s · 15 Anos do COF | O começo da sua verdadeira vocação
+[11:47:21] [315/1050] OK fjOb6umh28I 24 palavras · legenda automática (pt-orig) · 5.7s · 15 Anos do COF | Estreia hoje às 20h
+[11:47:37] [316/1050] OK 86P0f-dy1K8 229 palavras · legenda automática (pt-orig) · 6.0s · Um acervo de conhecimentos sem paralelo no mundo | Espe
+[11:47:52] [317/1050] OK CYh8sF_Zgmw 83 palavras · legenda automática (pt-orig) · 5.7s · A inteligência é a única arma que você tem | Especial d
+[11:48:08] [318/1050] OK sHzQLjp3MKo 77 palavras · legenda automática (pt-orig) · 5.9s · Últimas horas | Especial de 15 anos do COF
+[11:48:24] [319/1050] OK 4O37GI8lJf4 137 palavras · legenda automática (pt-orig) · 5.5s · Só assim existe o ensino da Filosofia | Especial de 15 
+[11:48:39] [320/1050] OK _2JKJBsIsRM 79 palavras · legenda automática (pt-orig) · 5.5s · O objetivo do ensino | Especial de 15 anos do COF
+[11:48:49] — lote 320/1050 · pausa 60.0s —
+[11:49:56] [321/1050] OK UU1VQNDmk30 6209 palavras · legenda automática (pt) · 7.1s · Olavo de Carvalho - Entrevista com Stefan Basil Molyneu
+[11:50:12] [322/1050] FALHA 4qMSWlTDUKc: HTTP Error 429: Too Many Requests
+[11:50:12]   excesso de requisições (1/5) — cooldown 180s
+[11:53:26] [323/1050] SEM ACESSO G-bRw7uQ6Ns (incorporação restrita; tentar outro método)
+[11:53:32] [324/1050] OK U9yFWEdKBLg 2084 palavras · legenda automática (pt-orig) · 6.0s · Discurso de Olavo de Carvalho ao ser condecorado com a 
+[11:53:48] [325/1050] OK KtgFe5JZukY 2256 palavras · legenda automática (pt-orig) · 5.7s · Discurso do Embaixador Nestor Forster Jr.
+[11:54:04] [326/1050] OK AynOyP6BIAk 7414 palavras · legenda automática (pt-orig) · 6.8s · Conservadores não podem existir!
+[11:54:21] [327/1050] OK icRvnOQx438 7438 palavras · legenda automática (pt-orig) · 7.0s · Conversa com Casimiro de Pina - do Cabo Verde
+[11:54:37] [328/1050] OK BOJJtjw-3Go 11667 palavras · legenda automática (pt-orig) · 6.0s · Música, Filosofia & Cultura - Hangout com Olavo de Carv
+[11:54:53] [329/1050] OK dp052i8u8tc 84 palavras · legenda automática (pt-orig) · 5.8s · I Forum dos Conservadores do Nordeste
+[11:55:09] [330/1050] OK wZHmVzzWDZA 11821 palavras · legenda automática (pt-orig) · 6.1s · Hangout no IV Encontro Europeu do Seminário de Filosof
+[11:55:19] — lote 330/1050 · pausa 60.0s —
+[11:56:25] [331/1050] OK CtpIImcOQr4 7311 palavras · legenda automática (pt-orig) · 6.2s · HANGOUT com o DANIEL FERRAZ - 19 abr 19
+[11:56:42] [332/1050] OK xCfFmQiVEds 7240 palavras · legenda automática (pt-orig) · 6.3s · Olavo no Forum da Liberdade 2019
+[11:56:58] [333/1050] OK r1M9g0cHRfE 4218 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho - Terceiro Encontro Europeu do COF (P
+[11:57:15] [334/1050] OK C8iCkgXF6OM 13465 palavras · legenda automática (pt-orig) · 6.9s · Globalismo: Bastidores do Mundo | Debate entre Olavo de
+[11:57:30] [335/1050] OK i-vZqpkAKPE 1082 palavras · legenda automática (pt-orig) · 5.8s · Olavo de Carvalho no programa da Joice Hasselmann
+[11:57:46] [336/1050] OK yR0F1haQ07Y 1781 palavras · legenda automática (pt-orig) · 5.9s · Segunda conversa de Olavo de Carvalho e Flavia Tavares
+[11:58:02] [337/1050] OK ugpo9Odsex0 11332 palavras · legenda automática (pt-orig) · 6.0s · LIVE :  OLAVO, LACOMBE E ALLAN
+[11:58:18] [338/1050] OK OYrJSwbVgFM 2586 palavras · legenda automática (pt-orig) · 6.0s · Se você amar a Deus, você ama o próximo | Olavo de Carv
+[11:58:35] [339/1050] OK vtMRr-C_0ao 183 palavras · legenda automática (pt-orig) · 6.5s · O que significa falar com o coração? | Olavo de Carvalh
+[11:58:52] [340/1050] OK fV144QgJpIQ 1523 palavras · legenda automática (pt-orig) · 7.1s · Percepção: a única dimensão verdadeiramente humana | Ol
+[11:59:02] — lote 340/1050 · pausa 60.0s —
+[12:00:08] [341/1050] OK N2-Al_ECB2I 913 palavras · legenda automática (pt-orig) · 6.2s · O mundo seria melhor se não tivesse tanta gente querend
+[12:00:25] [342/1050] OK eYrbX4yqCG4 712 palavras · legenda automática (pt-orig) · 6.3s · O amor é o desejo de Eternidade do ser amado | Olavo de
+[12:00:41] [343/1050] OK efeZO-_PUhg 959 palavras · legenda automática (pt-orig) · 5.9s · Hegemonia intelectual dos alunos de Olavo | Olavo de Ca
+[12:00:56] [344/1050] OK aeAmSXGHSrU 162 palavras · legenda automática (pt-orig) · 5.7s · Não se deixe cegar pelo sistema | Olavo de Carvalho
+[12:01:12] [345/1050] OK sjL2xEQ551I 681 palavras · legenda automática (pt-orig) · 5.9s · Como encontrar a própria voz | Olavo de Carvalho
+[12:01:28] [346/1050] OK eNHhxzDjOK8 231 palavras · legenda automática (pt-orig) · 5.8s · O poder da Confissão para o encontro da própria voz | O
+[12:01:44] [347/1050] OK BUV5u5Ch6m0 110 palavras · legenda automática (pt-orig) · 6.0s · A misericórdia de Deus | Olavo de Carvalho
+[12:02:00] [348/1050] OK ahNSUklkElI 1769 palavras · legenda automática (pt-orig) · 5.7s · Olavo de Carvalho - Torres Gêmeas
+[12:02:14] [349/1050] SEM LEGENDA Oc7Nzi1bfCQ · Olavo de Carvalho - Véia dos Gatos
+[12:02:20] [350/1050] OK 2cshnIg4CnE 1567 palavras · legenda automática (pt-orig) · 6.0s · Olavo de Carvalho - Véia dos Gatos Parte II
+[12:02:30] — lote 350/1050 · pausa 60.0s —
+[12:03:36] [351/1050] OK eOEHhwN_ULU 838 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho - Nunca houve democracia no Oriente M
+[12:03:51] [352/1050] OK vrV60VK6aPQ 2456 palavras · legenda automática (pt-orig) · 5.6s · Olavo de Carvalho - Ideologia de gênero e dissonância c
+[12:04:07] [353/1050] FALHA PksauAdgbwI: HTTP Error 429: Too Many Requests
+[12:04:07]   excesso de requisições (1/5) — cooldown 180s
+[12:07:25] [354/1050] OK ehjCZYDOoE0 262 palavras · legenda automática (pt-orig) · 7.9s · Olavo de Carvalho - URSAL, doze anos depois
+[12:07:41] [355/1050] OK 2Yuxx-4mmZM 1229 palavras · legenda automática (pt-orig) · 5.8s · Olavo de Carvalho - Ditadura escancarada e obscena
+[12:07:56] [356/1050] OK l6YIJAH0z4w 1677 palavras · legenda automática (pt-orig) · 5.4s · Olavo de Carvalho - Sacanagem universal
+[12:08:12] [357/1050] OK YQB60Qnr_VE 1580 palavras · legenda automática (pt-orig) · 5.6s · Olavo de Carvalho - Sacanagem universal II
+[12:08:28] [358/1050] OK LHVIArPAbLo 1222 palavras · legenda automática (pt-orig) · 6.0s · Olavo de Carvalho - Jumentice universitária
+[12:08:44] [359/1050] OK _VwXE2A0lIU 608 palavras · legenda automática (pt-orig) · 6.2s · Olavo de Carvalho - Jumentice universitária II
+[12:09:00] [360/1050] OK -ztc_j1VwQ0 1402 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho - Como salvar a educação no Brasil
+[12:09:10] — lote 360/1050 · pausa 60.0s —
+[12:10:16] [361/1050] OK DO7fraOiGMc 1550 palavras · legenda automática (pt-orig) · 6.2s · Olavo de Carvalho - A maior fraude religiosa de todos o
+[12:10:35] [362/1050] OK N02U_kidfE8 1755 palavras · legenda automática (pt-orig) · 9.1s · Olavo de Carvalho - Bolsonaro e os assassinos coitadinh
+[12:10:52] [363/1050] OK Qg7kEpY4amw 84 palavras · legenda automática (pt-orig) · 6.5s · Olavo de Carvalho - Mensagem para o Jair Bolsonaro
+[12:11:08] [364/1050] OK vqXI40Qg5os 3767 palavras · legenda automática (pt-orig) · 6.5s · Olavo de Carvalho - Acordem, conservinhas
+[12:11:24] [365/1050] OK Px52qSmdQs8 1611 palavras · legenda automática (pt-orig) · 6.1s · Olavo de Carvalho - O aviso mais importante que já dei 
+[12:11:40] [366/1050] OK JJiLaXw-w1Q 763 palavras · legenda automática (pt-orig) · 5.5s · Olavo De Carvalho - Ele sim, porra!
+[12:11:57] [367/1050] OK V9RwyHkGWMg 2849 palavras · legenda automática (pt-orig) · 7.1s · Olavo de Carvalho - Importando mentiras contra o Bolson
+[12:12:13] [368/1050] OK JPTGdXEtotU 3370 palavras · legenda automática (pt-orig) · 6.1s · Olavo de Carvalho - Por que voto em Joice Hasselmann
+[12:12:30] [369/1050] OK 4WeiU2dglcQ 1051 palavras · legenda automática (pt-orig) · 7.2s · Olavo de Carvalho - Fora, Jungmann!
+[12:12:46] [370/1050] OK JH4X5B5bf1U 137 palavras · legenda automática (pt-orig) · 5.4s · Mensagem ao nosso Capitão e a quem quer que goste dele
+[12:12:56] — lote 370/1050 · pausa 60.0s —
+[12:14:02] [371/1050] OK _JlbjvHgryg 1470 palavras · legenda automática (pt-orig) · 6.1s · Olavo de Carvalho - Globo, quadrilha de vigaristas.
+[12:14:17] [372/1050] OK A-4XZ-D_Phw 105 palavras · legenda automática (pt-orig) · 5.6s · Alô, Capitão
+[12:14:33] [373/1050] OK sUGeHHOEqmQ 2616 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho - Fake news ou verdade dolorida?
+[12:14:50] [374/1050] OK xO6iiFhRypo 5353 palavras · legenda automática (pt-orig) · 6.3s · Por que não quero ser ministro da Educação
+[12:15:06] [375/1050] OK wh9B4SCbWxI 848 palavras · legenda automática (pt-orig) · 6.3s · Olavo de Carvalho - Eu no governo?
+[12:15:22] [376/1050] OK 91846rIFmY4 2462 palavras · legenda automática (pt-orig) · 5.6s · Privacidade no ensino público?
+[12:15:38] [377/1050] OK rNYhYOvR0VQ 390 palavras · legenda automática (pt-orig) · 5.8s · Democracia, o caralho
+[12:15:54] [378/1050] FALHA qySuenfRkDk: HTTP Error 429: Too Many Requests
+[12:15:54]   excesso de requisições (1/5) — cooldown 180s
+[12:19:10] [379/1050] OK QGtuaDZiTpk 1714 palavras · legenda automática (pt-orig) · 6.3s · Presentinho para o Arruinaldo
+[12:19:26] [380/1050] OK TAIStMD2wto 98 palavras · legenda automática (pt-orig) · 5.8s · Mais presentinhos
+[12:19:36] — lote 380/1050 · pausa 60.0s —
+[12:20:42] [381/1050] OK Js7xh_F9ymg 112 palavras · legenda automática (pt-orig) · 6.2s · Olavo de Carvalho convida para Marcha para a Vida dia 2
+[12:20:59] [382/1050] OK Kxd6YRHyM7A 2544 palavras · legenda automática (pt-orig) · 6.8s · Vigarices de Ruy Fausto – Parte 1
+[12:21:16] [383/1050] OK VzWwYkWqGNE 6373 palavras · legenda automática (pt-orig) · 7.1s · Vigarices de Ruy Fausto 2
+[12:21:32] [384/1050] OK 4yTukT1K9ps 1227 palavras · legenda automática (pt-orig) · 5.7s · Explicaçãozinha
+[12:21:48] [385/1050] OK 42FRg-s6IxQ 3808 palavras · legenda automática (pt-orig) · 6.0s · Folha: campeã de vigarice - Parte 1
+[12:22:03] [386/1050] OK Uh14QIzhvzc 1873 palavras · legenda automática (pt-orig) · 5.9s · Folha: campeã de vigarice - Parte 2
+[12:22:17] [387/1050] SEM LEGENDA 4-tdiX2S8g8 · Olavo de Carvalho - A farsa da America's Quarterly
+[12:22:23] [388/1050] OK esB1QabKz8E 242 palavras · legenda automática (pt-orig) · 5.7s · Páginas falsas em nome de Olavo de Carvalho
+[12:22:39] [389/1050] OK ZUDAWbXCVdQ 4206 palavras · legenda automática (pt-orig) · 6.1s · Desenhando a explicação : Hawking e Darwin
+[12:22:55] [390/1050] OK 5rI_C02H6gQ 815 palavras · legenda automática (pt-orig) · 6.0s · Lembrete indispensável
+[12:23:05] — lote 390/1050 · pausa 60.0s —
+[12:24:11] [391/1050] OK ONqaXpen7gs 653 palavras · legenda automática (pt-orig) · 6.3s · Urgente e gravíssimo
+[12:24:27] [392/1050] OK Po4pNxWWAHc 1857 palavras · legenda automática (pt-orig) · 6.2s · Olavo de Carvalho - Pondé, o mentiroso
+[12:24:44] [393/1050] OK JiR3weDyOvM 805 palavras · legenda automática (pt-orig) · 6.2s · Bravo, ministro Moro!
+[12:25:00] [394/1050] OK vOdxGDMzS2Q 1063 palavras · legenda automática (pt-orig) · 6.0s · Resposta a Débora Diniz
+[12:25:16] [395/1050] OK 9UOe97CqHKg 724 palavras · legenda automática (pt-orig) · 6.0s · A verdade sobre Paulo Guedes
+[12:25:33] [396/1050] OK kTDUtAaO41I 292 palavras · legenda automática (pt-orig) · 7.0s · Olavo de Carvalho - Grupo Olavista, o caraio
+[12:25:48] [397/1050] SEM LEGENDA _MXI0EO5-3k · Mourão se desdiz e nem percebe
+[12:25:53] [398/1050] OK REfNVmdh0Uk 2002 palavras · legenda automática (pt-orig) · 5.7s · Bobocas anpóficos
+[12:26:09] [399/1050] OK cbIK2XGvB9M 1451 palavras · legenda automática (pt-orig) · 6.0s · Que é o PT ao contrário?
+[12:26:26] [400/1050] OK 2ejk315PiAI 4934 palavras · legenda automática (pt-orig) · 6.4s · Analfanpófios
+[12:26:36] — lote 400/1050 · pausa 60.0s —
+[12:27:42] [401/1050] OK 1JPodyNSprI 1348 palavras · legenda automática (pt-orig) · 6.1s · Educação Emburrecedora 2
+[12:27:58] [402/1050] OK hpfDpwTVtxY 543 palavras · legenda automática (pt-orig) · 6.0s · Democracia Sem Povo
+[12:28:14] [403/1050] OK R969JitHrHY 4208 palavras · legenda automática (pt-orig) · 6.5s · Safatlezas
+[12:28:30] [404/1050] OK bIRElzmxw0o 435 palavras · legenda automática (pt-orig) · 6.1s · A missão do Eduardo Bolsonaro
+[12:28:46] [405/1050] OK 4X7ST0aQ-Ho 625 palavras · legenda automática (pt-orig) · 5.5s · A Direita Suicida   1
+[12:29:02] [406/1050] OK fBsJh12JysQ 629 palavras · legenda automática (pt-orig) · 6.0s · A direita suicida 2
+[12:29:18] [407/1050] OK -p7WjzB499U 1098 palavras · legenda automática (pt-orig) · 5.8s · A direita suicida 3
+[12:29:34] [408/1050] OK 646QNAKkztw 1598 palavras · legenda automática (pt-orig) · 6.0s · A direita suicida 4
+[12:29:50] [409/1050] OK -56mh7dzyno 912 palavras · legenda automática (pt-orig) · 6.0s · Gênios! Agora descobriram o Foro de São Paulo
+[12:30:05] [410/1050] SEM LEGENDA ZQd7KyRHa9o · Mais merda na Fôia
+[12:30:11] [411/1050] FALHA 1xrYpXPObdo: HTTP Error 429: Too Many Requests
+[12:30:11]   excesso de requisições (1/5) — cooldown 180s
+[12:33:25] [412/1050] SEM LEGENDA dssZLzi70Ro · Caranguejos no balde - 2
+[12:33:29] [413/1050] SEM LEGENDA v33TUmHFdXc · Caranguejos no balde - 3 (fim)
+[12:33:34] [414/1050] OK NStv0qKt7MY 850 palavras · legenda automática (pt-orig) · 5.6s · Subintelectuais de direita
+[12:33:50] [415/1050] OK 9Bsyw75Nlc8 834 palavras · legenda automática (pt-orig) · 5.9s · Circulação das idéias
+[12:34:06] [416/1050] OK b6K21dvhP8c 1925 palavras · legenda automática (pt-orig) · 6.0s · Problemas do ministro Moro - 1
+[12:34:22] [417/1050] OK NvOO_RuvQT8 949 palavras · legenda automática (pt-orig) · 5.9s · Problemas do ministro Moro - 2
+[12:34:39] [418/1050] OK EjxC0-SrBoc 3171 palavras · legenda automática (pt-orig) · 6.9s · Dois assuntos da semana
+[12:34:56] [419/1050] OK CLJapSO3ByA 543 palavras · legenda automática (pt-orig) · 6.9s · A mídia incita a um golpe de Estado
+[12:35:14] [420/1050] OK aATDUe8sgIA 1183 palavras · legenda automática (pt-orig) · 8.1s · Comentários ao vídeo do Lilo - 1
+[12:35:24] — lote 420/1050 · pausa 60.0s —
+[12:36:30] [421/1050] OK _y0L60E9XnA 484 palavras · legenda automática (pt-orig) · 5.9s · Comentáros ao vídeo do Lilo - 2
+[12:36:46] [422/1050] OK AkdxMZOUcK4 2658 palavras · legenda automática (pt-orig) · 6.1s · Todo apoio ao Bolsonaro
+[12:37:02] [423/1050] OK WmExeRDNvZw 2093 palavras · legenda automática (pt-orig) · 6.2s · Desenhando a explicação : Que é militância?
+[12:37:18] [424/1050] OK tdMlVx7a0Fs 367 palavras · legenda automática (pt-orig) · 6.1s · Rebelião militar ou garganteio comunista?
+[12:37:34] [425/1050] OK eZBIXuXSnKw 243 palavras · legenda automática (pt-orig) · 6.0s · Rebelião militar ou garganteio comunista - 2
+[12:37:50] [426/1050] OK 1kUn9ZB9Exs 1059 palavras · legenda automática (pt-orig) · 5.6s · O reino dos analfabetos funcionais
+[12:38:06] [427/1050] OK p-dcgkeUNqU 860 palavras · legenda automática (pt-orig) · 5.9s · Curso relâmpago de marxismo para Manuela Dávila
+[12:38:21] [428/1050] OK ztZByeTtpE4 238 palavras · legenda automática (pt-orig) · 5.8s · Bobocas palpiteiros
+[12:38:37] [429/1050] OK 3ZvYZUdD6yc 1570 palavras · legenda automática (pt-orig) · 5.9s · Discussões impossíveis
+[12:38:51] [430/1050] SEM LEGENDA W9LhcISFKSw · Esclarecimentinho
+[12:38:57] [431/1050] OK s0f-09eMjO0 970 palavras · legenda automática (pt-orig) · 6.2s · Natal 2019
+[12:39:14] [432/1050] OK 4WxLd1Kt89Y 3763 palavras · legenda automática (pt-orig) · 6.3s · A Direita se Destruindo
+[12:39:30] [433/1050] OK o0FSCeRXF2Y 2862 palavras · legenda automática (pt-orig) · 6.4s · A Força da Mentira - 18 fev 20
+[12:39:46] [434/1050] OK TqxIJ-9q6kM 675 palavras · legenda automática (pt-orig) · 6.0s · CORONA VÍRUS : CONFUSÕES DE ADULTINHOS
+[12:40:03] [435/1050] FALHA CkT_5AuaZTA: HTTP Error 429: Too Many Requests
+[12:40:03]   excesso de requisições (1/5) — cooldown 180s
+[12:43:18] [436/1050] OK nGCfxN8Sbms 168 palavras · legenda automática (pt-orig) · 5.9s · Viva o Bolsonaro!
+[12:43:36] [437/1050] OK rn_y-ZI_iiQ 1848 palavras · legenda automática (pt-orig) · 7.3s · Aviso horripilante para o presidente da República, seus
+[12:43:53] [438/1050] OK N74Yh8Qk6w8 1234 palavras · legenda automática (pt-orig) · 7.1s · Defesa da lei e da ordem?
+[12:44:09] [439/1050] OK nXNholwo7go 1098 palavras · legenda automática (pt-orig) · 6.0s · Adendo à aula 521 06 06 2020
+[12:44:25] [440/1050] OK YJAoO04ZgUY 353 palavras · legenda automática (pt-orig) · 5.9s · Picareta 07 06 2020 às 02 58
+[12:44:35] — lote 440/1050 · pausa 60.0s —
+[12:45:41] [441/1050] OK U0RmqcW1vuY 349 palavras · legenda automática (pt-orig) · 6.0s · Estadão de bosta 07 06 2020
+[12:45:57] [442/1050] OK 1hoDnwOjNIA 316 palavras · legenda automática (pt-orig) · 6.2s · Erudição ou Difamação?
+[12:46:16] [443/1050] OK Sq2lqs-uJeA 574 palavras · legenda automática (pt-orig) · 8.6s · Ao Alexandre Garcia
+[12:46:32] [444/1050] OK _ChN54bUCdI 194 palavras · legenda automática (pt-orig) · 6.1s · Ao Alexandre Garcia - 2
+[12:46:47] [445/1050] OK rwmbeagH5MM 613 palavras · legenda automática (pt-orig) · 5.8s · ESPORRO 2
+[12:47:04] [446/1050] OK TxMyMm2KoM8 254 palavras · legenda automática (pt-orig) · 6.1s · Adendo ao esporro 2
+[12:47:20] [447/1050] OK eTFJf3BeaQI 545 palavras · legenda automática (pt-orig) · 6.2s · Entenderam agora?
+[12:47:36] [448/1050] OK 8ZEfmbk4VZs 1729 palavras · legenda automática (pt-orig) · 5.8s · SEGUNDO APELO 21 06 2020
+[12:47:51] [449/1050] OK h6rvv7YHqzk 1408 palavras · legenda automática (pt-orig) · 5.9s · Resposta ao Aldo Rebelo  04 07 2020
+[12:48:07] [450/1050] OK iTWOmAwK5gI 505 palavras · legenda automática (pt-orig) · 5.9s · Resposta ao Aldo Rebelo - 2
+[12:48:17] — lote 450/1050 · pausa 60.0s —
+[12:49:23] [451/1050] OK 83X63FqBSMQ 3527 palavras · legenda automática (pt-orig) · 5.8s · Novidades em livros
+[12:49:39] [452/1050] OK s-YFcGeXsVo 10697 palavras · legenda automática (pt-orig) · 5.9s · STF e a Ideologia de gênero: como chegamos a essa situa
+[12:49:53] [453/1050] SEM LEGENDA cBVUy1fDPMQ · Thais Oyama, VTNC
+[12:49:59] [454/1050] OK tvtci1uCXS0 1257 palavras · legenda automática (pt-orig) · 5.9s · Resposta ao Zé-Migué
+[12:50:15] [455/1050] OK f5Bl2jiCEIg 869 palavras · legenda automática (pt-orig) · 6.1s · Generais canalhas
+[12:50:31] [456/1050] OK ZlYegWIP2lo 70 palavras · legenda automática (pt-orig) · 6.0s · Avante, Eduardo!
+[12:50:47] [457/1050] OK wAWk0H9mZ-w 3756 palavras · legenda automática (pt-orig) · 6.1s · Amor e imortalidade 06 12 2020
+[12:51:03] [458/1050] OK unMpVTz3mVE 8183 palavras · legenda automática (pt-orig) · 6.2s · Trapaceiros
+[12:51:19] [459/1050] OK NmqA1w8EAls 932 palavras · legenda automática (pt-orig) · 5.7s · Trapaceiros - 2
+[12:51:35] [460/1050] OK vlaglyYklhQ 9036 palavras · legenda automática (pt-orig) · 6.1s · Cheaters
+[12:51:45] — lote 460/1050 · pausa 60.0s —
+[12:52:51] [461/1050] OK kVurAqfyOZw 119 palavras · legenda automática (pt-orig) · 6.0s · Aos senadores argentinos
+[12:53:07] [462/1050] OK HMRTAV6MD4U 517 palavras · legenda automática (pt-orig) · 5.9s · Esporro monumental na direita nacional
+[12:53:21] [463/1050] SEM LEGENDA 3WN1Lq6uBB8 · Por que a direita só se funhanha
+[12:53:27] [464/1050] OK TjByhJIiaak 5037 palavras · legenda automática (pt-orig) · 6.6s · Ciência e falsa ciência
+[12:53:43] [465/1050] OK _YSvUzCXqRQ 1183 palavras · legenda automática (pt-orig) · 5.9s · Mentirosos e falsos cristãos
+[12:53:58] [466/1050] SEM LEGENDA eroRqCr5GWw · A verdadeira direita burra
+[12:54:02] [467/1050] SEM LEGENDA aGsPJ9-qBCI · Teorema de Picágoras
+[12:54:09] [468/1050] OK V3AojUXNfAE 15005 palavras · legenda automática (pt-orig) · 6.5s · Vejam o que é um "professor emérito" na USP. É o padrão
+[12:54:22] [469/1050] SEM ACESSO k2zaD5KRCp8 (incorporação restrita; tentar outro método)
+[12:54:25] [470/1050] SEM ACESSO YjCGRMKqt4I (incorporação restrita; tentar outro método)
+[12:54:28] [471/1050] SEM ACESSO HD87s5EqgDc (incorporação restrita; tentar outro método)
+[12:54:32] [472/1050] SEM ACESSO HYrsYrA7an0 (incorporação restrita; tentar outro método)
+[12:54:35] [473/1050] SEM ACESSO _y6lrUY_y_g (incorporação restrita; tentar outro método)
+[12:54:39] [474/1050] SEM ACESSO sID2DRYjNJc (incorporação restrita; tentar outro método)
+[12:54:42] [475/1050] SEM ACESSO I1ghkPFb90E (incorporação restrita; tentar outro método)
+[12:54:45] [476/1050] SEM ACESSO OlZP736Dvko (incorporação restrita; tentar outro método)
+[12:54:51] [477/1050] FALHA _xxxcOOS-d8: HTTP Error 429: Too Many Requests
+[12:54:51]   excesso de requisições (1/5) — cooldown 180s
+[12:58:07] [478/1050] OK vESSlog0kZ0 6 palavras · legenda automática (pt) · 6.0s · Promoção de Ano Novo
+[12:58:21] [479/1050] SEM ACESSO iBy559jYXE0 (incorporação restrita; tentar outro método)
+[12:58:27] [480/1050] OK C0TUsKluhok 13329 palavras · legenda automática (pt-orig) · 6.2s · Flavia Tavares entrevista Olavo de Carvalho
+[12:58:37] — lote 480/1050 · pausa 60.0s —
+[12:59:43] [481/1050] OK fLsz972bJBs 6841 palavras · legenda automática (pt-orig) · 5.8s · Entrevista à Timeline Gaúcha   01 11 2018
+[12:59:59] [482/1050] OK PO26qaRR8cM 6445 palavras · legenda automática (pt-orig) · 6.1s · Entrevista à Carta Capetal
+[13:00:15] [483/1050] OK 0pMO9J1SSI4 13456 palavras · legenda automática (pt-orig) · 6.0s · Entrevista à Folha de SP 26 11 2018
+[13:00:31] [484/1050] OK Xo9yBrU411Q 6438 palavras · legenda automática (pt-orig) · 6.2s · A ENTREVISTA QUE A VEJA ESCONDEU - Parte 1
+[13:00:48] [485/1050] OK k6O3L5ZkWmI 11235 palavras · legenda automática (pt-orig) · 6.5s · A ENTREVISTA QUE A VEJA ESCONDEU - Parte 2
+[13:01:04] [486/1050] OK rym4Rjv6adA 1751 palavras · legenda automática (pt-orig) · 5.9s · Entrevista de Olavo de Carvalho para Jennifer Thalis do
+[13:01:20] [487/1050] OK GEnoRvqH-zQ 3299 palavras · legenda automática (pt-orig) · 6.3s · Entrevista ao Jornal do Commercio do Recife - Parte 2
+[13:01:36] [488/1050] OK xuVoZ5tKDz0 12193 palavras · legenda automática (pt-orig) · 6.4s · Os Pingos nos Is   Entrevista especial com Olavo de Car
+[13:01:52] [489/1050] OK GEa1U4qlmto 10522 palavras · legenda automática (pt-orig) · 6.1s · Entrevista à Leda Nagle - 27 dez.. 2018
+[13:02:06] [490/1050] SEM LEGENDA vsBZJqcpjhY · ENTREVISTA AO PEDRO BIAL – 10 ABR 2019
+[13:02:12] [491/1050] OK rT8XEUAKAP8 3025 palavras · legenda automática (pt-orig) · 6.0s · ENTREVISTA ao DANIEL LOPEZ 18 abr 19
+[13:02:28] [492/1050] OK A4tM9zmfKIg 4215 palavras · legenda automática (pt-orig) · 6.4s · ENTREVISTA ao DANIEL LOPEZ - PARTE 2
+[13:02:44] [493/1050] OK t3dSBw2rHtg 1555 palavras · legenda automática (pt-orig) · 6.0s · ENTREVISTA ao DANIEL LOPEZ - PARTE 3 - COMO A VERDADEIR
+[13:03:01] [494/1050] OK e9ja_Ts4olA 720 palavras · legenda automática (pt-orig) · 6.2s · Boris Casoy entrevista o escritor Olavo de Carvalho
+[13:03:16] [495/1050] OK B8PhgBOK8Cs 5 palavras · legenda automática (pt-orig) · 5.9s · CRÍTICA NACIONAL ENTREVISTA PROFESSOR OLAVO DE CARVALH
+[13:03:33] [496/1050] OK gC5OHtqZm_Y 10425 palavras · legenda automática (pt-orig) · 6.2s · Olavo de Carvalho - Entrevista à Crítica Nacional
+[13:03:49] [497/1050] OK 9nP70R1JaWw 6342 palavras · legenda automática (pt-orig) · 5.9s · Simulacro Podcast entrevista Olavo de Carvalho
+[13:04:07] [498/1050] OK f-A6vJ9ME6M 10674 palavras · legenda automática (pt-orig) · 8.2s · Entrevista ao Repórter Fernando de Castro)
+[13:04:20] [499/1050] SEM LEGENDA R7fqKqrprm0 · Entrevista ao Grobo 14 fev 20
+[13:04:27] [500/1050] OK 2wowDaMt7Tc 11520 palavras · legenda automática (pt-orig) · 6.2s · Entrevista ao Adrilles Jorge 12 03 2020 - versão COMPLE
+[13:04:37] — lote 500/1050 · pausa 60.0s —
+[13:05:43] [501/1050] OK eHQ28leV1ns 10154 palavras · legenda automática (pt-orig) · 6.3s · Nova Entrevista à Leda Nagle
+[13:06:00] [502/1050] OK 1aIep5e_294 18365 palavras · legenda automática (pt-orig) · 7.2s · Entrevista ao Instituto Borborema: literatura e autocon
+[13:06:17] [503/1050] OK CjvUvYpG9cA 10168 palavras · legenda automática (pt-orig) · 7.1s · Entrevista à Jovem Pan
+[13:06:33] [504/1050] FALHA dt3RPMkRjlo: HTTP Error 429: Too Many Requests
+[13:06:33]   excesso de requisições (1/5) — cooldown 180s
+[13:09:49] [505/1050] OK 4SqpdfkumEo 2159 palavras · legenda automática (pt-orig) · 5.9s · Reflexões sobre A MORAL por Olavo de Carvalho
+[13:10:05] [506/1050] OK vQUzZNOkhOw 214 palavras · legenda automática (pt-orig) · 5.8s · O moralismo atual não é culpa da Igreja Católica | Olav
+[13:10:21] [507/1050] OK gUpInrdXnvY 820 palavras · legenda automática (pt-orig) · 6.0s · Olavo de Carvalho sobre quem manda no mundo
+[13:10:37] [508/1050] OK 13PlQcREyjo 178 palavras · legenda automática (pt-orig) · 6.1s · Centralização do poder na Modernidade | Olavo de Carval
+[13:10:54] [509/1050] OK s_2cyJAOnus 231 palavras · legenda automática (pt-orig) · 6.8s · Voto de pobreza em matéria de opinião | Olavo de Carval
+[13:11:10] [510/1050] OK f1uY4eYAcBA 1556 palavras · legenda automática (pt-orig) · 6.1s · A educação no Brasil é emburrecedora | Olavo de Carvalh
+[13:11:20] — lote 510/1050 · pausa 60.0s —
+[13:12:26] [511/1050] OK vVQu3dVhHXo 233 palavras · legenda automática (pt-orig) · 5.9s · O brasileiro e a crença no dinheiro | Olavo de Carvalho
+[13:12:42] [512/1050] OK Rz49mTIgyxo 847 palavras · legenda automática (pt-orig) · 5.8s · O desastre educacional brasileiro
+[13:12:58] [513/1050] OK mC0JGT7t4uQ 195 palavras · legenda automática (pt-orig) · 6.0s · Não temos que elogiar o brasileiro | Olavo de Carvalho
+[13:13:14] [514/1050] OK AEeoFSkloow 1061 palavras · legenda automática (pt-orig) · 5.8s · As pessoas estão moralmente lesadas | Olavo de Carvalho
+[13:13:30] [515/1050] OK 9vHZPMOf3H0 216 palavras · legenda automática (pt-orig) · 5.9s · Estilo literário e a arte da confissão | Olavo de Carva
+[13:13:45] [516/1050] OK BRYvIf9OJVo 126 palavras · legenda automática (pt-orig) · 5.7s · O ponto de partida para compreender a leitura | Olavo d
+[13:14:01] [517/1050] OK t3b1c6N2o1A 952 palavras · legenda automática (pt-orig) · 5.7s · Você realmente conhece as pessoas que você ama? | Olavo
+[13:14:17] [518/1050] OK HdtL46nHo7Q 476 palavras · legenda automática (pt-orig) · 6.0s · A força real que determina o futuro do Brasil | Olavo d
+[13:14:33] [519/1050] OK bS-YpAqTnPA 173 palavras · legenda automática (pt-orig) · 6.0s · Mede-se um país pela sua cultura, não pela economia | O
+[13:14:49] [520/1050] OK aPsOpeF9XNY 356 palavras · legenda automática (pt-orig) · 6.2s · A Educação do Brasil ignora completamente a realidade |
+[13:14:59] — lote 520/1050 · pausa 60.0s —
+[13:16:05] [521/1050] OK L9YcRcE7eBU 162 palavras · legenda automática (pt-orig) · 5.7s · Comece os estudos a partir disso | Olavo de Carvalho
+[13:16:21] [522/1050] OK 9sDSrMhZRLo 233 palavras · legenda automática (pt-orig) · 5.8s · Nunca tive uma proposta política | Olavo de Carvalho
+[13:16:37] [523/1050] OK g-JYRe-HhNk 114 palavras · legenda automática (pt-orig) · 5.9s · Honestidade intelectual | Olavo de Carvalho
+[13:16:52] [524/1050] OK u5XMYmyeEK8 552 palavras · legenda automática (pt-orig) · 5.8s · A evolução da linguagem no Brasil é DECADENTE | Olavo d
+[13:17:08] [525/1050] OK iP6wX_Wuzq4 99 palavras · legenda automática (pt-orig) · 5.9s · A linguagem brasileira está quebrada | Olavo de Carvalh
+[13:17:24] [526/1050] OK gmcQXIpVmOw 462 palavras · legenda automática (pt-orig) · 5.9s · Nenhum trabalho vai atrapalhar sua vida de estudos | Ol
+[13:17:40] [527/1050] OK QrXICFFsJ4o 111 palavras · legenda automática (pt-orig) · 5.7s · Ame o seu trabalho | Olavo de Carvalho
+[13:17:56] [528/1050] OK xqN_3OHl5cw 1127 palavras · legenda automática (pt-orig) · 5.9s · Um filósofo consagra a sua vida à busca do esclarecimen
+[13:18:12] [529/1050] OK YkZmXX2AdDM 130 palavras · legenda automática (pt-orig) · 5.8s · Formando filósofos de verdade | Olavo de Carvalho
+[13:18:27] [530/1050] OK Ddq2A8kvv4Y 1952 palavras · legenda automática (pt-orig) · 5.7s · A importância da literatura para o Seminário de Filosof
+[13:18:37] — lote 530/1050 · pausa 60.0s —
+[13:19:43] [531/1050] OK ReFIc1AKsJo 131 palavras · legenda automática (pt-orig) · 5.7s · A importância da Literatura | Olavo de Carvalho
+[13:19:59] [532/1050] OK 1-G2IfwMi-w 642 palavras · legenda automática (pt-orig) · 5.8s · Como o Globalismo quer destruir a sua família | Olavo d
+[13:20:15] [533/1050] OK ZAN5ntAxUWE 107 palavras · legenda automática (pt-orig) · 5.9s · A única Filosofia que serve | Olavo de Carvalho
+[13:20:30] [534/1050] OK 5_S4gG2GLMY 127 palavras · legenda automática (pt-orig) · 5.7s · Especial Prometam Ser | Trailer Oficial
+[13:20:46] [535/1050] OK fKQzVzLhGNo 112 palavras · legenda automática (pt-orig) · 5.7s · Mundo da falsidade, mentira e convenções sociais | Espe
+[13:21:02] [536/1050] OK eSJCKdqd-do 142 palavras · legenda automática (pt-orig) · 6.0s · A resposta de Olavo sobre ser um Filósofo Profissional
+[13:21:15] [537/1050] SEM ACESSO W4rNjzkmfzI (incorporação restrita; tentar outro método)
+[13:21:22] [538/1050] OK 8bcsI6UNDRM 1434 palavras · legenda automática (pt-orig) · 6.5s · O que separa quem sabe do que fala de quem só enrola | 
+[13:21:38] [539/1050] OK fB1mylw4WYg 1844 palavras · legenda automática (pt-orig) · 6.3s · A explicação que acaba com a desculpa "eu não consegui 
+[13:21:54] [540/1050] OK NOT_DAS6LYk 1313 palavras · legenda automática (pt-orig) · 6.2s · A prova científica de que sua consciência não está no s
+[13:22:04] — lote 540/1050 · pausa 60.0s —
+[13:23:10] [541/1050] OK rZyrCUroJUk 1846 palavras · legenda automática (pt-orig) · 5.9s · Por que um Deus bom teria que criar um mundo imperfeito
+[13:23:26] [542/1050] OK bpk6lgwRlWw 1410 palavras · legenda automática (pt-orig) · 6.3s · Por que o ateísmo protestante e o ateísmo judaico são o
+[13:23:43] [543/1050] OK zoQoAdxBYn4 1733 palavras · legenda automática (pt-orig) · 6.2s · Os verdadeiros donos da história | Olavo de Carvalho
+[13:24:00] [544/1050] OK Cxy4_HeLo6c 2142 palavras · legenda automática (pt-orig) · 7.4s · A contradição que ninguém percebe no Iluminismo | Olavo
+[13:24:16] [545/1050] OK AE8osx2q-ds 1492 palavras · legenda automática (pt-orig) · 6.3s · Por que Sócrates ainda controla como você pensa, 2.400 
+[13:24:32] [546/1050] OK ASWQDsl4gS4 1856 palavras · legenda automática (pt-orig) · 6.1s · A origem soviética da antipsiquiatria que ninguém te co
+[13:24:49] [547/1050] OK TTjIEPPTmLA 2085 palavras · legenda automática (pt-orig) · 6.3s · Nazismo e comunismo se alimentaram um do outro, mostra 
+[13:25:05] [548/1050] OK oSUPNvGLaeY 1670 palavras · legenda automática (pt-orig) · 6.0s · Marx estava errado sobre o valor do trabalho | Olavo de
+[13:25:21] [549/1050] OK Gl8fFUgC2y0 880 palavras · legenda automática (pt-orig) · 6.0s · O sistema de mentiras que o brasileiro aceita como verd
+[13:25:37] [550/1050] OK aFOTSOpTPfM 2681 palavras · legenda automática (pt-orig) · 6.5s · Tudo o que te ensinaram sobre o inconsciente está errad
+[13:25:47] — lote 550/1050 · pausa 60.0s —
+[13:26:53] [551/1050] OK Ap-7ieDfx_o 1942 palavras · legenda automática (pt-orig) · 6.1s · O brasileiro tem obrigação de enriquecer? | Olavo de Ca
+[13:27:09] [552/1050] OK FcgffQeMF3A 1905 palavras · legenda automática (pt-orig) · 6.2s · Por que é impossível ter SUS grátis e fim da desigualda
+[13:27:26] [553/1050] OK WnMfMGyECeo 1974 palavras · legenda automática (pt-orig) · 6.5s · A tese sobre sexo e casamento que incomoda religiosos |
+[13:27:43] [554/1050] OK EtCl9Gnt2d8 1701 palavras · legenda automática (pt-orig) · 6.6s · Por que todos querem controlar a consciência | Olavo de
+[13:27:59] [555/1050] OK q_ZD-iFSuRY 3318 palavras · legenda automática (pt-orig) · 6.2s · O maior escândalo intelectual do século| Olavo de Carva
+[13:28:15] [556/1050] OK TWg6hMDKDHs 1811 palavras · legenda automática (pt-orig) · 6.3s · Por que o Brasil odeia e destrói quem é mais inteligent
+[13:28:32] [557/1050] OK li9GuyX-1rY 623 palavras · legenda automática (pt-orig) · 7.1s · A Luta de Classes é uma Invenção Louca de Karl Marx | O
+[13:28:49] [558/1050] OK FH65_mvYcWc 662 palavras · legenda automática (pt-orig) · 7.1s · O erro de separar os escritores por ideologia | Olavo d
+[13:29:05] [559/1050] OK qhkzzutkgus 1306 palavras · legenda automática (pt-orig) · 6.0s · Você não sabe dizer o que sente | Olavo de Carvalho
+[13:29:21] [560/1050] OK AOwkxlqf66M 1293 palavras · legenda automática (pt-orig) · 5.9s · A contradição que você engoliu e como ela bloqueia seu 
+[13:29:31] — lote 560/1050 · pausa 60.0s —
+[13:30:38] [561/1050] OK Kt9-QWIcLMo 4578 palavras · legenda automática (pt-orig) · 6.5s · O argumento que acaba com o sistema de Kant | Olavo de 
+[13:30:54] [562/1050] OK W-7QrVkWKrk 2526 palavras · legenda automática (pt-orig) · 6.4s · O segredo da alma que todo mundo entende errado | Olavo
+[13:31:10] [563/1050] OK 2-oypfKm5f0 1650 palavras · legenda automática (pt-orig) · 6.3s · Por que viramos escravos das nossas idéias | Olavo de C
+[13:31:27] [564/1050] OK 0rFQ1OF6ZXU 3733 palavras · legenda automática (pt-orig) · 6.4s · A farsa dos especialistas | Olavo de Carvalho
+[13:31:43] [565/1050] OK oiLLB23S37I 1516 palavras · legenda automática (pt-orig) · 6.2s · Por que sua autoimagem pode ser uma mentira | Olavo de 
+[13:31:59] [566/1050] OK xRRPbKipCxk 2748 palavras · legenda automática (pt-orig) · 6.1s · O que a psicologia não explica | Olavo de Carvalho
+[13:32:15] [567/1050] OK 5CBoAeUGUSs 2367 palavras · legenda automática (pt-orig) · 6.0s · O verdadeiro motivo da depressão moderna | Olavo de Car
+[13:32:31] [568/1050] OK 65moLoZw-JU 1659 palavras · legenda automática (pt-orig) · 6.1s · Como o Brasil perdeu contato com a realidade | Olavo de
+[13:32:47] [569/1050] OK TWntHTvdDqM 1303 palavras · legenda automática (pt-orig) · 6.1s · Três séculos de filosofia moderna: erros elegantes sem 
+[13:33:05] [570/1050] OK -lqXJH_g2xg 3429 palavras · legenda automática (pt-orig) · 7.2s · Honduras, Brasil, Bolívia: o roteiro que se repete e qu
+[13:33:15] — lote 570/1050 · pausa 60.0s —
+[13:34:20] [571/1050] OK PHbUr92f1Ds 2279 palavras · legenda automática (pt-orig) · 5.9s · A hóstia que sangrou: história miraculosa analisada nas
+[13:34:37] [572/1050] OK B44kIaPoO40 1072 palavras · legenda automática (pt-orig) · 6.4s · Por que o impulso de opinar é mais forte no brasileiro 
+[13:34:53] [573/1050] OK MBa6IQohUVw 1729 palavras · legenda automática (pt-orig) · 6.4s · O Brasil afundou intelectualmente antes de afundar poli
+[13:35:09] [574/1050] OK A4GolQXDeAY 16 palavras · legenda automática (pt-orig) · 5.8s · Quem age por trás da história?| Olavo de Carvalho
+[13:35:25] [575/1050] OK 5z03xPAYGiQ 1363 palavras · legenda automática (pt-orig) · 6.4s · O problema de opinar sem saber quem você é | Olavo de C
+[13:35:42] [576/1050] OK AYSPXIWbqRg 1607 palavras · legenda automática (pt-orig) · 6.4s · O exercício mental que ninguém faz | Olavo de Carvalho
+[13:35:58] [577/1050] OK IhtV_Iz_jbA 1097 palavras · legenda automática (pt-orig) · 6.2s · Ideias unidas pelo sangue: o que a Rússia entende e o O
+[13:36:14] [578/1050] OK V8D5_NE6GI4 3784 palavras · legenda automática (pt-orig) · 5.7s · Por que ler mais livros pode te tornar mais burro | Ola
+[13:36:30] [579/1050] OK rxKFcShEpKU 1111 palavras · legenda automática (pt-orig) · 6.1s · Como o isolamento criou a filosofia mais original do Br
+[13:36:46] [580/1050] OK i4dWLBLGZfc 1006 palavras · legenda automática (pt-orig) · 5.7s · Onde está o verdadeiro poder ?| Olavo de Carvalho
+[13:36:56] — lote 580/1050 · pausa 60.0s —
+[13:38:02] [581/1050] OK gZCYlTewNLo 883 palavras · legenda automática (pt-orig) · 6.2s · A armadilha lógica em que todo determinista cai sem per
+[13:38:18] [582/1050] OK TacCHlk3V_g 1232 palavras · legenda automática (pt-orig) · 6.1s · Por que você está estudando mas não entendendo nada| Ol
+[13:38:34] [583/1050] OK EfW4fjgVcPo 393 palavras · legenda automática (pt-orig) · 6.2s · Como todo progresso técnico resolve um problema e cria 
+[13:38:50] [584/1050] OK BOmtd0XDZNY 1279 palavras · legenda automática (pt-orig) · 6.0s · Os seis níveis do desejo humano: por que tantos falam s
+[13:39:06] [585/1050] OK FKN02lQYWW0 506 palavras · legenda automática (pt-orig) · 6.1s · A receita que todo movimento político bem-sucedido segu
+[13:39:22] [586/1050] OK 71RljgFBUxU 676 palavras · legenda automática (pt-orig) · 5.8s · A origem protestante da laicidade do Estado Moderno | O
+[13:39:38] [587/1050] OK aeNfCF17h-M 1563 palavras · legenda automática (pt-orig) · 6.0s · "A democracia não é o contrário da ditadura — ela é a c
+[13:39:54] [588/1050] OK 9AM0zxBqAtM 769 palavras · legenda automática (pt-orig) · 5.6s · E se quase tudo ao seu redor estivesse escondido? | Ola
+[13:40:10] [589/1050] OK MSr2O334WDw 661 palavras · legenda automática (pt-orig) · 6.1s · A realidade não depende da sua cabeça, porra | Olavo de
+[13:40:26] [590/1050] OK w82QT0SjlYA 445 palavras · legenda automática (pt-orig) · 6.0s · O truque intelectual que matou a realidade e deixou só 
+[13:40:36] — lote 590/1050 · pausa 60.0s —
+[13:41:42] [591/1050] OK oqoQl1EH0yg 1779 palavras · legenda automática (pt-orig) · 6.1s · Como você está fortalecendo aquilo que quer combater | 
+[13:41:58] [592/1050] OK yvTb7-4Us98 973 palavras · legenda automática (pt-orig) · 6.4s · A Reforma Protestante destruiu a única coisa que limita
+[13:42:17] [593/1050] OK UHepk89mNSo 1470 palavras · legenda automática (pt-orig) · 8.2s · Como sua imaginação pode dominar a realidade | Olavo de
+[13:42:35] [594/1050] OK sysE51udIoc 1340 palavras · legenda automática (pt-orig) · 8.2s · Como pessoas inteligentes aprendem a errar | Olavo de C
+[13:42:51] [595/1050] OK gO7jLPa5T5A 1081 palavras · legenda automática (pt-orig) · 6.0s · Ideias opostas unidas pelo sangue: o que a mente russa 
+[13:43:07] [596/1050] OK cqL1PFdZ-4w 1127 palavras · legenda automática (pt-orig) · 6.2s · Não existe direita no Brasil | Olavo de Carvalho
+[13:43:23] [597/1050] OK JbZTrf_d-Fg 1636 palavras · legenda automática (pt-orig) · 6.2s · O erro que leva à depressão  | Olavo de Carvalho
+[13:43:39] [598/1050] OK SfV9nbBDO-Y 975 palavras · legenda automática (pt-orig) · 5.7s · O erro universal que está na base de toda confusão inte
+[13:43:55] [599/1050] OK NDZCSvojxeM 685 palavras · legenda automática (pt-orig) · 5.8s · O método invisível que altera seu comportamento | Olavo
+[13:44:11] [600/1050] OK E8V1PuhsgeA 760 palavras · legenda automática (pt-orig) · 6.0s · O plano global para tirar o dólar do jogo | Olavo de Ca
+[13:44:21] — lote 600/1050 · pausa 60.0s —
+[13:45:27] [601/1050] OK 28ANUO4EIV8 1397 palavras · legenda automática (pt-orig) · 6.0s · Por que tirar a Dilma foi o maior erro do movimento con
+[13:45:43] [602/1050] OK rN3g_JEgSMY 650 palavras · legenda automática (pt-orig) · 5.9s · A lei que nenhum movimento político escapa  | Olavo de 
+[13:45:59] [603/1050] OK xdmJvAzJ83w 498 palavras · legenda automática (pt-orig) · 6.1s · Ninguém mais quer saber a verdade | Olavo de Carvalho
+[13:46:14] [604/1050] OK 1-4dpn8GmY8 1036 palavras · legenda automática (pt-orig) · 5.8s · Você não sabe… você só acredita (e não percebe) | Olavo
+[13:46:31] [605/1050] OK YgoJp2EVZjY 516 palavras · legenda automática (pt-orig) · 6.6s · O verdadeiro problema da escola | Olavo de Carvalho
+[13:46:48] [606/1050] OK a91liD7cK4Y 574 palavras · legenda automática (pt-orig) · 6.9s · A origem da engenharia social | Olavo de Carvalho
+[13:47:04] [607/1050] OK eNbQVWxMK9E 854 palavras · legenda automática (pt-orig) · 6.0s · A autodestruição do marxismo | Olavo de Carvalho
+[13:47:25] [608/1050] OK ESm3MYNRTiA 534 palavras · legenda automática (pt-orig) · 10.6s · Se você entendeu isso, você já se ferrou | Olavo de Car
+[13:47:40] [609/1050] OK 4IsGcxiCsvg 603 palavras · legenda automática (pt-orig) · 5.9s · Você foi treinado pra NÃO pensar | Olavo de Carvalho
+[13:47:57] [610/1050] OK z1D6qq6QiiE 819 palavras · legenda automática (pt-orig) · 6.3s · Você está debatendo e caindo no jogo deles | Olavo de C
+[13:48:07] — lote 610/1050 · pausa 60.0s —
+[13:49:13] [611/1050] OK XcfmjniZkqc 1477 palavras · legenda automática (pt-orig) · 6.0s · Se você confia na mídia, você já perdeu | Olavo de Carv
+[13:49:29] [612/1050] OK f0mK1orhYmw 703 palavras · legenda automática (pt-orig) · 6.2s · Você não pensa por conta própria | Olavo de Carvalho
+[13:49:45] [613/1050] OK d2AUPQnlu5g 398 palavras · legenda automática (pt-orig) · 6.0s · Olavo's day 2026
+[13:50:01] [614/1050] OK ZljqQNankIQ 908 palavras · legenda automática (pt-orig) · 6.2s · Quem decide o que é importante NÃO entende nada | Olavo
+[13:50:17] [615/1050] OK C9JpVcMxGCo 644 palavras · legenda automática (pt-orig) · 6.0s · O truque que transformou cientistas em novo clero | Ola
+[13:50:34] [616/1050] OK AFSMtKXh_7A 734 palavras · legenda automática (pt-orig) · 6.7s · Você foi ensinado a ver a natureza do jeito errado | Ol
+[13:50:50] [617/1050] OK fRa6Zg4BsnU 1238 palavras · legenda automática (pt-orig) · 6.1s · Você sabe onde sua liderança começa? | Olavo de Carvalh
+[13:51:10] [618/1050] OK 5mjGolG2D0g 1080 palavras · legenda automática (pt-orig) · 9.6s · Eles estão jogando em 4 frentes ao mesmo tempo | Olavo 
+[13:51:27] [619/1050] OK sYlguuMThds 1090 palavras · legenda automática (pt-orig) · 7.2s · Por que ninguém entende o que está acontecendo | Olavo 
+[13:51:43] [620/1050] OK qqp1Ex1ESP8 1202 palavras · legenda automática (pt-orig) · 6.0s · Quando a ciência te afasta da realidade | Olavo de Carv
+[13:51:53] — lote 620/1050 · pausa 60.0s —
+[13:52:59] [621/1050] OK LoJftZSLoTw 889 palavras · legenda automática (pt-orig) · 6.3s · Sua opinião não vale nada | Olavo de Carvalho
+[13:53:15] [622/1050] OK Vaoi0efFJ5M 557 palavras · legenda automática (pt-orig) · 6.0s · Kant ferrou a fé? O erro moderno que desmontou o imagin
+[13:53:31] [623/1050] OK J1QERlru5vU 1568 palavras · legenda automática (pt-orig) · 6.1s · Autoconhecimento sem Deus é ilusão | Olavo de Carvalho
+[13:53:47] [624/1050] OK uw3BlGmL79I 1237 palavras · legenda automática (pt-orig) · 6.1s · A mentira por trás das “classes sociais” | Olavo de Car
+[13:54:03] [625/1050] OK Nuz2SftFBKQ 1411 palavras · legenda automática (pt-orig) · 6.0s · A mentira silenciosa por trás de toda ideologia | Olavo
+[13:54:19] [626/1050] OK Qh3S5e6EpB8 1043 palavras · legenda automática (pt-orig) · 6.0s · O segredo obscuro por trás dos movimentos políticos | O
+[13:54:36] [627/1050] OK nWWb8lObtLY 1220 palavras · legenda automática (pt-orig) · 6.3s · Veja porque o debate público é uma farsa  | Olavo de Ca
+[13:54:52] [628/1050] OK Sm4mL8s02p8 1457 palavras · legenda automática (pt-orig) · 6.2s · Você está sendo enganado pela política| Olavo de Carval
+[13:55:08] [629/1050] OK QV_dDCVCotk 1472 palavras · legenda automática (pt-orig) · 6.0s · O erro de quem acredita na Constituição | Olavo de Carv
+[13:55:24] [630/1050] OK 501C3j25F2Q 527 palavras · legenda automática (pt-orig) · 5.9s · Por que acompanhar notícias pode estar te deixando mais
+[13:55:34] — lote 630/1050 · pausa 60.0s —
+[13:56:40] [631/1050] OK l-GWA2rrViE 642 palavras · legenda automática (pt-orig) · 6.0s · Você sabe que é mentira e mesmo assim acredita | Olavo 
+[13:56:56] [632/1050] OK _Zh6CRbYalw 1058 palavras · legenda automática (pt-orig) · 5.9s · Como o Estado virou uma máquina de moldar gente | Olavo
+[13:57:12] [633/1050] OK zW7vW5GsyN4 1226 palavras · legenda automática (pt-orig) · 6.0s · O Brasil não vai mudar no grito | Olavo de Carvalho
+[13:57:28] [634/1050] OK 1UbFt5Go6BA 823 palavras · legenda automática (pt-orig) · 6.2s · O delírio de quem se acha normal | Olavo de Carvalho
+[13:57:43] [635/1050] OK utoctkf6oD4 378 palavras · legenda automática (pt-orig) · 5.4s · Por que o Brasil discute as coisas erradas | Olavo de C
+[13:57:59] [636/1050] OK lU0Zdp1rE5E 764 palavras · legenda automática (pt-orig) · 5.8s · Quando o pensamento vira loucura | Olavo de Carvalho
+[13:58:15] [637/1050] OK -FOz2uudXRY 1056 palavras · legenda automática (pt-orig) · 6.0s · O que os seus pecados revelam sobre quem você é | Olavo
+[13:58:31] [638/1050] OK uqbOfhm-_EY 1045 palavras · legenda automática (pt-orig) · 6.0s · O país onde as palavras não significam nada | Olavo de 
+[13:58:47] [639/1050] OK gnUwomCuWss 787 palavras · legenda automática (pt-orig) · 5.9s · A palavra que “matou” o comunismo | Olavo de Carvalho
+[13:59:03] [640/1050] OK FtmdTCi9fSY 1158 palavras · legenda automática (pt-orig) · 5.8s · Como um país inteiro foi controlado pela linguagem | Ol
+[13:59:13] — lote 640/1050 · pausa 60.0s —
+[14:00:19] [641/1050] OK nWTOM7c2zjs 2686 palavras · legenda automática (pt-orig) · 6.1s · Você não entende o Cristianismo e não sabe o por que | 
+[14:00:35] [642/1050] OK wxgRGFYfIJI 1066 palavras · legenda automática (pt-orig) · 6.5s · Quando o Brasil parou de pensar por conta própria | Ola
+[14:00:52] [643/1050] OK cojV3gW19Ts 4041 palavras · legenda automática (pt-orig) · 6.1s · Enquanto Você Gritava, Alguém Planejava | Olavo de Carv
+[14:01:08] [644/1050] OK Vtn3ksCQ3MA 4087 palavras · legenda automática (pt-orig) · 5.9s · Chamam de Revolução, Mas É Obediência Cega | Olavo de C
+[14:01:24] [645/1050] OK W_92032KCfI 2849 palavras · legenda automática (pt-orig) · 6.2s · O Brasil Não Entende o Que É Pensar | Olavo de Carvalho
+[14:01:40] [646/1050] OK iAwQ06fRNm0 2886 palavras · legenda automática (pt-orig) · 6.6s · Quando a Esquerda Finge Não Saber — Começa o Jogo Pesad
+[14:01:56] [647/1050] OK hgq8Aw_53Po 3213 palavras · legenda automática (pt-orig) · 6.1s · A CIÊNCIA é mesmo a “RAINHA DA VERDADE”? | Olavo de Car
+[14:02:12] [648/1050] OK or7ph1prPeQ 3811 palavras · legenda automática (pt-orig) · 6.0s · A maior fraude no Brasil é a educação| Olavo de Carvalh
+[14:02:28] [649/1050] OK ve-8BOeM1aI 1638 palavras · legenda automática (pt-orig) · 5.7s · A estratégia revolucionária que PERDEU O CONTROLE da pr
+[14:02:44] [650/1050] OK uy4HuXKdu6g 1502 palavras · legenda automática (pt-orig) · 6.2s · Como uma palavra vira arma política | Olavo de Carvalho
+[14:02:54] — lote 650/1050 · pausa 60.0s —
+[14:04:01] [651/1050] OK PW5ftFXJVss 2446 palavras · legenda automática (pt-orig) · 6.2s · A teoria que explica POR QUE as pessoas NÃO EVOLUEM | O
+[14:04:17] [652/1050] OK UcnYyYs-Iog 2685 palavras · legenda automática (pt-orig) · 6.1s · Como FABRICAM o que você pensa sem você perceber | Olav
+[14:04:34] [653/1050] OK 4_8eXNcOGOc 2690 palavras · legenda automática (pt-orig) · 7.2s · A democracia brasileira É UMA FARSA | Olavo de Carvalho
+[14:04:50] [654/1050] OK v_o09kbI6Ao 4215 palavras · legenda automática (pt-orig) · 6.0s · O TRUQUE COGNITIVO que engana gerações | Olavo de Carva
+[14:05:06] [655/1050] OK frZRro74gHk 2487 palavras · legenda automática (pt-orig) · 5.8s · A IGUALDADE humana EXPLICADA | Olavo de Carvalho
+[14:05:21] [656/1050] OK JTGHBGdGOW4 2960 palavras · legenda automática (pt-orig) · 5.7s · Por que o ESTADO MÍNIMO é papo furado | Olavo de Carval
+[14:05:39] [657/1050] OK qoU0MFbygHw 3544 palavras · legenda automática (pt-orig) · 8.0s · A maior ARMA para calar os IDIOTAS | Olavo de Carvalho
+[14:05:56] [658/1050] OK FDrsypWdc1s 4800 palavras · legenda automática (pt-orig) · 6.4s · Por que o brasileiro CONFUNDE REALIDADE COM OPINIÃO | O
+[14:06:12] [659/1050] OK WXCayVmEoJo 2213 palavras · legenda automática (pt-orig) · 5.9s · Como a fragmentação interior está te matando aos poucos
+[14:06:26] [660/1050] SEM LEGENDA xRjmbEhr9QQ · O que você SABE mas não consegue DESCREVER | Olavo de Carval
+[14:06:32] [661/1050] OK ri2Gifo9dg0 2027 palavras · legenda automática (pt-orig) · 6.3s · COMUNISMO não é só ideologia: é CRIME organizado | Olav
+[14:06:48] [662/1050] OK XiNWDT2HrwM 3857 palavras · legenda automática (pt-orig) · 6.0s · Essa é a ÚNICA PERGUNTA que IMPORTA | Olavo de Carvalho
+[14:07:04] [663/1050] OK AHGJkBIxW-Q 3276 palavras · legenda automática (pt-orig) · 6.0s · Você NÃO É o que você PENSA | Olavo de Carvalho
+[14:07:20] [664/1050] OK OHP3mhr9FGc 3582 palavras · legenda automática (pt-orig) · 6.2s · Como MAIS DIREITOS podem gerar MENOS LIBERDADE | Olavo 
+[14:07:36] [665/1050] OK eirKsXW8VI4 2037 palavras · legenda automática (pt-orig) · 6.2s · Como a LINGUAGEM quebrou o MONOPÓLIO POLÍTICO no Brasil
+[14:07:52] [666/1050] OK RIFW-_iwhsk 1966 palavras · legenda automática (pt-orig) · 5.8s · O PROBLEMA de VIVER como um PERSONAGEM | Olavo de Carva
+[14:08:08] [667/1050] OK qhKZBkO0svI 1310 palavras · legenda automática (pt-orig) · 5.9s · Como mídia, justiça e partidos MENTEM juntos | Olavo de
+[14:08:24] [668/1050] OK hWHyzMRdqQk 2810 palavras · legenda automática (pt-orig) · 5.7s · Como o Brasil produz idiotas convictos | Olavo de Carva
+[14:08:41] [669/1050] OK 0Ut6V8VIV0E 4180 palavras · legenda automática (pt-orig) · 6.8s · Quando o poder perde o pudor | Olavo de Carvalho
+[14:08:58] [670/1050] OK CO7ISFhzH8A 2322 palavras · legenda automática (pt-orig) · 7.4s · Como nascem as verdadeiras culturas | Olavo de Carvalho
+[14:09:08] — lote 670/1050 · pausa 60.0s —
+[14:10:14] [671/1050] OK hQmR3cMDd8c 2651 palavras · legenda automática (pt-orig) · 6.0s · A mentira sobre comunismo, globalismo e poder | Olavo d
+[14:10:30] [672/1050] OK OFGEts6ne_Q 2721 palavras · legenda automática (pt-orig) · 5.8s · Como o brasileiro confunde moral com aparência | Olavo 
+[14:10:46] [673/1050] OK -mn-MxEsk5o 2382 palavras · legenda automática (pt-orig) · 6.3s · O truque que torna a revolução impune| Olavo de Carvalh
+[14:11:02] [674/1050] OK V1lE1khCL7I 3815 palavras · legenda automática (pt-orig) · 6.0s · Maquiavel que ninguém leu e todo mundo repete| Olavo de
+[14:11:18] [675/1050] OK rh99yBiEroU 1918 palavras · legenda automática (pt-orig) · 5.7s · Por que a ciência jamais explicará o sentido da vida| O
+[14:11:34] [676/1050] OK CODgSnXRAbQ 1753 palavras · legenda automática (pt-orig) · 6.1s · As camadas que decidem quem obedece e quem manda| Olavo
+[14:11:50] [677/1050] OK TjB7WwJ9miQ 1692 palavras · legenda automática (pt-orig) · 6.4s · A mentira que você conta para si mesmo | Olavo de Carva
+[14:12:07] [678/1050] OK 5LvhpKy0NBI 3381 palavras · legenda automática (pt-orig) · 6.4s · A armadilha das campanhas mundiais | Olavo de Carvalho
+[14:12:23] [679/1050] OK NNqfml-ivl8 2126 palavras · legenda automática (pt-orig) · 6.0s · Marx: ódio, mentira e farsa intelectual  | Olavo de Car
+[14:12:39] [680/1050] OK _47puI6btxM 3007 palavras · legenda automática (pt-orig) · 6.3s · Como o Brasil enterra seus intelectuais | Olavo de Carv
+[14:12:49] — lote 680/1050 · pausa 60.0s —
+[14:13:57] [681/1050] OK oA76m8haP5o 1139 palavras · legenda automática (pt-orig) · 8.1s · A verdade sobre a ignorância do brasileiro | Olavo de C
+[14:14:13] [682/1050] OK PVMxRurTXWY 3132 palavras · legenda automática (pt-orig) · 5.7s · A origem da guerra contra a verdade | Olavo de Carvalho
+[14:14:29] [683/1050] OK dbGgCszyojk 2816 palavras · legenda automática (pt-orig) · 6.0s · Democracia, Estado, Ideologia:o mecanismo invisível que
+[14:14:45] [684/1050] OK LEXrDrhtS5I 2154 palavras · legenda automática (pt-orig) · 6.2s · Por que a eucaristia é um escândalo | Olavo de Carvalho
+[14:15:01] [685/1050] OK 5XEndTjfkGg 2319 palavras · legenda automática (pt-orig) · 5.8s · A origem das confusões morais modernas | Olavo de Carva
+[14:15:17] [686/1050] OK Sph4rTOEUVc 2993 palavras · legenda automática (pt-orig) · 6.2s · A doutrina mais perigosa de todos os tempos| Olavo de C
+[14:15:33] [687/1050] OK BddxF2duyig 3269 palavras · legenda automática (pt-orig) · 6.3s · Como a religião burguesa está te empurrando para o infe
+[14:15:49] [688/1050] OK 1EFZjIHzeqc 3042 palavras · legenda automática (pt-orig) · 5.9s · Como o Brasil destruiu a educação e fabricou militantes
+[14:16:06] [689/1050] OK Lwfs_QTYdgA 4626 palavras · legenda automática (pt-orig) · 6.2s · O segredo por trás do discurso contra o preconceito | O
+[14:16:21] [690/1050] OK HJa1dOVcMyY 2315 palavras · legenda automática (pt-orig) · 5.8s · A ILUSÃO que MOLDA a sua vida | Olavo de Carvalho
+[14:16:31] — lote 690/1050 · pausa 60.0s —
+[14:17:37] [691/1050] OK csJazdojivY 1772 palavras · legenda automática (pt-orig) · 6.1s · Por que a maioria das pessoas age como criança mesmo de
+[14:17:54] [692/1050] OK RPouSFirIhw 1644 palavras · legenda automática (pt-orig) · 6.1s · O invisível que molda sua mente sem que você perceba| O
+[14:18:11] [693/1050] OK 34Xqc4DNwH8 1888 palavras · legenda automática (pt-orig) · 7.1s · O erro que está DESTRUINDO uma GERAÇÃO de ALUNOS | Olav
+[14:18:28] [694/1050] OK gFM0a0Ly88s 1353 palavras · legenda automática (pt-orig) · 7.0s · Como TODA “justiça social” cria NOVOS INJUSTIÇADOS | Ol
+[14:18:44] [695/1050] OK ULuu7ygRjiQ 2838 palavras · legenda automática (pt-orig) · 6.2s · Filosofia da PEQUENEZ: por que a vida PARECE TÃO VAZIA 
+[14:19:00] [696/1050] OK OAqT9rVbByk 1434 palavras · legenda automática (pt-orig) · 5.6s · Como o New Age moldou a sua mente | Olavo de Carvalho
+[14:19:16] [697/1050] OK eBHs2awHk7M 2216 palavras · legenda automática (pt-orig) · 6.0s · Você quer auto ajuda, não amadurecer | Olavo de Carvalh
+[14:19:32] [698/1050] OK XKAePZjI26M 4356 palavras · legenda automática (pt-orig) · 6.1s · Conspirações, maçons e analfabetos funcionais: a farsa 
+[14:19:48] [699/1050] OK BbEq4UK_h4U 3431 palavras · legenda automática (pt-orig) · 6.2s · Como recuperar o controle da sua vida | Olavo de Carval
+[14:20:04] [700/1050] OK 7hiC3beQkFw 4461 palavras · legenda automática (pt-orig) · 5.9s · A filosofia que colocou o homem no trono | Olavo de Car
+[14:20:14] — lote 700/1050 · pausa 60.0s —
+[14:21:20] [701/1050] OK AcHyYxzqEfI 3903 palavras · legenda automática (pt-orig) · 6.2s · O que a neurociência tenta explicar e não consegue | Ol
+[14:21:36] [702/1050] OK 9nQBQrrYkUU 2250 palavras · legenda automática (pt-orig) · 5.9s · A ruína da cultura e o colapso da interpretação | Olavo
+[14:21:52] [703/1050] OK GRaXqNwFqxQ 2322 palavras · legenda automática (pt-orig) · 6.2s · O método educativo que formou gênios | Olavo de Carvalh
+[14:22:08] [704/1050] OK F8jDVIBQigs 2757 palavras · legenda automática (pt-orig) · 6.0s · Como a elite intelectual sabotou o Ocidente| Olavo de C
+[14:22:24] [705/1050] OK weh39NK1HZ8 1442 palavras · legenda automática (pt-orig) · 6.2s · A verdade que a ciência nunca poderá tocar | Olavo de C
+[14:22:41] [706/1050] OK kzE7MTyEq0c 2855 palavras · legenda automática (pt-orig) · 6.1s · Por que os PROBLEMAS DO BRASIL são cada vez mais PROFUN
+[14:22:57] [707/1050] OK GDboRGrlcK0 2903 palavras · legenda automática (pt-orig) · 6.2s · “Por que a LIBERDADE é mais PERIGOSA que o mal?” | Olav
+[14:23:13] [708/1050] OK tu9MdWGGJV8 2793 palavras · legenda automática (pt-orig) · 6.1s · Como a educação moderna DESTRUIU a capacidade de pensar
+[14:23:29] [709/1050] OK v1pPRi5i-4Y 2661 palavras · legenda automática (pt-orig) · 6.1s · Como destruíram a inteligência brasileira? | Olavo de C
+[14:23:45] [710/1050] OK NeT2qpHyml8 1013 palavras · legenda automática (pt-orig) · 6.2s · O que a oração revela sobre você | Olavo de Carvalho
+[14:23:55] — lote 710/1050 · pausa 60.0s —
+[14:25:01] [711/1050] OK kOwC1rVV5ok 986 palavras · legenda automática (pt-orig) · 6.2s · Esse é o poder oculto que domina o Brasil | Olavo de Ca
+[14:25:17] [712/1050] OK oi_GotAjS04 1536 palavras · legenda automática (pt-orig) · 6.2s · Por que DISCUTIR com COMUNISTAS é inútil e PERIGOSO | O
+[14:25:33] [713/1050] OK wYVj7cLigIo 1519 palavras · legenda automática (pt-orig) · 6.0s · O maior truque da história: fazer você achar que pensa 
+[14:25:49] [714/1050] OK O24uKl_3cYQ 1890 palavras · legenda automática (pt-orig) · 5.7s · “VOCÊ NÃO ENTENDEU DEUS”: o erro mais comum entre crent
+[14:26:05] [715/1050] OK _584UCT8KKY 2905 palavras · legenda automática (pt-orig) · 6.3s · O Brasil não foi destruído pelo comunismo, foi pela bur
+[14:26:22] [716/1050] OK 9hSn4y64tRs 2568 palavras · legenda automática (pt-orig) · 6.1s · Como o pensamento moderno destruiu a verdade | Olavo de
+[14:26:38] [717/1050] OK y7b5NFHZ4nA 2470 palavras · legenda automática (pt-orig) · 6.2s · Morra para o mundo e descubra quem você é de verdade | 
+[14:26:54] [718/1050] OK t_bJALxxE-s 1923 palavras · legenda automática (pt-orig) · 6.1s · Como a esquerda virou refém da própria burrice | Olavo 
+[14:27:10] [719/1050] OK J_s_u20V4B4 1374 palavras · legenda automática (pt-orig) · 6.1s · Quem realmente manda no Brasil  | Olavo de Carvalho
+[14:27:27] [720/1050] OK gFOEqIoKATY 1956 palavras · legenda automática (pt-orig) · 7.1s · Como o Brasil foi desarmado e entregue de bandeja ao in
+[14:27:37] — lote 720/1050 · pausa 60.0s —
+[14:28:43] [721/1050] OK ktXzjHlySK0 2069 palavras · legenda automática (pt-orig) · 6.3s · Doutores do nada: a elite intelectual que só existe no 
+[14:28:59] [722/1050] OK bDfZwVjAQx4 2324 palavras · legenda automática (pt-orig) · 6.0s · Não É Conspiração, É Administração | Olavo de Carvalho
+[14:29:16] [723/1050] OK fo7HuH5FxGs 1929 palavras · legenda automática (pt-orig) · 6.4s · Quem são os RELIGIOSOS QUE ODEIAM A DEUS | Olavo de Car
+[14:29:32] [724/1050] OK Pl2eKqnpd4w 996 palavras · legenda automática (pt-orig) · 6.0s · O TRUQUE que APAGA a HISTÓRIA | Olavo de Carvalho
+[14:29:48] [725/1050] OK 1LuMCSIwJww 1835 palavras · legenda automática (pt-orig) · 5.9s · BRASIL: a nação do “NÃO FUI EU” | Olavo de Carvalho
+[14:30:04] [726/1050] OK wehYRT-YN8A 1390 palavras · legenda automática (pt-orig) · 6.1s · Cristãos que PERDERAM o instinto da VERDADE | Olavo de 
+[14:30:20] [727/1050] OK 7v6e8mpTClY 1613 palavras · legenda automática (pt-orig) · 5.9s · A crise cognitiva que devora a política| Olavo de Carva
+[14:30:36] [728/1050] OK toE7KNkGUEg 1342 palavras · legenda automática (pt-orig) · 6.1s · “Esse é o MAIOR PROBLEMA do Brasil” | Olavo de Carvalho
+[14:30:52] [729/1050] OK uk-4O_qv8Rg 1237 palavras · legenda automática (pt-orig) · 5.9s · A DOENÇA INVISÍVEL do Brasil: INCAPACIDADE prática e IN
+[14:31:08] [730/1050] OK CEDf-uyfUdI 1758 palavras · legenda automática (pt-orig) · 5.9s · A MENTIRA do combate a CORRUPÇÃO no Brasil | Olavo de C
+[14:31:18] — lote 730/1050 · pausa 60.0s —
+[14:32:35] [731/1050] OK aySR-vS8NR8 1062 palavras · legenda automática (pt-orig) · 17.1s · Analfabetismo funcional: a doença que matou a inteligên
+[14:32:51] [732/1050] OK sZc5rZgDB6Q 965 palavras · legenda automática (pt-orig) · 6.0s · “Eles POSAM DE INTELECTUAIS, ocupam cargos e falam com 
+[14:33:07] [733/1050] OK fFQifemVJx4 1924 palavras · legenda automática (pt-orig) · 5.8s · “Você vive num MUNDO FALSO” | Olavo de Carvalho
+[14:33:22] [734/1050] OK GfDY4G47Fco 1614 palavras · legenda automática (pt-orig) · 5.7s · Como slogans e chavões ESCRAVIZAM a sua mente | OLAVO D
+[14:33:37] [735/1050] SEM LEGENDA ND4nqOModtk · O Brasil vive uma ALUCINAÇÃO COLETIVA | Olavo de Carvalho
+[14:33:43] [736/1050] OK _7gq3DX9OcA 1154 palavras · legenda automática (pt-orig) · 6.2s · A lógica esquizofrênica que domina a esquerda brasileir
+[14:33:59] [737/1050] OK FPFQPOl399c 1948 palavras · legenda automática (pt-orig) · 6.4s · Como psicopatas controlam a militância | Olavo de Carva
+[14:34:16] [738/1050] OK 8AjMPcE91pA 2773 palavras · legenda automática (pt-orig) · 6.5s · DO CORÃO AO PROTESTANTISMO: essa é a influência que NIN
+[14:34:32] [739/1050] OK wzLbjKaOBH8 1617 palavras · legenda automática (pt-orig) · 6.4s · Como o ESTADO destruiu a INTIMIDADE e SEQUESTROU a FAMÍ
+[14:34:49] [740/1050] OK 4QMNuA3RDUs 756 palavras · legenda automática (pt-orig) · 6.3s · O GRANDE ERRO dos pais modernos | Olavo de Carvalho
+[14:34:59] — lote 740/1050 · pausa 60.0s —
+[14:36:06] [741/1050] OK llWgQhgUMHc 1572 palavras · legenda automática (pt-orig) · 7.0s · O colapso intelectual do Brasil | Olavo de Carvalho
+[14:36:22] [742/1050] OK 5V8Pajd0tpI 722 palavras · legenda automática (pt-orig) · 6.4s · O comunismo infiltrado na mídia | Olavo de Carvalho
+[14:36:38] [743/1050] OK uiQ0S77gS-8 661 palavras · legenda automática (pt-orig) · 5.5s · O pior problema do mundo | Olavo de Carvalho
+[14:36:53] [744/1050] OK F9reKJsTo8E 390 palavras · legenda automática (pt-orig) · 5.7s · O que realmente te move?| Olavo de Carvalho
+[14:37:09] [745/1050] OK AMOUZmJ6lQo 641 palavras · legenda automática (pt-orig) · 5.9s · A mentira mortal da psicologia moderna | Olavo de Carva
+[14:37:25] [746/1050] OK rUcETOAu0r4 738 palavras · legenda automática (pt-orig) · 6.3s · A verdadeira CATÁSTROFE no Brasil| Olavo de Carvalho
+[14:37:41] [747/1050] OK oqovuB4pqoY 746 palavras · legenda automática (pt-orig) · 5.8s · Por que a EDUCAÇÃO BRASILEIRA é um DESASTRE? | Olavo de
+[14:37:57] [748/1050] OK Usc--hutrLQ 521 palavras · legenda automática (pt-orig) · 5.9s · Como SUAS PRÓPRIAS ideias estão te FERRANDO em silêncio
+[14:38:13] [749/1050] OK kVJTZXHzi7E 391 palavras · legenda automática (pt-orig) · 5.9s · Cristo, mártires e a DIVINIZAÇÃO do homem | OLAVO DE CA
+[14:38:29] [750/1050] OK V37Jn8lTjQI 405 palavras · legenda automática (pt-orig) · 6.0s · A maldição da patota eterna | Olavo de Carvalho
+[14:38:39] — lote 750/1050 · pausa 60.0s —
+[14:39:45] [751/1050] OK -KkFxMR_F3Q 443 palavras · legenda automática (pt-orig) · 6.0s · A VERDADE que vai DESTRUIR as suas ILUSÕES | Olavo de C
+[14:40:01] [752/1050] OK -oq5dJeUuAE 218 palavras · legenda automática (pt-orig) · 6.0s · Como Kant se perdeu no labirinto da razão? | Olavo de C
+[14:40:17] [753/1050] OK FI-C01TDEfo 501 palavras · legenda automática (pt-orig) · 6.0s · Intelectuais de Merda: A Farsa da Universidade | Olavo 
+[14:40:33] [754/1050] OK oHPkKRud3vQ 807 palavras · legenda automática (pt-orig) · 6.0s · Medo, interesse ou manipulação: a verdade por trás da o
+[14:40:50] [755/1050] OK Moe_mE3KAO8 659 palavras · legenda automática (pt-orig) · 6.8s · O ERRO FATAL dos defensores da fé | OLAVO DE CARVALHO
+[14:41:06] [756/1050] OK qKTmirwB6uc 520 palavras · legenda automática (pt-orig) · 6.1s · A verdade escondida | Olavo de Carvalho
+[14:41:22] [757/1050] OK ihrsgMt7tOM 567 palavras · legenda automática (pt-orig) · 6.0s · O que  | Olavo de Carvalho
+[14:41:38] [758/1050] OK NxUkO8slDpA 728 palavras · legenda automática (pt-orig) · 6.0s · Eu fui mais DISCRIMINADO na FAVELA por ler LIVROS do qu
+[14:41:54] [759/1050] OK 4sKky1fscCU 457 palavras · legenda automática (pt-orig) · 6.0s · Adultos imaturos reféns da adolescência | Olavo de Carv
+[14:42:10] [760/1050] OK BU0i7TIX_Kk 418 palavras · legenda automática (pt-orig) · 5.7s · Como o brasileiro matou a sua própria ambição | Olavo d
+[14:42:20] — lote 760/1050 · pausa 60.0s —
+[14:43:26] [761/1050] OK L5QcwgpY1NI 462 palavras · legenda automática (pt-orig) · 6.1s · “Ajudem-se nisto: pratiquem o amor ao próximo” | OLAVO 
+[14:43:44] [762/1050] OK OrmlqELPuco 428 palavras · legenda automática (pt-orig) · 8.2s · ACABE com a BURRICE de uma vez por TODAS | Olavo de Car
+[14:44:00] [763/1050] OK Riej5mV-l6s 626 palavras · legenda automática (pt-orig) · 5.7s · O MILAGRE que faz o BRASIL funcionar | OLAVO DE CARVALH
+[14:44:15] [764/1050] OK Q0f2t0ngBkY 677 palavras · legenda automática (pt-orig) · 5.7s · NINGUÉM é DESPREZÍVEL para o outro | OLAVO DE CARVALHO
+[14:44:31] [765/1050] OK WfAkOwGyJ1U 562 palavras · legenda automática (pt-orig) · 5.9s · Ter VERBA DE PESQUISA não é sinônimo de INTELIGÊNCIA | 
+[14:44:49] [766/1050] OK g9IvLKLszeg 502 palavras · legenda automática (pt-orig) · 7.9s · O CIENTIFICISMO e a DESTRUIÇÃO do plano GLOBALISTA | Ol
+[14:45:05] [767/1050] OK R8SdfzPR2vI 804 palavras · legenda automática (pt-orig) · 6.0s · A FARSA da autoridade CIENTÍFICA | Olavo de Carvalho
+[14:45:21] [768/1050] OK MTHveqolyEw 597 palavras · legenda automática (pt-orig) · 5.9s · Essa é a ORIGEM do RESPEITO à VIDA | Olavo de Carvalho
+[14:45:37] [769/1050] OK 4rMX9jO2cK4 659 palavras · legenda automática (pt-orig) · 6.3s · Quem PAGA A CONTA dessa PALHAÇADA? | Olavo de Carvalho
+[14:45:54] [770/1050] OK f3-bO2INPvc 609 palavras · legenda automática (pt-orig) · 6.2s · “POUCO IMPORTA quem VOTOU em quem…” | OLAVO DE CARVALHO
+[14:46:04] — lote 770/1050 · pausa 60.0s —
+[14:47:10] [771/1050] OK mIi5p_YqrMQ 524 palavras · legenda automática (pt-orig) · 6.0s · Por que é tão DIFÍCIL manter o FOCO? | OLAVO DE CARVALH
+[14:47:26] [772/1050] OK pzGTvQ7dTTY 638 palavras · legenda automática (pt-orig) · 6.0s · PAIS por ACIDENTE geram filhos IMATUROS | Olavo de Carv
+[14:47:41] [773/1050] OK ClJteWSI6Zo 569 palavras · legenda automática (pt-orig) · 5.8s · A terapia SEMPRE chega TARDE DEMAIS | Olavo de Carvalho
+[14:47:57] [774/1050] OK 23cGLjvsW8c 691 palavras · legenda automática (pt-orig) · 5.9s · “Essas pessoas NÃO DEVERIAM sequer ser OUVIDAS, PORR@!”
+[14:48:15] [775/1050] OK xiRu4h9cEYk 905 palavras · legenda automática (pt-orig) · 7.4s · “Por isso o BRASIL é apenas um ECO das DECISÕES do EXTE
+[14:48:31] [776/1050] OK BDXkE1hwPDk 707 palavras · legenda automática (pt-orig) · 6.1s · Preocupam-se com a FOME e IGNORAM CRIMES muito PIORES |
+[14:48:47] [777/1050] OK T8elaTujIg4 851 palavras · legenda automática (pt-orig) · 6.2s · Você confundiu AMOR com EXIBICIONISMO | Olavo de Carval
+[14:49:03] [778/1050] OK noyOuKW_05w 1476 palavras · legenda automática (pt-orig) · 6.4s · A VERDADE sobre criar FILHOS FORTES | Olavo de Carvalho
+[14:49:20] [779/1050] OK Xuj8ixhj7qQ 906 palavras · legenda automática (pt-orig) · 6.1s · Cultivando a PAZ INTERIOR enquanto o mundo APODRECE | O
+[14:49:35] [780/1050] OK QBdGLoPvjxo 644 palavras · legenda automática (pt-orig) · 5.9s · O que OLAVO DE CARVALHO disse sobre EXPERIÊNCIAS SOBREN
+[14:49:45] — lote 780/1050 · pausa 60.0s —
+[14:50:51] [781/1050] OK cZXD5IpaP38 1012 palavras · legenda automática (pt-orig) · 5.5s · Quem NÃO SABE ficar SOZINHO, não sabe NADA | Olavo de C
+[14:51:07] [782/1050] OK pfKrow4F1Nk 493 palavras · legenda automática (pt-orig) · 5.8s · “Você NÃO PRECISA EDUCAR ninguém” | OLAVO DE CARVALHO
+[14:51:22] [783/1050] OK An2p126MV-0 765 palavras · legenda automática (pt-orig) · 5.7s · O erro que DESTRÓI seus RELACIONAMENTOS | Olavo de Carv
+[14:51:39] [784/1050] OK r33d8pshJ14 1725 palavras · legenda automática (pt-orig) · 6.1s · Fuja da FAMÍLIA e salve sua ALMA | Olavo de Carvalho
+[14:51:55] [785/1050] OK gRUso25d7BI 775 palavras · legenda automática (pt-orig) · 6.1s · Como o IMPOSTO PROGRESSIVO vai FERRAR os POBRES | Olavo
+[14:52:10] [786/1050] OK xo6lA6lUOxA 1281 palavras · legenda automática (pt-orig) · 5.5s · Como a ESTUPIDEZ musical molda o BRASIL | Olavo de Carv
+[14:52:26] [787/1050] OK LSJINWME034 1491 palavras · legenda automática (pt-orig) · 5.6s · O Brasil é BURRO, não COMUNISTA | Olavo de Carvalho
+[14:52:42] [788/1050] OK R0hSqOPNc_w 910 palavras · legenda automática (pt-orig) · 6.2s · A REALIDADE não cabe na sua CABEÇA | Olavo de Carvalho
+[14:52:58] [789/1050] OK vV4rMVXtAhw 855 palavras · legenda automática (pt-orig) · 5.9s · Quer RESPEITO e ATENÇÃO? Primeiro, APRENDA a falar | OL
+[14:53:14] [790/1050] OK jBvLFdsW-yM 325 palavras · legenda automática (pt-orig) · 6.0s · Brasileiro ODEIA gente INTELIGENTE | Olavo de Carvalho
+[14:53:24] — lote 790/1050 · pausa 60.0s —
+[14:54:30] [791/1050] OK -BPwcz7bZik 675 palavras · legenda automática (pt-orig) · 6.2s · “Eles só ODEIAM a FAMÍLIA dos OUTROS” | Olavo de Carval
+[14:54:46] [792/1050] OK 5HJfEWXV18Q 1181 palavras · legenda automática (pt-orig) · 6.1s · “Os RESPONSÁVEIS por isso deveriam estar PRESOS” | Olav
+[14:55:02] [793/1050] OK 0hOBobZb1FQ 1042 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho DENUNCIA a MANIPULAÇÃO da mídia
+[14:55:18] [794/1050] OK a4tgDPsAfXs 1242 palavras · legenda automática (pt-orig) · 5.9s · Eles querem ACABAR com a sua LIBERDADE | Olavo de Carva
+[14:55:34] [795/1050] OK nzeILzqh9bM 1714 palavras · legenda automática (pt-orig) · 5.6s · CAMADA 4: o mal que destrói o Brasil | OLAVO DE CARVALH
+[14:55:50] [796/1050] OK DduOPI6soAM 1524 palavras · legenda automática (pt-orig) · 6.1s · CULTURA não é luxo | Olavo de Carvalho
+[14:56:06] [797/1050] OK fIYi5RNCml8 1005 palavras · legenda automática (pt-orig) · 6.0s · SEDEVACANTISTA não segue os DOGMAS DA IGREJA | Olavo de
+[14:56:22] [798/1050] OK zGmHsT0HFFQ 222 palavras · legenda automática (pt-orig) · 5.8s · Como PAULO FREIRE fod** o Brasil | Olavo de Carvalho
+[14:56:38] [799/1050] OK psGadT2aCNA 831 palavras · legenda automática (pt-orig) · 5.9s · “O BRASIL está lotado de DOUTOR PEDINDO ESMOLA”  | Olav
+[14:56:53] [800/1050] OK wNmHNQN_ejk 1128 palavras · legenda automática (pt-orig) · 5.8s · Estão DESTRUINDO a EDUCAÇÃO BRASILEIRA (e ninguém se im
+[14:57:03] — lote 800/1050 · pausa 60.0s —
+[14:58:09] [801/1050] OK sfuN8JEXtG0 393 palavras · legenda automática (pt-orig) · 5.8s · Você PAGA ESCOLA CARA e o seu FILHO continua BURRO | Ol
+[14:58:25] [802/1050] OK 5bEb_pKwewI 813 palavras · legenda automática (pt-orig) · 6.2s · CATECISMO SOVIÉTICO? A URSS na Igreja CATÓLICA | Olavo 
+[14:58:41] [803/1050] OK EluVuE7Muxw 621 palavras · legenda automática (pt-orig) · 5.8s · “MAQUIAVEL foi um LOUCO IDIOTA” | Olavo de Carvalho
+[14:58:58] [804/1050] OK qSdAnEs0-Ik 1105 palavras · legenda automática (pt-orig) · 7.1s · ”Isto é o FIM do HOMO SAPIENS” | Olavo de Carvalho
+[14:59:14] [805/1050] OK UGUsnfvt8AQ 761 palavras · legenda automática (pt-orig) · 6.0s · Quando a LOUCURA vira VOTO | Olavo de Carvalho
+[14:59:30] [806/1050] OK 9RdVjIbcihs 869 palavras · legenda automática (pt-orig) · 5.9s · Como o Brasil virou um REBANHO SEM PASTOR | Olavo de Ca
+[14:59:46] [807/1050] OK eAQt9XdK4jA 890 palavras · legenda automática (pt-orig) · 5.9s · Entenda como a VERDADE foi CANCELADA | Olavo de Carvalh
+[15:00:02] [808/1050] OK Ls90w7w_jEg 783 palavras · legenda automática (pt-orig) · 5.9s · O culto da RAZÃO é uma SEITA | Olavo de Carvalho
+[15:00:18] [809/1050] OK uANFp6_GzuA 569 palavras · legenda automática (pt-orig) · 6.0s · O mundo NÃO CABE na sua TEORIA | Olavo de Carvalho
+[15:00:35] [810/1050] OK Z1o33ikZvis 942 palavras · legenda automática (pt-orig) · 6.8s · BRASIL: a nação que ESTACIONOU na 4ª CAMADA | Olavo de 
+[15:00:45] — lote 810/1050 · pausa 60.0s —
+[15:01:51] [811/1050] OK 8iVroFAFHw0 845 palavras · legenda automática (pt-orig) · 5.8s · PECADO não é roubar, é ser BURRO com pose de SÁBIO | Ol
+[15:02:07] [812/1050] OK DiQidS3Af-k 848 palavras · legenda automática (pt-orig) · 6.1s · “Tudo é CONSTRUÇÃO SOCIAL” | Olavo de Carvalho
+[15:02:23] [813/1050] OK 918ODqkjBis 678 palavras · legenda automática (pt-orig) · 6.5s · LIVRE ARBÍTRIO nada… você só repetia script | OLAVO DE 
+[15:02:39] [814/1050] OK bNeCaNHL9Gk 508 palavras · legenda automática (pt-orig) · 6.0s · Lúcifer já tomou conta do Brasil | OLAVO DE CARVALHO
+[15:02:55] [815/1050] OK SNky4aBiTTU 636 palavras · legenda automática (pt-orig) · 6.0s · Você foi MANIPULADO por COMUNISTAS e não percebeu | OLA
+[15:03:11] [816/1050] OK Ubc7bPNvybY 2493 palavras · legenda automática (pt-orig) · 5.7s · Quem deu DIPLOMA pra essa gente? | Olavo de Carvalho
+[15:03:27] [817/1050] OK 8YgyeSEKcgk 1167 palavras · legenda automática (pt-orig) · 6.2s · “Você é apenas um BONECO de ventríloquo” | Olavo de Car
+[15:03:43] [818/1050] OK T7tUVKp803M 902 palavras · legenda automática (pt-orig) · 6.0s · O mais importante não está na LINGUAGEM | Olavo de Carv
+[15:03:59] [819/1050] OK xezottTnfNI 821 palavras · legenda automática (pt-orig) · 6.3s · O que Jung, Le Senne e Klages tinham em comum | OLAVO D
+[15:04:15] [820/1050] OK ue8G9DO5BvQ 586 palavras · legenda automática (pt-orig) · 5.9s · A FARSA dos intelectuais universitários | OLAVO DE CARV
+[15:04:25] — lote 820/1050 · pausa 60.0s —
+[15:05:31] [821/1050] OK A7c3ArdEa6M 1134 palavras · legenda automática (pt-orig) · 6.2s · Um MURRO na mesa pra CALAR A BOCA dos filhos de BANQUEI
+[15:05:48] [822/1050] OK T4a5A8F56sc 663 palavras · legenda automática (pt-orig) · 6.4s · COITADO de quem acreditou neste VIGARISTA | Olavo de Ca
+[15:06:04] [823/1050] OK vByPfQwGKps 633 palavras · legenda automática (pt-orig) · 6.2s · O problema é VOCÊ | Olavo de Carvalho
+[15:06:20] [824/1050] OK Wjw0CFABirI 581 palavras · legenda automática (pt-orig) · 6.0s · DESISTA de descobrir em que CAMADA você está | OLAVO DE
+[15:06:36] [825/1050] OK yKaWbSxRT3E 1339 palavras · legenda automática (pt-orig) · 6.0s · “Essa parte da história NUNCA é contada” | OLAVO DE CAR
+[15:06:52] [826/1050] OK HCnC_MDN-6k 1457 palavras · legenda automática (pt-orig) · 5.8s · As palavras TRAEM a realidade | OLAVO DE CARVALHO
+[15:07:08] [827/1050] OK KCiXnZgE_-s 786 palavras · legenda automática (pt-orig) · 6.0s · Tente RACIONALIZAR tudo e ENLOUQUEÇA | Olavo de Carvalh
+[15:07:24] [828/1050] OK gr_zp12DIGk 638 palavras · legenda automática (pt-orig) · 6.1s · Com o POUCO que ensinei, VOCÊS já fazem muita MƎRD# | O
+[15:07:41] [829/1050] OK d9JIdFZTHK4 901 palavras · legenda automática (pt-orig) · 7.1s · “Isso é mais URGENTE que eleger BOLSONARO” | Olavo de C
+[15:07:57] [830/1050] OK -cA8pchF8NQ 851 palavras · legenda automática (pt-orig) · 5.7s · PARE de ler a BÍBLIA do jeito ERRADO | Olavo de Carvalh
+[15:08:07] — lote 830/1050 · pausa 60.0s —
+[15:09:13] [831/1050] OK oKiT_8y92zY 777 palavras · legenda automática (pt-orig) · 5.7s · Como os CIENTISTAS MENTEM pra você | OLAVO DE CARVALHO
+[15:09:29] [832/1050] OK 6RIIqw3ISSc 1474 palavras · legenda automática (pt-orig) · 5.9s · Pare de REPETIR e comece a PENSAR | Olavo de Carvalho
+[15:09:44] [833/1050] OK 7B1Ok7dyPQc 670 palavras · legenda automática (pt-orig) · 5.8s · Como NÃO ENTENDER NADA do que OLAVO escreveu
+[15:10:00] [834/1050] OK SafXtohQEBA 1591 palavras · legenda automática (pt-orig) · 6.0s · Libertaram os ESCRAVOS… e entregaram AO CAOS | Olavo de
+[15:10:16] [835/1050] OK 2JgSComPCXM 683 palavras · legenda automática (pt-orig) · 5.9s · Quem DESTRUIU A FILOSOFIA universitária (e por quê) | O
+[15:10:32] [836/1050] OK o0o9AOv3-8E 346 palavras · legenda automática (pt-orig) · 6.0s · Recado importante para ALUNOS e EX-ALUNOS | Olavo de Ca
+[15:10:48] [837/1050] OK uiynxGcZqhs 933 palavras · legenda automática (pt-orig) · 6.0s · Parabéns, professor! | Olavo's day
+[15:11:04] [838/1050] OK AP4Ox_SxWms 2027 palavras · legenda automática (pt-orig) · 6.0s · S3X0, MANIPULAÇÃO, VIDA ETERNA e outros assuntos INEVIT
+[15:11:20] [839/1050] OK wzbq2YCadv0 13786 palavras · legenda automática (pt-orig) · 6.0s · LIVE DE LANÇAMENTO | A Filosofia da Ciência, novo livro
+[15:11:36] [840/1050] OK 5vJjynoa0W0 978 palavras · legenda automática (pt-orig) · 6.3s · Como a ESCOLA te ensinou a DUVIDAR DA REALIDADE  | Olav
+[15:11:46] — lote 840/1050 · pausa 60.0s —
+[15:12:52] [841/1050] OK JqSaiCki2XE 882 palavras · legenda automática (pt-orig) · 6.0s · A VERDADE é diferente das IDEIAS em sua mente | Olavo d
+[15:13:08] [842/1050] OK l921kpobUHk 700 palavras · legenda automática (pt-orig) · 5.9s · PARE DE ESTUDAR feito um engomadinho | Olavo de Carvalh
+[15:13:24] [843/1050] OK S0aLiplw_to 745 palavras · legenda automática (pt-orig) · 5.8s · TODAS AS IGREJAS são EQUIVALENTES nessa questão | Olavo
+[15:13:40] [844/1050] OK E45yUiIBwCg 1240 palavras · legenda automática (pt-orig) · 5.9s · CUMPRIR O DEVER é mais importante | OLAVO DE CARVALHO
+[15:13:56] [845/1050] OK xnflEC-5e00 860 palavras · legenda automática (pt-orig) · 6.0s · Os CASOS REAIS de pessoas que VOLTARAM DO INFERNO | Ola
+[15:14:13] [846/1050] OK tferazcP5Sw 1234 palavras · legenda automática (pt-orig) · 6.4s · ALUNOS perguntam sobre PROMISCUIDADE, MARXISMO e RELIGI
+[15:14:29] [847/1050] OK HCf2N1qCYmg 691 palavras · legenda automática (pt-orig) · 6.2s · A CHAVE de tudo está nos LIVROS que quase NINGUÉM LEU |
+[15:14:45] [848/1050] OK Cz1zPuoHVu8 910 palavras · legenda automática (pt-orig) · 6.3s · Não se PREOCUPE com ATOS ISOLADOS | Olavo de Carvalho
+[15:15:01] [849/1050] OK 3s8Q7-LV_wQ 581 palavras · legenda automática (pt-orig) · 5.8s · Existe um TIPO DE ORAÇÃO MELHOR do que outros? | OLAVO 
+[15:15:17] [850/1050] OK UvKdvI80tO0 1079 palavras · legenda automática (pt-orig) · 6.0s · A PEQUENEZ moral do BRASILEIRO precisa ACABAR | Olavo d
+[15:15:27] — lote 850/1050 · pausa 60.0s —
+[15:16:33] [851/1050] OK nCVftrmWrlI 1447 palavras · legenda automática (pt-orig) · 6.1s · “Eles CRIAM o problema e depois CULPAM os outros” | OLA
+[15:16:50] [852/1050] OK PRhOh46DIy4 760 palavras · legenda automática (pt-orig) · 6.9s · NENHUMA autoridade externa é CONFIÁVEL | OLAVO DE CARVA
+[15:17:06] [853/1050] OK H3TXoHC2dlg 5219 palavras · legenda automática (pt-orig) · 5.9s · Essa PERGUNTA pode te fazer RECUPERAR A FÉ | Olavo de C
+[15:17:22] [854/1050] OK tR-W24u_fPY 851 palavras · legenda automática (pt-orig) · 6.3s · Pare de confiar em SONHOS COMUNS | Olavo de Carvalho
+[15:17:38] [855/1050] OK 8gMOd2Q9Wd4 891 palavras · legenda automática (pt-orig) · 6.2s · Se você faz isso, NUNCA VAI APRENDER DE VERDADE | Olavo
+[15:17:54] [856/1050] OK bx5mEUAaB64 541 palavras · legenda automática (pt-orig) · 6.0s · Como o CATOLICISMO foi reduzido à FOFOCAS MORALISTAS | 
+[15:18:10] [857/1050] OK dfFovC1jov8 698 palavras · legenda automática (pt-orig) · 6.1s · TESTEI TODAS AS CRENÇAS, só uma resistiu até o fim! | O
+[15:18:27] [858/1050] OK EYXHXOraugY 789 palavras · legenda automática (pt-orig) · 6.2s · O que OLAVO DE CARVALHO disse sobre o RACIOCÍNIO ARTIFI
+[15:18:42] [859/1050] OK c5eXFDy7F9I 619 palavras · legenda automática (pt-orig) · 5.3s · “A ABOLIÇÃO cumpriu a sua OBRIGAÇÃO MORAL e que se dane
+[15:18:59] [860/1050] OK lFXNMa1cxts 648 palavras · legenda automática (pt-orig) · 6.7s · QUEM ERAM OS VERDADEIROS TRAFICANTES? | Olavo de Carval
+[15:19:09] — lote 860/1050 · pausa 60.0s —
+[15:20:18] [861/1050] OK 4-8LzP6TEJc 713 palavras · legenda automática (pt-orig) · 9.7s · A VIDA HUMANA é um quebra-cabeça SEM SOLUÇÃO? | Olavo d
+[15:20:36] [862/1050] OK laB4RnieLdE 1121 palavras · legenda automática (pt-orig) · 7.3s · “Eu decidi FALAR ao invés de PUBLICAR LIVROS” | Olavo d
+[15:20:52] [863/1050] OK whSxoVS2N0k 618 palavras · legenda automática (pt-orig) · 6.1s · OLAVO DE CARVALHO explica a relação entre KANT e o CASA
+[15:21:09] [864/1050] OK hxlIzqqpDow 577 palavras · legenda automática (pt-orig) · 6.7s · HISTÓRIA NÃO É CICLO, NÃO É LINHA… É CAOS! | Olavo de C
+[15:21:25] [865/1050] OK i6nbRQuedho 1690 palavras · legenda automática (pt-orig) · 6.5s · Ninguém sabe o que é o socialismo. Olavo de Carvalho Ex
+[15:21:41] [866/1050] FALHA vg2kijqQa3A: HTTP Error 429: Too Many Requests
+[15:21:41]   excesso de requisições (1/5) — cooldown 180s
+[15:24:57] [867/1050] OK yZVusFmxg0w 3165 palavras · legenda automática (pt-orig) · 6.2s · A Igreja não estaria em crise se exercesse sua verdadei
+[15:25:13] [868/1050] OK G3x-9Kfgu3g 5516 palavras · legenda automática (pt-orig) · 6.0s · O maior problema do Brasil não é a corrupção | Olavo de
+[15:25:29] [869/1050] OK U2OaY8fc2d8 684 palavras · legenda automática (pt-orig) · 6.0s · Por que ficamos tristes no Natal? | Olavo de Carvalho
+[15:25:45] [870/1050] OK 83Rgl-XA8zk 108 palavras · legenda automática (pt-orig) · 5.8s · [Reabertura relâmpago] Garanta sua vaga com 90% OFF
+[15:25:55] — lote 870/1050 · pausa 60.0s —
+[15:26:59] [871/1050] SEM LEGENDA bmsafTjjrCU · Black November na Livraria do Seminário!
+[15:27:05] [872/1050] OK 3_JcsmObAT0 4760 palavras · legenda manual (pt) · 5.8s · Especial - True Outspeak ep. 201 | Olavo de Carvalho
+[15:27:21] [873/1050] OK NbhA7dzjXC8 1387 palavras · legenda manual (pt) · 6.1s · Sua própria mente está tentando te derrubar | Olavo de 
+[15:27:37] [874/1050] OK _rpFvwHjdW8 2994 palavras · legenda manual (pt) · 6.1s · Amadureça e veja os outros gostarem de você | Olavo de 
+[15:27:53] [875/1050] OK LbjDYjl1Dw8 3125 palavras · legenda manual (pt) · 6.0s · A solidão intelectual | Olavo de Carvalho
+[15:28:09] [876/1050] OK rlJgnZEChm4 4160 palavras · legenda automática (pt-orig) · 6.2s · O temário do COF para se alcançar a plena vida intelect
+[15:28:27] [877/1050] OK cQKcXM8US5s 4368 palavras · legenda automática (pt-orig) · 8.1s · A importância da alta cultura para a vida intelectual |
+[15:28:44] [878/1050] OK aYzn7hHoWnw 2903 palavras · legenda automática (pt-orig) · 6.2s · Entrando na vida intelectual para mudar os rumos do paí
+[15:29:00] [879/1050] OK Qf_2N9YOQa8 3044 palavras · legenda automática (pt-orig) · 6.1s · A busca por uma vida intelectual honesta | Olavo de Car
+[15:29:16] [880/1050] OK 5HoDZucW9zE 305 palavras · legenda automática (pt-orig) · 6.1s · Jesus Cristo sentiu o peso de todos os pecados humanos 
+[15:29:26] — lote 880/1050 · pausa 60.0s —
+[15:30:32] [881/1050] OK WDUkeVqtX_w 542 palavras · legenda automática (pt-orig) · 6.0s · Olavo de Carvalho fala sobre a Última Ceia
+[15:30:48] [882/1050] OK QH_8pQCSUOE 1869 palavras · legenda automática (pt-orig) · 5.9s · Você não sabe o que é amor de verdade - Onde o amor com
+[15:31:03] [883/1050] FALHA a4FIipEnmcQ: HTTP Error 429: Too Many Requests
+[15:31:03]   excesso de requisições (1/5) — cooldown 180s
+[15:34:20] [884/1050] FALHA IJ3H1Y0PBS0: HTTP Error 429: Too Many Requests
+[15:34:20]   excesso de requisições (1/5) — cooldown 180s
+[15:37:36] [885/1050] FALHA iE3wK9YQN6Y: HTTP Error 429: Too Many Requests
+[15:37:36]   excesso de requisições (1/5) — cooldown 180s
+[15:40:52] [886/1050] FALHA lDyDa-7G0Og: HTTP Error 429: Too Many Requests
+[15:40:52]   excesso de requisições (1/5) — cooldown 180s
+[15:44:09] [887/1050] OK ZJ0xy2EvZqU 956 palavras · legenda automática (pt-orig) · 6.8s · A maior origem da vaidade que existe no mundo | Olavo d
+[15:44:25] [888/1050] OK grEn1bKIsZ0 932 palavras · legenda automática (pt-orig) · 5.7s · Você não é melhor que ninguém, mas essa prática pode te
+[15:44:41] [889/1050] OK 6xlE1vio-Vs 1174 palavras · legenda automática (pt-orig) · 6.1s · Como ser melhor que a MAIORIA dos brasileiros | Olavo d
+[15:44:57] [890/1050] OK qolQxwIhhzM 1674 palavras · legenda automática (pt-orig) · 6.0s · Você NÃO é escravo das suas emoções - Aprenda com elas 
+[15:45:07] — lote 890/1050 · pausa 60.0s —
+[15:46:13] [891/1050] OK 99wP8MGmLsA 1269 palavras · legenda automática (pt-orig) · 6.1s · Não busque a segurança, busque a força! | Olavo de Carv
+[15:46:29] [892/1050] OK P5LTCsfk0dg 1047 palavras · legenda automática (pt-orig) · 6.1s · A formação universitária no Brasil não EXISTE | Olavo d
+[15:46:48] [893/1050] OK mPsY9zm_TDk 528 palavras · legenda automática (pt-orig) · 8.9s · Você não consegue aprender FILOSOFIA na escola  | Olavo
+[15:47:04] [894/1050] FALHA FWGu740-24k: HTTP Error 429: Too Many Requests
+[15:47:04]   excesso de requisições (1/5) — cooldown 180s
+[15:50:20] [895/1050] OK krIBkG-mEj0 844 palavras · legenda automática (pt-orig) · 6.0s · Você precisa deixar de ser escravo do PRAZER | Olavo de
+[15:50:36] [896/1050] OK mBqRDqu75kU 1038 palavras · legenda automática (pt-orig) · 5.9s · Confissões de Santo Agostinho e o conhecimento de si
+[15:50:52] [897/1050] OK ZUyQoj9Majg 593 palavras · legenda automática (pt-orig) · 5.8s · NECROLÓGIO: O primeiro exercício do COF
+[15:51:08] [898/1050] OK rCqdPl_26As 199 palavras · legenda automática (pt-orig) · 5.9s · Estréia 27 de Junho | Aula Inaugural: Uma Introdução à 
+[15:51:24] [899/1050] OK 168rhPF16c0 1256 palavras · legenda automática (pt-orig) · 6.0s · A crise do Brasil NÃO É política | Olavo de Carvalho
+[15:51:40] [900/1050] OK WbEE-ieT9r8 964 palavras · legenda automática (pt-orig) · 6.1s · Sobre sua vida perante a Deus | Olavo de Carvalho
+[15:51:50] — lote 900/1050 · pausa 60.0s —
+[15:52:57] [901/1050] FALHA Dv7PpqWq4lI: HTTP Error 429: Too Many Requests
+[15:52:57]   excesso de requisições (1/5) — cooldown 180s
+[15:56:13] [902/1050] OK dfjSf7c6Ax8 788 palavras · legenda automática (pt-orig) · 5.9s · O desastre social do Brasil e como se salvar | Olavo de
+[15:56:29] [903/1050] FALHA 1fOlh4wnnhs: HTTP Error 429: Too Many Requests
+[15:56:29]   excesso de requisições (1/5) — cooldown 180s
+[15:59:45] [904/1050] OK dU0a8890NXk 441 palavras · legenda automática (pt-orig) · 5.6s · [80% OFF]  Uma promoção ÚNICA dos cursos de Olavo. (ATÉ
+[16:00:01] [905/1050] OK iBZi3_WeQnQ 76 palavras · legenda automática (pt-orig) · 6.0s · “Olavo de Carvalho é Astrólogo?” | Estréia Amanhã, 29 d
+[16:00:17] [906/1050] OK 9-VNh3N_TU0 47 palavras · legenda automática (pt-orig) · 5.8s · “O catolicismo é a base da minha filosofia!” | Estréia 
+[16:00:32] [907/1050] OK sX8sq8QboDs 77 palavras · legenda automática (pt-orig) · 5.4s · Olavo transcendeu a loucura | Estréia em 29 de Março
+[16:00:47] [908/1050] OK 4eGeikUGuRA 52 palavras · legenda automática (pt-orig) · 5.4s · Um homem comprometido com a Verdade | Estréia 29 de Mar
+[16:01:03] [909/1050] OK kBFNMwb4RPg 117 palavras · legenda automática (pt-orig) · 5.5s · Se uma pessoa é mal falada, pode ser que ela tenha razã
+[16:01:21] [910/1050] OK EphP6MPMgTc 100 palavras · legenda automática (pt-orig) · 7.8s · Olavo sempre foi, por natureza, um educador. | Estréia 
+[16:01:31] — lote 910/1050 · pausa 60.0s —
+[16:02:37] [911/1050] OK mniqUiQZqQQ 79 palavras · legenda automática (pt-orig) · 5.9s · Onde eu estiver, algo vai acontecer | Estreia em 29 de 
+[16:02:52] [912/1050] OK 8Ceo7f8DEVQ 87 palavras · legenda automática (pt-orig) · 5.8s · Ame ou odeie | ESTREIA EM 29 DE MARÇO
+[16:03:08] [913/1050] OK UIQEbq5saWE 98 palavras · legenda automática (pt-orig) · 5.8s · Um discurso de Olavo de Carvalho é sempre inconfundível
+[16:03:24] [914/1050] OK sH92u5FgD3g 131 palavras · legenda automática (pt-orig) · 5.9s · Olavo sempre teve razão? Assista ao vídeo.
+[16:03:40] [915/1050] OK 7Sv2Rek9J_o 88 palavras · legenda automática (pt-orig) · 5.9s · O exemplo perfeito de uma vida com sentido | ESTRÉIA DI
+[16:03:56] [916/1050] OK iOA4_Et2YXQ 109 palavras · legenda automática (pt-orig) · 5.9s · "Tô lendo Olavo de Carvalho. Shh!" | OLAVO TEM RAZÃO
+[16:04:12] [917/1050] OK mbiT2YKN7I0 77 palavras · legenda automática (pt-orig) · 6.5s · A vida e a obra de Olavo de Carvalho | ESTRÉIA DIA 29
+[16:04:28] [918/1050] OK zuXn5AGVXEE 139 palavras · legenda automática (pt-orig) · 6.0s · Olavo tem Razão | PRÉ-VENDA LIBERADA
+[16:04:45] [919/1050] OK _aTCJWUx4ws 110 palavras · legenda automática (pt-orig) · 6.4s · Um falso filósofo? | Filme: Olavo Tem Razão
+[16:05:01] [920/1050] OK oDMl4gSAhvQ 148 palavras · legenda automática (pt-orig) · 5.9s · A maior obsessão de Olavo de Carvalho | Estréia em març
+[16:05:11] — lote 920/1050 · pausa 60.0s —
+[16:06:18] [921/1050] OK WV4i0hhnqM8 79 palavras · legenda automática (pt-orig) · 7.3s · Filme Olavo Tem Razão | Estréia em março
+[16:06:34] [922/1050] OK KNdIK-2F_2c 212 palavras · legenda automática (pt-orig) · 5.6s · [ÚLTIMAS HORAS] Este é o aviso final.
+[16:06:50] [923/1050] OK 3wFUc4_jLaw 205 palavras · legenda automática (pt-orig) · 6.2s · A CULTURA BRASILEIRA E O HORROR AO CONHECIMENTO
+[16:07:06] [924/1050] OK HlUZaZeEc20 71 palavras · legenda automática (pt-orig) · 5.9s · O BRASIL NÃO TEM SOLUÇÃO POLÍTICA.
+[16:07:21] [925/1050] OK x-BRr6WFL6g 110 palavras · legenda automática (pt-orig) · 5.6s · O Legado de Olavo | Estréia dia 21 de novembro
+[16:07:35] [926/1050] SEM LEGENDA Y-Bn6Ui6N4M · Black November na livraria do Seminário!
+[16:07:39] [927/1050] SEM LEGENDA ZAw2ym0395A · Oferta Especial O Comunismo na América Latina!
+[16:07:43] [928/1050] SEM LEGENDA n6mvUne9YcA · Oferta Especial "Independência do Brasil"!
+[16:07:47] [929/1050] SEM LEGENDA gmipA84tsHE · Chegamos ao último dia da Promoção especial "Contra o Foro d
+[16:07:50] [930/1050] SEM LEGENDA gjUMR17ql_0 · Promoção especial "Contra o Foro de São Paulo"
+[16:07:56] [931/1050] OK ldn8yJ02wFI 59 palavras · legenda automática (pt-orig) · 5.7s · As True Outstrips não podem parar!
+[16:08:10] [932/1050] SEM LEGENDA UvVDQ-bw3MI · Oferta especial “Os Inimigos do Ocidente'' na livraria do Se
+[16:08:16] [933/1050] OK t7knwh0WQU8 117 palavras · legenda automática (pt-orig) · 5.7s · Ouça esse trecho do professor Olavo sobre Garabandal
+[16:08:32] [934/1050] OK XrE_AubWywA 444 palavras · legenda automática (pt-orig) · 5.9s · Professor Olavo e sua devoção à Santíssima Virgem!
+[16:08:46] [935/1050] SEM LEGENDA huu0XjOsqKU · Último dia de promoção na livraria do Seminário!
+[16:08:52] [936/1050] FALHA NqMNxRT7JUE: HTTP Error 429: Too Many Requests
+[16:08:52]   excesso de requisições (1/5) — cooldown 180s
+[16:12:05] [937/1050] SEM LEGENDA 2Pki-0tg9u0 · Lançamento: O que restou de 22: uma semana na contramão da h
+[16:12:09] [938/1050] SEM LEGENDA MXcmbKCYn94 · Últimas horas do Mês Black na Livraria do Seminário
+[16:12:13] [939/1050] SEM LEGENDA qkR-MU6sfOo · A Morte de Virgílio e outras grandes novidades.
+[16:12:17] [940/1050] SEM LEGENDA GE8-hPwTK_4 · O Mês Black continua na Livraria do Seminário!
+[16:12:22] [941/1050] OK HsXZsUuuibA 146 palavras · legenda automática (pt-orig) · 5.8s · As bases revolucionárias da política moderna
+[16:12:38] [942/1050] OK lB3H1QJpu8Y 941 palavras · legenda manual (pt-BR) · 5.9s · UM RÉQUIEM PARA OLAVO (Documentário)
+[16:12:52] [943/1050] SEM LEGENDA gwotbzYhSdc · Novo livro do professor Olavo!
+[16:12:58] [944/1050] OK mj0hQ_GVS1M 128 palavras · legenda automática (pt-orig) · 6.0s · Um Réquiem Para Olavo (Trailer)
+[16:13:12] [945/1050] SEM LEGENDA YfJlCbWgghI · Oferta especial para a Semana Santa!
+[16:13:18] [946/1050] OK G2FE0Y3GDrk 363 palavras · legenda automática (pt-orig) · 6.0s · Último dia da nossa Oferta Especial de Lançamento!
+[16:13:34] [947/1050] OK baH1gwIuUGQ 403 palavras · legenda automática (pt-orig) · 6.1s · Análise do Professor Olavo sobre a obra "Principais cor
+[16:13:48] [948/1050] SEM LEGENDA f3p_J7hIL3I · Últimas 48 horas de promoção na livraria
+[16:13:52] [949/1050] SEM LEGENDA uRuEMC8Qfdk · Nova publicação do professor + promoção na livraria.
+[16:13:56] [950/1050] SEM LEGENDA E4HjxocEPSU · A verdade sobre a pandemia - E outras obras essenciais.
+[16:14:02] [951/1050] OK e2L1ayQQbsI 112 palavras · legenda automática (pt-orig) · 6.0s · Felicíssimo Ano Novo
+[16:14:17] [952/1050] OK hlthhVQGIRg 456 palavras · legenda automática (pt-orig) · 5.6s · Aviso tardio
+[16:14:33] [953/1050] OK g_EIZ9ZgyvE 609 palavras · legenda automática (pt-orig) · 5.4s · Mais outro
+[16:14:49] [954/1050] OK vSDfkDcgofw 111 palavras · legenda automática (pt-orig) · 5.9s · Mais um
+[16:15:05] [955/1050] OK YXKf-P7iaX0 506 palavras · legenda automática (pt-orig) · 5.7s · Gente burra
+[16:15:21] [956/1050] OK pmOvavKkgRc 20615 palavras · legenda automática (pt-orig) · 6.7s · ConservaTalk #08   Olavo de Carvalho
+[16:15:35] [957/1050] SEM LEGENDA I6HbjOFxs-o · Semana Olavo de Carvalho no Mercado Livre!
+[16:15:44] [958/1050] OK oIJKoSn4KiE 212 palavras · legenda automática (pt-orig) · 8.4s · Trailer do Nem Tudo Se Desfaz, de Josias Teófilo
+[16:15:59] [959/1050] OK K8MfKP4rlPw 474 palavras · legenda automática (pt-orig) · 5.6s · A democracia contra a democracia
+[16:16:16] [960/1050] FALHA LOTEs-EyRPM: HTTP Error 429: Too Many Requests
+[16:16:16]   excesso de requisições (1/5) — cooldown 180s
+[16:19:26] — lote 960/1050 · pausa 60.0s —
+[16:20:32] [961/1050] OK hwG6Cmhq1f4 135 palavras · legenda automática (pt-orig) · 5.9s · Mais um mentiroso
+[16:20:48] [962/1050] OK ui3zc9ouhng 446 palavras · legenda automática (pt-orig) · 6.2s · Os tiros no escuro do movimento conservador
+[16:21:04] [963/1050] OK FWAG0pi2aY0 1126 palavras · legenda automática (pt-orig) · 5.7s · Subjornalismo
+[16:21:19] [964/1050] OK D5WyYxjl_OY 2558 palavras · legenda automática (pt-orig) · 5.8s · Ói nóis aqui traveiz
+[16:21:35] [965/1050] OK T7FhK4yJxJc 485 palavras · legenda automática (pt-orig) · 6.0s · A mutação da esquerda internacional nos anos 60
+[16:21:52] [966/1050] OK QabdKamNSgQ 304 palavras · legenda automática (pt-orig) · 6.3s · A origem do imbecil coletivo
+[16:22:08] [967/1050] OK fP3D6IV2e78 9873 palavras · legenda automática (pt-orig) · 6.3s · AULA 579 DO COF (Mensagem original de 2007)
+[16:22:24] [968/1050] FALHA mSwYes2NOfM: HTTP Error 429: Too Many Requests
+[16:22:24]   excesso de requisições (1/5) — cooldown 180s
+[16:25:38] [969/1050] SEM LEGENDA 9Fi87YPZlb8 · A história da literatura ocidental
+[16:25:42] [970/1050] SEM LEGENDA XI-PvMvaMmM · Olavo de Carvalho fala à JP
+[16:25:48] [971/1050] OK NJHgjBKdKcA 49 palavras · legenda automática (pt-orig) · 5.6s · Uma questão de sobrevivência
+[16:26:03] [972/1050] OK D7lgX3mM_zI 108 palavras · legenda automática (pt-orig) · 5.5s · Convite especial do prof. Olavo
+[16:26:19] [973/1050] OK RrBpYnfu0mY 101 palavras · legenda automática (pt-orig) · 5.6s · Melhores previsões e melhores decisões
+[16:26:35] [974/1050] FALHA mCw3QAdQjaI: HTTP Error 429: Too Many Requests
+[16:26:35]   excesso de requisições (1/5) — cooldown 180s
+[16:29:48] [975/1050] SEM LEGENDA vdZm1Rbm7hI · Oferta do dia na Livraria do Seminário!
+[16:29:54] [976/1050] OK uJAxIb28J4Y 1691 palavras · legenda automática (pt-orig) · 6.2s · COF Aula 545
+[16:30:10] [977/1050] OK Odgwt_qTW9s 1735 palavras · legenda automática (pt-orig) · 5.6s · Entrevista à Jovem Pan 8 de setembro 2020
+[16:30:26] [978/1050] OK BwBJ2N0qqu4 844 palavras · legenda automática (pt-orig) · 5.6s · Vitória sobre a IstoÉ
+[16:30:39] [979/1050] SEM LEGENDA 91GpdvP2-DE · Novo Livro de Olavo de Carvalho
+[16:30:45] [980/1050] OK fBvzVItfRnY 1314 palavras · legenda automática (pt-orig) · 5.9s · Mais sacanagem
+[16:30:55] — lote 980/1050 · pausa 60.0s —
+[16:32:02] [981/1050] OK as_o44r0Es8 12982 palavras · legenda automática (pt-orig) · 6.4s · Entrevista à BBC Brasil 21 maio 2020
+[16:32:18] [982/1050] OK f_4AX360A6c 5217 palavras · legenda automática (pt-orig) · 5.8s · O vídeo do Conde
+[16:32:32] [983/1050] SEM LEGENDA eurRq-FCQJQ · Começa hoje a Mega Promoção Livraria do Seminário!
+[16:32:35] [984/1050] SEM LEGENDA N09DvR7xuLw · Último dia!
+[16:32:39] [985/1050] SEM LEGENDA mWUBZdnoHfc · A LIVRARIA DO SEMINÁRIO ESTÁ EM PROMOÇÃO!
+[16:32:45] [986/1050] OK 1LtJVdG28oE 1295 palavras · legenda automática (pt-orig) · 6.0s · Tributo a Olavo de Carvalho - Revista Esmeril
+[16:33:00] [987/1050] SEM LEGENDA hnfMS1TktIk · PROMOÇÃO DE MARÇO NA LIVRARIA DO SEMINÁRIO!
+[16:33:07] [988/1050] OK 6vSQeDFwbSk 7727 palavras · legenda automática (pt-orig) · 6.3s · Palestra - I Fórum dos Conservadores de Goiânia
+[16:33:22] [989/1050] SEM LEGENDA mFgtgW_OAos · PROMOÇÃO NOVIDADES NA LIVRARIA DO SEMINÁRIO!
+[16:33:28] [990/1050] OK uUFIfaC1-oA 13453 palavras · legenda automática (pt-orig) · 6.0s · Esoterismo na História e Hoje - Aula 1
+[16:33:38] — lote 990/1050 · pausa 60.0s —
+[16:34:44] [991/1050] OK 4-FtHfSHVBQ 3294 palavras · legenda automática (pt-orig) · 6.2s · CPI das Fake News
+[16:35:00] [992/1050] OK 6LCg5NE4zt4 3299 palavras · legenda automática (pt-orig) · 6.2s · Rompimento da hegemonia literária
+[16:35:16] [993/1050] OK RyNdh1OgioE 1562 palavras · legenda automática (pt-orig) · 5.6s · Caso Weintraub. A olavetes, olavistas e olavóides
+[16:35:34] [994/1050] OK uWdd4jAzCj0 108 palavras · legenda automática (pt-orig) · 7.8s · O Brasil precisa de uma nova mídia.
+[16:35:50] [995/1050] OK Jov1d8R4Zj0 82 palavras · legenda automática (pt-orig) · 6.2s · O Brasil sem medo
+[16:36:06] [996/1050] OK 2yguUQtewUg 2348 palavras · legenda automática (pt-orig) · 5.8s · Analfabetismo funcional da Fôia
+[16:36:19] [997/1050] SEM LEGENDA q-h1IZf34TM · A nossa Black Friday!
+[16:36:25] [998/1050] OK tDRhUf4a1fQ 65 palavras · legenda automática (pt-orig) · 5.8s · Instituto D. Pedro II
+[16:36:41] [999/1050] OK WnKx1jpc7bk 626 palavras · legenda automática (pt-orig) · 6.0s · Comentário à decisão do Supremo Tribunal Federal 09 11 
+[16:36:57] [1000/1050] OK yJKRiPFw-38 1374 palavras · legenda automática (pt-orig) · 5.5s · Por que estudei astrologia e alquimia?
+[16:37:07] — lote 1000/1050 · pausa 60.0s —
+[16:38:13] [1001/1050] OK 71vm6RMqu8U 2081 palavras · legenda automática (pt-orig) · 6.0s · Dialética Negativa, uma bela bosta
+[16:38:29] [1002/1050] OK pWMIEaTYKdQ 1907 palavras · legenda automática (pt-orig) · 5.9s · O governo mais achincalhado da história
+[16:38:44] [1003/1050] OK FWdpHsqg4NQ 4330 palavras · legenda automática (pt-orig) · 5.6s · A ELITE FINANCEIRA E O PODER
+[16:39:00] [1004/1050] OK JSUrJgdiIRs 5989 palavras · legenda automática (pt-orig) · 6.0s · O Foro de São Paulo, Museu da Diáspora Cubana em Miami.
+[16:39:16] [1005/1050] OK KBslDAPwfck 4629 palavras · legenda automática (pt-orig) · 5.9s · Débora Barbosa e Quem Manda no Mundo
+[16:39:32] [1006/1050] OK 4RMiT61gFBo 13172 palavras · legenda automática (pt-orig) · 6.0s · Conferência no Museu da Diaspora Cubana (Miami 15 ago 
+[16:39:46] [1007/1050] SEM LEGENDA V5h_AJxwUS8 · O Jardim das Aflições - Edição especial em capa dura
+[16:39:52] [1008/1050] OK Dn0_avWOKPs 120 palavras · legenda automática (pt-orig) · 5.9s · Aviso importante: IV Encontro Europeu
+[16:40:08] [1009/1050] OK FkUwnUUF3EQ 4894 palavras · legenda automática (pt-orig) · 5.9s · Globalismo e poder
+[16:40:24] [1010/1050] OK qnwjxaLJA-Y 1133 palavras · legenda automática (pt-orig) · 5.9s · Recordar é viver: O bom-mocismo e a sinceridade (2009)
+[16:40:34] — lote 1010/1050 · pausa 60.0s —
+[16:41:38] [1011/1050] SEM LEGENDA 4o0E4lL8Ntw · A Cólera dos Imbecis
+[16:41:46] [1012/1050] OK lYW1QTzeRR8 4232 palavras · legenda automática (pt-orig) · 8.5s · Recordar é viver  Entenda o que foi o LULISMO
+[16:42:04] [1013/1050] FALHA 8C8itcrqQPA: HTTP Error 429: Too Many Requests
+[16:42:04]   excesso de requisições (1/5) — cooldown 180s
+[16:45:21] [1014/1050] OK _ZY5CHT7Iwk 414 palavras · legenda automática (pt-orig) · 7.5s · Mensagem urgente ao ministro Moro 3 jul 19
+[16:45:35] [1015/1050] SEM LEGENDA RhvodM5TieQ · Recomendação de leitura: 5 livros sobre o comunismo
+[16:45:40] [1016/1050] OK j01U6sasgkk 348 palavras · legenda automática (pt-orig) · 5.7s · Reformas Já
+[16:45:56] [1017/1050] OK oF531bXDQgY 852 palavras · legenda automática (pt-orig) · 5.9s · Educação emburrecedora 1
+[16:46:11] [1018/1050] SEM LEGENDA k3HU6cwmRmY · PROMOÇÃO LIVRARIA DO SEMINÁRIO DE FILOSOFIA
+[16:46:16] [1019/1050] OK -0n3TEWQmd8 1577 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho sai de cena mas desafia qualquer gene
+[16:49:22] [1020/1050] SEM LEGENDA 8TYwvTDD-jI · CONSELHOS SOBRE O TRABALHO INTELECTUAL - Louis Riboulet
+[16:49:28] [1021/1050] FALHA IV_4RYkAgII: HTTP Error 429: Too Many Requests
+[16:49:28]   excesso de requisições (1/5) — cooldown 180s
+[16:52:44] [1022/1050] OK ylSPmZENf9w 1555 palavras · legenda automática (pt-orig) · 5.9s · OUÇA O QUE OLAVO DE CARVALHO FALOU SOBRE OS MILITARES 
+[16:52:58] [1023/1050] SEM LEGENDA g4wfWQsRl2c · A CRISE DO MUNDO MODERNO
+[16:53:04] [1024/1050] OK IvIu8kOXx5c 350 palavras · legenda automática (pt-orig) · 6.0s · AOS GENERAIS E SIMILARES
+[16:53:20] [1025/1050] OK V_gdMyzMN3w 1357 palavras · legenda automática (pt-orig) · 6.1s · BERNARDO KÜSTER - No quintal do Olavão
+[16:53:34] [1026/1050] SEM LEGENDA xF4Hc1KkBDM · Recomendação de leitura: 6 LIVROS SOBRE A NOVA ORDEM MUNDIAL
+[16:53:40] [1027/1050] FALHA -95EoegPWMo: HTTP Error 429: Too Many Requests
+[16:53:40]   excesso de requisições (1/5) — cooldown 180s
+[16:56:54] [1028/1050] SEM LEGENDA _t0JIe5KM8Q · 5 LIVROS SOBRE ESTUDO E VIDA INTELECTUAL
+[16:56:57] [1029/1050] SEM LEGENDA C36CEXpNRHM · O Olavo Tem Razão - 2: Quibe cru
+[16:57:01] [1030/1050] SEM LEGENDA 5q1FhFgjBhY · O Olavo Tem Razão - 1: Quem Sou Eu
+[16:57:08] [1031/1050] OK nDDhOyrvPZU 3230 palavras · legenda automática (pt-orig) · 6.0s · 17 perguntas a Olavo de Carvalho
+[16:57:24] [1032/1050] FALHA oYD66OucgJQ: HTTP Error 429: Too Many Requests
+[16:57:24]   excesso de requisições (1/5) — cooldown 180s
+[17:00:40] [1033/1050] OK zklEKLiPYR4 180 palavras · legenda automática (pt-orig) · 6.0s · MENSAGEM DO DR IVES GANDRA MARTINS A OLAVO DE CARVALHO
+[17:00:56] [1034/1050] OK bF9V8CgaE2c 2811 palavras · legenda automática (pt-orig) · 6.5s · Deus, ilusão ou realidade?
+[17:01:12] [1035/1050] OK mu3Jc_f6ZzA 2796 palavras · legenda automática (pt-orig) · 6.0s · Sobre a Existência de DEUS
+[17:01:28] [1036/1050] OK -XP5KS4qk2k 4694 palavras · legenda automática (pt-orig) · 6.0s · 10 mentiras sobre Olavo de Carvalho - Bernardo Küster
+[17:01:45] [1037/1050] OK Xt2DlSgYeys 2484 palavras · legenda automática (pt-orig) · 6.4s · Mais trapaça da revista É-Porca
+[17:02:01] [1038/1050] OK I4RY_UQ1sZs 190 palavras · legenda automática (pt-orig) · 5.9s · O novo filme de Josias Teófilo
+[17:02:17] [1039/1050] OK VvoHlBBc-gw 374 palavras · legenda automática (pt-orig) · 6.1s · Depoimento de Leilah Carvalho sobre o pai, Olavo de Car
+[17:02:33] [1040/1050] OK iC-lPI9QSjk 920 palavras · legenda automática (pt-orig) · 5.8s · Depoimento de Pedro de Carvalho sobre o pai Olavo de Ca
+[17:02:43] — lote 1040/1050 · pausa 60.0s —
+[17:03:49] [1041/1050] OK BN92FlGBjeg 2851 palavras · legenda automática (pt-orig) · 6.1s · Olavo de Carvalho - International lies about Jair Bolso
+[17:04:05] [1042/1050] OK H38NissxuAQ 2591 palavras · legenda automática (pt-orig) · 6.0s · Olavo de Carvalho  A Revolução brasileira e o Estamen
+[17:04:21] [1043/1050] OK OPvjduHlhSQ 7684 palavras · legenda automática (pt-orig) · 5.9s · Olavo de Carvalho - Conversa com Luis Philippe de Orlea
+[17:04:37] [1044/1050] OK gQjjDfEswHE 1083 palavras · legenda automática (pt-orig) · 6.1s · Olavo de Carvalho - Censura Total
+[17:04:54] [1045/1050] OK hwOkwPtMDAY 2301 palavras · legenda automática (pt-orig) · 7.4s · Olavo de Carvalho - A educação brasileira
+[17:05:10] [1046/1050] OK GfdP_tr5KPE 21225 palavras · legenda automática (pt-orig) · 6.3s · I Seminário Capixaba de Filosofia   'Os EUA e a Nova Or
+[17:05:26] [1047/1050] OK idj4Tl-24ks 161 palavras · legenda automática (pt-orig) · 5.8s · Politica e Cultura no Brasil
+[17:05:42] [1048/1050] OK ZjznxmTZ5AM 299 palavras · legenda automática (pt-orig) · 5.7s · O que aconteceu e o que acontecerá com o Brasil
+[17:05:56] [1049/1050] SEM LEGENDA rqyoDMLPibg · vin
+[17:06:02] [1050/1050] OK s2sLdOUwQM0 33 palavras · legenda automática (pt-orig) · 5.7s · Novo curso de Olavo de Carvalho
+[17:06:02] Fim da rodada: novos=954 · estado geral {'ok': 1007, 'sem_legenda': 54, 'indisponivel': 0, 'erro': 25}
+[17:08:12] ============================================================
+[17:08:12] EXTRAÇÃO (legendas) | fila=1131 pendentes=69 pausa=10.0s lote=10
+[17:08:15] [1/69] SEM ACESSO BSuKZqOaY4Y (incorporação restrita; tentar outro método)
+[17:08:19] [2/69] SEM ACESSO 5jBsewFrbiI (incorporação restrita; tentar outro método)
+[17:08:22] [3/69] SEM ACESSO Ib3f-nUyHEI (incorporação restrita; tentar outro método)
+[17:08:25] [4/69] SEM ACESSO W9ETkqSRG6U (incorporação restrita; tentar outro método)
+[17:08:29] [5/69] SEM ACESSO AcEoTtTel0g (incorporação restrita; tentar outro método)
+[17:08:32] [6/69] SEM ACESSO jeGytrcJPBo (incorporação restrita; tentar outro método)
+[17:08:35] [7/69] SEM ACESSO _v9oc8ZaR-Y (incorporação restrita; tentar outro método)
+[17:08:39] [8/69] SEM ACESSO zwH-VcHcPXE (incorporação restrita; tentar outro método)
+[17:08:42] [9/69] SEM ACESSO nq99eNEhFmM (incorporação restrita; tentar outro método)
+[17:08:45] [10/69] SEM ACESSO eE78BDY6uq0 (incorporação restrita; tentar outro método)
+[17:08:49] [11/69] SEM ACESSO IZWrziYclMA (incorporação restrita; tentar outro método)
+[17:08:52] [12/69] SEM ACESSO TcuosKs2LD4 (incorporação restrita; tentar outro método)
+[17:08:55] [13/69] SEM ACESSO kDO-9uJlesY (incorporação restrita; tentar outro método)
+[17:09:00] [14/69] SEM ACESSO wIevLYCoAHo (incorporação restrita; tentar outro método)
+[17:09:03] [15/69] SEM ACESSO Mc8lSpE2FOg (incorporação restrita; tentar outro método)
+[17:09:06] [16/69] SEM ACESSO -K2OuaDFb5w (incorporação restrita; tentar outro método)
+[17:09:10] [17/69] SEM ACESSO DgEYbu_Yu_0 (incorporação restrita; tentar outro método)
+[17:09:13] [18/69] SEM ACESSO KhqRMuiIngk (incorporação restrita; tentar outro método)
+[17:09:16] [19/69] SEM ACESSO _zfKoHSluMM (incorporação restrita; tentar outro método)
+[17:09:19] [20/69] SEM ACESSO K2gZV-tZ1ng (incorporação restrita; tentar outro método)
+[17:09:23] [21/69] SEM ACESSO Fnr5vgj2Ous (incorporação restrita; tentar outro método)
+[17:09:26] [22/69] SEM ACESSO iFY9OBGaBRI (incorporação restrita; tentar outro método)
+[17:09:30] [23/69] SEM ACESSO Nf2aDHtRbYU (incorporação restrita; tentar outro método)
+[17:09:33] [24/69] SEM ACESSO FwhqAx25AIM (incorporação restrita; tentar outro método)
+[17:09:36] [25/69] SEM ACESSO yhKSUrIL27E (incorporação restrita; tentar outro método)
+[17:09:42] [26/69] FALHA Mn9iS9jSs9E: HTTP Error 429: Too Many Requests
+[17:09:42]   excesso de requisições (1/5) — cooldown 180s
+[17:12:56] [27/69] SEM ACESSO EeTDAhQudqo (incorporação restrita; tentar outro método)
+[17:12:59] [28/69] SEM ACESSO aD9mcd-mOFc (incorporação restrita; tentar outro método)
+[17:13:02] [29/69] SEM ACESSO JL-MHE6yyQY (incorporação restrita; tentar outro método)
+[17:13:05] [30/69] SEM ACESSO rTBhhl6eLrg (incorporação restrita; tentar outro método)
+[17:13:09] [31/69] SEM ACESSO xYYKXZTg24A (incorporação restrita; tentar outro método)
+[17:13:12] [32/69] SEM ACESSO g3epjUL52Hg (incorporação restrita; tentar outro método)
+[17:13:16] [33/69] SEM ACESSO raetl_PYrfQ (incorporação restrita; tentar outro método)
+[17:13:19] [34/69] SEM ACESSO qSB6y3KdKwM (incorporação restrita; tentar outro método)
+[17:13:22] [35/69] SEM ACESSO MnzI7ClNIas (incorporação restrita; tentar outro método)
+[17:13:29] [36/69] FALHA 4qMSWlTDUKc: HTTP Error 429: Too Many Requests
+[17:13:29]   excesso de requisições (1/5) — cooldown 180s
+[17:16:43] [37/69] SEM ACESSO G-bRw7uQ6Ns (incorporação restrita; tentar outro método)
+[17:16:49] [38/69] FALHA PksauAdgbwI: HTTP Error 429: Too Many Requests
+[17:16:49]   excesso de requisições (1/5) — cooldown 180s
+[17:20:05] [39/69] FALHA qySuenfRkDk: HTTP Error 429: Too Many Requests
+[17:20:05]   excesso de requisições (1/5) — cooldown 180s
+[17:23:21] [40/69] FALHA 1xrYpXPObdo: HTTP Error 429: Too Many Requests
+[17:23:21]   excesso de requisições (1/5) — cooldown 180s
+[17:26:31] — lote 40/69 · pausa 60.0s —
+[17:27:37] [41/69] FALHA CkT_5AuaZTA: HTTP Error 429: Too Many Requests
+[17:27:37]   excesso de requisições (1/5) — cooldown 180s
+[17:30:51] [42/69] SEM ACESSO k2zaD5KRCp8 (incorporação restrita; tentar outro método)
+[17:30:54] [43/69] SEM ACESSO YjCGRMKqt4I (incorporação restrita; tentar outro método)
+[17:30:57] [44/69] SEM ACESSO HD87s5EqgDc (incorporação restrita; tentar outro método)
+[17:31:01] [45/69] SEM ACESSO HYrsYrA7an0 (incorporação restrita; tentar outro método)
+[17:31:04] [46/69] SEM ACESSO _y6lrUY_y_g (incorporação restrita; tentar outro método)
+[17:31:08] [47/69] SEM ACESSO sID2DRYjNJc (incorporação restrita; tentar outro método)
+[17:31:11] [48/69] SEM ACESSO I1ghkPFb90E (incorporação restrita; tentar outro método)
+[17:31:14] [49/69] SEM ACESSO OlZP736Dvko (incorporação restrita; tentar outro método)
+[17:31:20] [50/69] FALHA _xxxcOOS-d8: HTTP Error 429: Too Many Requests
+[17:31:20]   excesso de requisições (1/5) — cooldown 180s
+[17:34:30] — lote 50/69 · pausa 60.0s —
+[17:35:36] [51/69] SEM ACESSO iBy559jYXE0 (incorporação restrita; tentar outro método)
+[17:35:42] [52/69] FALHA dt3RPMkRjlo: HTTP Error 429: Too Many Requests
+[17:35:42]   excesso de requisições (1/5) — cooldown 180s
+[17:38:55] [53/69] SEM ACESSO W4rNjzkmfzI (incorporação restrita; tentar outro método)
+[17:39:01] [54/69] FALHA vg2kijqQa3A: HTTP Error 429: Too Many Requests
+[17:39:01]   excesso de requisições (1/5) — cooldown 180s
+[17:42:17] [55/69] FALHA a4FIipEnmcQ: HTTP Error 429: Too Many Requests
+[17:42:17]   excesso de requisições (1/5) — cooldown 180s
+[17:45:35] [56/69] FALHA IJ3H1Y0PBS0: HTTP Error 429: Too Many Requests
+[17:45:35]   excesso de requisições (1/5) — cooldown 180s
+[17:48:51] [57/69] FALHA iE3wK9YQN6Y: HTTP Error 429: Too Many Requests
+[17:48:51]   excesso de requisições (1/5) — cooldown 180s
+[17:52:07] [58/69] FALHA lDyDa-7G0Og: HTTP Error 429: Too Many Requests
+[17:52:07]   excesso de requisições (1/5) — cooldown 180s
+[17:55:24] [59/69] FALHA FWGu740-24k: HTTP Error 429: Too Many Requests
+[17:55:24]   excesso de requisições (1/5) — cooldown 180s
+[17:58:40] [60/69] FALHA Dv7PpqWq4lI: HTTP Error 429: Too Many Requests
+[17:58:40]   excesso de requisições (1/5) — cooldown 180s
+[18:01:50] — lote 60/69 · pausa 60.0s —
+[18:02:56] [61/69] FALHA 1fOlh4wnnhs: HTTP Error 429: Too Many Requests
+[18:02:56]   excesso de requisições (1/5) — cooldown 180s
+[18:06:13] [62/69] FALHA NqMNxRT7JUE: HTTP Error 429: Too Many Requests
+[18:06:13]   excesso de requisições (1/5) — cooldown 180s
+[18:09:28] [63/69] FALHA LOTEs-EyRPM: HTTP Error 429: Too Many Requests
+[18:09:28]   excesso de requisições (1/5) — cooldown 180s
+[18:12:45] [64/69] FALHA mSwYes2NOfM: HTTP Error 429: Too Many Requests
+[18:12:45]   excesso de requisições (1/5) — cooldown 180s
+[18:16:01] [65/69] FALHA mCw3QAdQjaI: HTTP Error 429: Too Many Requests
+[18:16:01]   excesso de requisições (1/5) — cooldown 180s
+[18:19:18] [66/69] FALHA 8C8itcrqQPA: HTTP Error 429: Too Many Requests
+[18:19:18]   excesso de requisições (1/5) — cooldown 180s
+[18:22:34] [67/69] FALHA IV_4RYkAgII: HTTP Error 429: Too Many Requests
+[18:22:34]   excesso de requisições (1/5) — cooldown 180s
+[18:25:51] [68/69] FALHA -95EoegPWMo: HTTP Error 429: Too Many Requests
+[18:25:51]   excesso de requisições (1/5) — cooldown 180s
+[18:29:07] [69/69] FALHA oYD66OucgJQ: HTTP Error 429: Too Many Requests
+[18:29:07]   excesso de requisições (1/5) — cooldown 180s
+[18:32:07] Fim da rodada: novos=0 · estado geral {'ok': 1007, 'sem_legenda': 54, 'indisponivel': 0, 'erro': 25}
+[11:32:19] ============================================================
+[11:32:19] EXTRAÇÃO (legendas) | fila=1131 pendentes=69 pausa=10.0s lote=10
+[11:32:23] [1/69] SEM ACESSO BSuKZqOaY4Y (incorporação restrita; tentar outro método)
+[11:32:26] [2/69] SEM ACESSO 5jBsewFrbiI (incorporação restrita; tentar outro método)
+[11:32:29] [3/69] SEM ACESSO Ib3f-nUyHEI (incorporação restrita; tentar outro método)
+[11:32:32] [4/69] SEM ACESSO W9ETkqSRG6U (incorporação restrita; tentar outro método)
+[11:32:35] [5/69] SEM ACESSO AcEoTtTel0g (incorporação restrita; tentar outro método)
+[11:32:38] [6/69] SEM ACESSO jeGytrcJPBo (incorporação restrita; tentar outro método)
+[11:32:40] [7/69] SEM ACESSO _v9oc8ZaR-Y (incorporação restrita; tentar outro método)
+[11:32:43] [8/69] SEM ACESSO zwH-VcHcPXE (incorporação restrita; tentar outro método)
+[11:32:46] [9/69] SEM ACESSO nq99eNEhFmM (incorporação restrita; tentar outro método)
+[11:32:49] [10/69] SEM ACESSO eE78BDY6uq0 (incorporação restrita; tentar outro método)
+[11:32:52] [11/69] SEM ACESSO IZWrziYclMA (incorporação restrita; tentar outro método)
+[11:32:55] [12/69] SEM ACESSO TcuosKs2LD4 (incorporação restrita; tentar outro método)
+[11:32:59] [13/69] SEM ACESSO kDO-9uJlesY (incorporação restrita; tentar outro método)
+[11:33:03] [14/69] SEM ACESSO wIevLYCoAHo (incorporação restrita; tentar outro método)
+[11:33:06] [15/69] SEM ACESSO Mc8lSpE2FOg (incorporação restrita; tentar outro método)
+[11:33:09] [16/69] SEM ACESSO -K2OuaDFb5w (incorporação restrita; tentar outro método)
+[11:33:12] [17/69] SEM ACESSO DgEYbu_Yu_0 (incorporação restrita; tentar outro método)
+[11:33:14] [18/69] SEM ACESSO KhqRMuiIngk (incorporação restrita; tentar outro método)
+[11:33:17] [19/69] SEM ACESSO _zfKoHSluMM (incorporação restrita; tentar outro método)
+[11:33:21] [20/69] SEM ACESSO K2gZV-tZ1ng (incorporação restrita; tentar outro método)
+[11:33:23] [21/69] SEM ACESSO Fnr5vgj2Ous (incorporação restrita; tentar outro método)
+[11:33:26] [22/69] SEM ACESSO iFY9OBGaBRI (incorporação restrita; tentar outro método)
+[11:33:30] [23/69] SEM ACESSO Nf2aDHtRbYU (incorporação restrita; tentar outro método)
+[11:33:33] [24/69] SEM ACESSO FwhqAx25AIM (incorporação restrita; tentar outro método)
+[11:33:36] [25/69] SEM ACESSO yhKSUrIL27E (incorporação restrita; tentar outro método)
+[11:33:41] [26/69] FALHA Mn9iS9jSs9E: HTTP Error 429: Too Many Requests
+[11:33:41]   excesso de requisições (1/5) — cooldown 180s

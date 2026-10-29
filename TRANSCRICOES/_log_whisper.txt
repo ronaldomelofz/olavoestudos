@@ -19,3 +19,60 @@
 [11:13:44] Carregando Whisper small (CPU int8, threads=2)…
 [11:13:51] Modelo pronto.
 [11:13:51] [1/31] áudio -0xrXUgXyZQ.mp4 (558813 KB) · 01- História das Histórias da Filosofia - História Essencial
+[12:07:45]   OK 14468 palavras em 3234s (ritmo 0.46× a duração)
+[12:07:53] [2/31] áudio XCN2XlDeks0.mp4 (522867 KB) · 07- Período Helenístico (Parte 2) - História Essencial da Fi
+[13:11:28]   OK 16372 palavras em 3815s (ritmo 0.54× a duração)
+[13:11:36] [3/31] áudio 1iFF05wpJEI.mp4 (391507 KB) · 06- Período Helenístico (Parte 1) - História Essencial da Fi
+[13:57:30]   OK 12686 palavras em 2754s (ritmo 0.46× a duração)
+[13:57:38] [4/31] áudio 5TVuQC_Y_x0.mp4 (481205 KB) · 03- Sócrates e Platão - História Essencial da Filosofia - Ol
+[14:52:04]   OK 14796 palavras em 3266s (ritmo 0.46× a duração)
+[14:52:12] [5/31] áudio kAtHbdo3DBo.mp4 (518317 KB) · 02- O Projeto Socrático - História Essencial da Filosofia - 
+[15:48:37]   OK 14193 palavras em 3385s (ritmo 0.48× a duração)
+[15:48:45] — pausa de lote 45s —
+[15:49:30] [6/31] áudio VKJCO2hGjmw.mp4 (467105 KB) · 04- Aristóteles - História Essencial da Filosofia - Olavo de
+[16:43:29]   OK 14408 palavras em 3239s (ritmo 0.47× a duração)
+[16:43:37] [7/31] áudio jNbU7eAcOHM.mp4 (494029 KB) · 08- Advento do Cristianismo - História Essencial da Filosofi
+[17:41:55]   OK 14938 palavras em 3498s (ritmo 0.5× a duração)
+[17:42:03] [8/31] áudio NkBdlzJdkE8.mp4 (14665 KB) · "Fundamentalismo islâmico é criação ocidental" Alunos do Ola
+[17:45:34]   OK 937 palavras em 212s (ritmo 0.5× a duração)
+[17:45:43] [9/31] áudio xiSRpfE_uIE.mp4 (63270 KB) · Olavo Carvalho deixando seus alunos consternados sobre Marx
+[17:57:22]   OK 3076 palavras em 700s (ritmo 0.56× a duração)
+[17:57:31] [10/31] áudio VW7kFlMxf7k.mp4 (14713 KB) · Olavo Carvalho não tankou o Dalai Lama
+[17:59:33]   OK 591 palavras em 122s (ritmo 0.5× a duração)
+[17:59:41] — pausa de lote 45s —
+[18:00:26] [11/31] áudio mrcFLXp-1zs.mp4 (74487 KB) · Olavo ressuscita pra jogar uma luz nessa merdd4 de debate do
+[18:09:24]   OK 2421 palavras em 538s (ritmo 0.53× a duração)
+[18:09:32] [12/31] áudio _E_g-P9v6eM.mp4 (204167 KB) · Olavo de Carvalho - Lançamento de "Maquiavel ou a Confusão D
+[18:56:54]   OK 13676 palavras em 2842s (ritmo 0.47× a duração)
+[18:57:02] [13/31] áudio lk4oMi3B5wY.mp4 (216032 KB) · A filosofia e seu inverso
+[19:46:03]   OK 13455 palavras em 2941s (ritmo 0.46× a duração)
+[19:46:11] [14/31] áudio AzEmBFB-Sw4.mp4 (231175 KB) · Olavo de Carvalho explica o que é filosofia e a distingue da
+[20:45:45]   OK 16546 palavras em 3574s (ritmo 0.48× a duração)
+[20:45:53] [15/31] áudio 9NHYiqXBb-A.mp4 (249453 KB) · Trecho do Curso Online de Filosofia - Olavo de Carvalho - 01
+[21:10:11]   OK 7051 palavras em 1458s (ritmo 0.44× a duração)
+[21:10:19] — pausa de lote 45s —
+[21:11:04] [16/31] áudio FJaHf9kFA7s.mp4 (179185 KB) · Aula do Curso Online de Filosofia - Olavo de Carvalho - 06 d
+[21:24:51]   OK 3955 palavras em 828s (ritmo 0.43× a duração)
+[21:24:59] [17/31] áudio Jdz7-nq9PkQ.mp4 (128284 KB) · Análise da situação política Brasileira   Olavo de Carvalho
+[21:56:17]   OK 8816 palavras em 1878s (ritmo 0.49× a duração)
+[21:56:26] [18/31] áudio 0oc65pBVNhc.mp4 (466167 KB) · Lançamento de "O mínimo que você precisa saber para não ser 
+[22:53:49]   OK 16308 palavras em 3444s (ritmo 0.47× a duração)
+[22:53:57] [19/31] áudio K4AvvvTpl5c.mp4 (128079 KB) · COF - Aula 237
+[23:24:01]   OK 9363 palavras em 1804s (ritmo 0.45× a duração)
+[23:24:17] [20/31] áudio QPhIWgfsjPM.webm (59769 KB) · Cultura e personalidade - Aula 286 do Curso Online de Filoso
+[00:10:22]   OK 12194 palavras em 2773s (ritmo 0.53× a duração)
+[00:10:30] — pausa de lote 45s —
+[00:11:15] [21/31] áudio cCNHD-fuwzw.mp4 (158285 KB) · Breve análise da atual situação política brasileira
+[07:44:30] ============================================================
+[07:44:30] RETRANSCRIÇÃO FINA | modelo=small | pendentes=11
+[07:45:09] Carregando Whisper small (CPU int8, threads=2)…
+[07:45:16] Modelo pronto.
+[07:45:16] [1/11] áudio cCNHD-fuwzw.mp4 (158285 KB) · Breve análise da atual situação política brasileira
+[08:31:03]   OK 11330 palavras em 2747s (ritmo 0.6× a duração)
+[08:31:11] [2/11] áudio dlQG02mwTD0.mp4 (140470 KB) · O Brasil perante a nova ordem mundial
+[09:24:19]   OK 12861 palavras em 3188s (ritmo 0.58× a duração)
+[09:24:27] [3/11] áudio XI1O86A0cNA.mp4 (274118 KB) · Aula do Curso Online de Filosofia de 7/8/2016
+[09:44:53]   OK 5164 palavras em 1225s (ritmo 0.38× a duração)
+[09:45:01] [4/11] áudio aEstAPRko8c.mp4 (140077 KB) · Olavo de Carvalho - Aula 432 do Curso Online de Filosofia
+[10:08:04]   OK 6058 palavras em 1384s (ritmo 0.51× a duração)
+[10:08:12] [5/11] áudio V_S95CfEzmc.mp4 (301572 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula 01 Co

@@ -120,7 +120,10 @@ def alvos(a) -> list[str]:
         return [i for i in dict.fromkeys(ids)
                 if not estado.get(i, {}).get("fonte", "").startswith("legenda manual")
                 and estado.get(i, {}).get("status") not in ("sem_acesso", "indisponivel")]
-    return [i for i, v in estado.items() if v.get("status") == "sem_legenda"]
+    return [i for i, v in estado.items()
+            if v.get("status") == "sem_legenda"
+            or (v.get("status") in ("erro", "sem_acesso")
+                and (ROOT / "ACERVO" / "VIDEOS" / f"{i}.mp4").exists())]
 
 
 def main() -> int:

@@ -21,7 +21,7 @@ const TIPOS: Record<string, string> = {
 const nomes = (pasta: string, ext: string) =>
   existsSync(pasta)
     ? readdirSync(pasta)
-        .filter((n) => n.endsWith(ext) && !n.startsWith('_') && !/\.(f[\d-]+|temp|part)\./.test(n))
+        .filter((n) => n.endsWith(ext) && !/^_(estado|log|indice)/.test(n) && !/\.(f[\d-]+|temp|part)\./.test(n))
         .map((n) => n.slice(0, -ext.length))
     : []
 

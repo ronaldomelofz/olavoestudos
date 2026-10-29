@@ -180,9 +180,9 @@
   "em": "2026-10-28T10:43:57"
  },
  "QPhIWgfsjPM": {
-  "status": "erro",
-  "erro": "] Got error: <urllib3.connection.HTTPSConnection object at 0x0000018E8449B650>: Failed to resolve 'rr2---sn-8pguxmcg-uixz.googlevideo.com' ([Errno 11001] getaddrinfo failed). Giving up after 5 retries",
-  "em": "2026-10-28T10:45:38"
+  "status": "ok",
+  "mb": 146.6,
+  "em": "2026-10-29T00:33:01"
  },
  "XI1O86A0cNA": {
   "status": "ok",
@@ -293,5 +293,5220 @@
   "status": "ok",
   "mb": 70.0,
   "em": "2026-10-28T11:13:51"
+ },
+ "SDClzBDvQx0": {
+  "status": "ok",
+  "mb": 66.9,
+  "em": "2026-10-28T11:14:44"
+ },
+ "Q66417GEuNQ": {
+  "status": "ok",
+  "mb": 70.2,
+  "em": "2026-10-28T11:17:08"
+ },
+ "twWhXoLbmlk": {
+  "status": "ok",
+  "mb": 66.4,
+  "em": "2026-10-29T00:33:55"
+ },
+ "xXHuAs_Yx-M": {
+  "status": "ok",
+  "mb": 267.5,
+  "em": "2026-10-29T00:35:26"
+ },
+ "g1h_happxJU": {
+  "status": "ok",
+  "mb": 239.6,
+  "em": "2026-10-29T00:36:58"
+ },
+ "6XDbeOBbX0A": {
+  "status": "ok",
+  "mb": 223.4,
+  "em": "2026-10-29T00:38:15"
+ },
+ "XMkqFfs-veo": {
+  "status": "ok",
+  "mb": 271.9,
+  "em": "2026-10-29T00:39:46"
+ },
+ "eCU_mlbHU3U": {
+  "status": "ok",
+  "mb": 382.3,
+  "em": "2026-10-29T00:41:46"
+ },
+ "fDXEn7Ptjr0": {
+  "status": "ok",
+  "mb": 313.9,
+  "em": "2026-10-29T00:44:01"
+ },
+ "kT-EE1w3qjI": {
+  "status": "ok",
+  "mb": 285.8,
+  "em": "2026-10-29T07:44:52"
+ },
+ "FS-bOcDgqUU": {
+  "status": "ok",
+  "mb": 293.6,
+  "em": "2026-10-29T07:46:22"
+ },
+ "V_S95CfEzmc": {
+  "status": "ok",
+  "mb": 308.8,
+  "em": "2026-10-29T07:47:43"
+ },
+ "0nu4zO48wWs": {
+  "status": "ok",
+  "mb": 182.4,
+  "em": "2026-10-28T11:30:09"
+ },
+ "XC5UX2E8H6c": {
+  "status": "ok",
+  "mb": 99.3,
+  "em": "2026-10-29T07:48:23"
+ },
+ "XNrKmaIIxaQ": {
+  "status": "ok",
+  "mb": 164.9,
+  "em": "2026-10-29T07:49:17"
+ },
+ "IzBoTtEiHn0": {
+  "status": "ok",
+  "mb": 98.0,
+  "em": "2026-10-29T07:50:03"
+ },
+ "KC9KIHC5zrg": {
+  "status": "ok",
+  "mb": 26.8,
+  "em": "2026-10-29T07:50:35"
+ },
+ "A0vN9dy5fps": {
+  "status": "ok",
+  "mb": 24.8,
+  "em": "2026-10-29T07:51:03"
+ },
+ "1n2s2-Ordcs": {
+  "status": "ok",
+  "mb": 13.0,
+  "em": "2026-10-28T11:35:53"
+ },
+ "b5DYbKb-nnE": {
+  "status": "ok",
+  "mb": 59.4,
+  "em": "2026-10-29T07:51:33"
+ },
+ "q4xWwY-mozI": {
+  "status": "ok",
+  "mb": 31.6,
+  "em": "2026-10-29T07:52:01"
+ },
+ "p23wgf2-U-o": {
+  "status": "ok",
+  "mb": 23.1,
+  "em": "2026-10-28T11:40:42"
+ },
+ "qBVnqgtLoOw": {
+  "status": "ok",
+  "mb": 38.3,
+  "em": "2026-10-29T07:54:03"
+ },
+ "wL22hh3inSk": {
+  "status": "ok",
+  "mb": 311.0,
+  "em": "2026-10-29T07:55:31"
+ },
+ "1wuD1v8F-bE": {
+  "status": "ok",
+  "mb": 18.7,
+  "em": "2026-10-29T07:56:00"
+ },
+ "OtYlnP32yqk": {
+  "status": "ok",
+  "mb": 20.3,
+  "em": "2026-10-29T07:56:30"
+ },
+ "Ky9vwB16STQ": {
+  "status": "ok",
+  "mb": 21.0,
+  "em": "2026-10-29T07:56:58"
+ },
+ "yQkkCCAhAvo": {
+  "status": "ok",
+  "mb": 10.1,
+  "em": "2026-10-29T07:57:26"
+ },
+ "SL08ppKVZFo": {
+  "status": "ok",
+  "mb": 265.2,
+  "em": "2026-10-29T07:59:02"
+ },
+ "k_yIYsuzbUw": {
+  "status": "ok",
+  "mb": 99.7,
+  "em": "2026-10-29T07:59:44"
+ },
+ "5s77o2ZhIVM": {
+  "status": "ok",
+  "mb": 46.1,
+  "em": "2026-10-29T08:00:18"
+ },
+ "k6K9EVOG6gs": {
+  "status": "ok",
+  "mb": 75.7,
+  "em": "2026-10-29T08:00:57"
+ },
+ "RdSFiSOQSmI": {
+  "status": "ok",
+  "mb": 198.2,
+  "em": "2026-10-29T08:03:31"
+ },
+ "62ieNAwbM-w": {
+  "status": "ok",
+  "mb": 23.2,
+  "em": "2026-10-29T08:04:00"
+ },
+ "ojsU1aShFvI": {
+  "status": "ok",
+  "mb": 34.2,
+  "em": "2026-10-29T08:04:39"
+ },
+ "G694yNnpeVg": {
+  "status": "ok",
+  "mb": 248.6,
+  "em": "2026-10-28T11:55:49"
+ },
+ "Tog9FgT_85E": {
+  "status": "ok",
+  "mb": 204.0,
+  "em": "2026-10-29T08:06:11"
+ },
+ "6ee7V-mwGI0": {
+  "status": "ok",
+  "mb": 157.5,
+  "em": "2026-10-28T11:57:14"
+ },
+ "lpeGLjfEM2E": {
+  "status": "ok",
+  "mb": 169.4,
+  "em": "2026-10-28T11:57:54"
+ },
+ "-xK69yPTXUk": {
+  "status": "ok",
+  "mb": 55.6,
+  "em": "2026-10-29T08:06:48"
+ },
+ "26hOf3YFP1E": {
+  "status": "ok",
+  "mb": 140.7,
+  "em": "2026-10-28T11:59:08"
+ },
+ "c0OhfJuA-SM": {
+  "status": "ok",
+  "mb": 33.8,
+  "em": "2026-10-28T12:01:16"
+ },
+ "CHCQ-RCahVw": {
+  "status": "ok",
+  "mb": 174.3,
+  "em": "2026-10-29T08:07:46"
+ },
+ "Do-u4DdS7Qo": {
+  "status": "ok",
+  "mb": 76.4,
+  "em": "2026-10-28T12:03:23"
+ },
+ "CSK7ZJOfJ60": {
+  "status": "ok",
+  "mb": 150.3,
+  "em": "2026-10-28T12:04:03"
+ },
+ "S7U9-78a6sw": {
+  "status": "ok",
+  "mb": 185.6,
+  "em": "2026-10-29T08:08:44"
+ },
+ "ILZEz-3Yz2A": {
+  "status": "ok",
+  "mb": 89.2,
+  "em": "2026-10-28T12:05:15"
+ },
+ "CeahwoI-ygk": {
+  "status": "ok",
+  "mb": 183.1,
+  "em": "2026-10-28T12:07:15"
+ },
+ "mHVcLO2WC74": {
+  "status": "ok",
+  "mb": 108.1,
+  "em": "2026-10-28T12:08:14"
+ },
+ "_zFPBbwZwEs": {
+  "status": "ok",
+  "mb": 44.5,
+  "em": "2026-10-28T12:10:29"
+ },
+ "Zl7OY5KdcIU": {
+  "status": "ok",
+  "mb": 17.3,
+  "em": "2026-10-28T12:11:00"
+ },
+ "FrH1c6JHZk8": {
+  "status": "ok",
+  "mb": 40.7,
+  "em": "2026-10-28T12:14:29"
+ },
+ "KtpxGQPUDq8": {
+  "status": "ok",
+  "mb": 27.5,
+  "em": "2026-10-28T12:15:02"
+ },
+ "ttFbX9vp5Bk": {
+  "status": "ok",
+  "mb": 11.8,
+  "em": "2026-10-28T12:16:29"
+ },
+ "5MzgQ_oZOqs": {
+  "status": "ok",
+  "mb": 14.3,
+  "em": "2026-10-28T12:17:01"
+ },
+ "KwPbBVPu0cI": {
+  "status": "ok",
+  "mb": 32.2,
+  "em": "2026-10-28T12:18:19"
+ },
+ "JafChbIw_BM": {
+  "status": "ok",
+  "mb": 6.7,
+  "em": "2026-10-28T12:19:15"
+ },
+ "KoD_arMJ2PU": {
+  "status": "ok",
+  "mb": 9.8,
+  "em": "2026-10-28T12:19:52"
+ },
+ "-MhNgX-kuPk": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T12:20:29"
+ },
+ "Tfc3wXYbBog": {
+  "status": "ok",
+  "mb": 9.3,
+  "em": "2026-10-28T12:21:05"
+ },
+ "JL-MHE6yyQY": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T12:21:28"
+ },
+ "rTBhhl6eLrg": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T12:23:20"
+ },
+ "xYYKXZTg24A": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T12:23:43"
+ },
+ "9ScWBkvPT5o": {
+  "status": "ok",
+  "mb": 10.1,
+  "em": "2026-10-28T12:24:10"
+ },
+ "3TzQjC5GhHo": {
+  "status": "ok",
+  "mb": 18.9,
+  "em": "2026-10-28T12:24:37"
+ },
+ "1fPYs-1ruEk": {
+  "status": "ok",
+  "mb": 14.8,
+  "em": "2026-10-28T12:25:08"
+ },
+ "NJr4KDno3iY": {
+  "status": "ok",
+  "mb": 15.5,
+  "em": "2026-10-28T12:25:34"
+ },
+ "ZJ37UvMF5sg": {
+  "status": "ok",
+  "mb": 24.4,
+  "em": "2026-10-28T12:26:02"
+ },
+ "V6BqkcF8kZo": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T12:26:28"
+ },
+ "za4N6eTQkdc": {
+  "status": "ok",
+  "mb": 17.7,
+  "em": "2026-10-28T12:26:58"
+ },
+ "1MxskbSM6K8": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T12:27:25"
+ },
+ "ofF68X846yo": {
+  "status": "ok",
+  "mb": 7.1,
+  "em": "2026-10-28T12:29:22"
+ },
+ "TxuuOCVS2Gk": {
+  "status": "ok",
+  "mb": 19.6,
+  "em": "2026-10-28T12:29:51"
+ },
+ "NsCSduEoPag": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T12:30:17"
+ },
+ "9OMJk9FVqXM": {
+  "status": "ok",
+  "mb": 29.9,
+  "em": "2026-10-28T12:30:47"
+ },
+ "-xRT-Mh7f8Y": {
+  "status": "ok",
+  "mb": 24.0,
+  "em": "2026-10-28T12:31:18"
+ },
+ "3ZDZ3fPqPTk": {
+  "status": "ok",
+  "mb": 25.2,
+  "em": "2026-10-28T12:31:45"
+ },
+ "byPcz4e3GII": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T12:32:11"
+ },
+ "g3epjUL52Hg": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T12:32:34"
+ },
+ "_QZ_b3FFH_w": {
+  "status": "ok",
+  "mb": 49.9,
+  "em": "2026-10-28T12:33:07"
+ },
+ "h4oJqaf5-zs": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T12:33:34"
+ },
+ "o7lHcICqBP0": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T12:35:31"
+ },
+ "NoZHxchX7YA": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T12:35:58"
+ },
+ "ccd7hcHiFDw": {
+  "status": "ok",
+  "mb": 8.8,
+  "em": "2026-10-28T12:36:24"
+ },
+ "h4Vruu0gV2A": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-28T12:36:50"
+ },
+ "F0cznvahW1s": {
+  "status": "ok",
+  "mb": 32.7,
+  "em": "2026-10-28T12:37:19"
+ },
+ "STexrVegdKk": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T12:37:47"
+ },
+ "Mynx8abq18g": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T12:38:13"
+ },
+ "wNQVqZtUS9U": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-28T12:38:40"
+ },
+ "XNWcWXs8yxA": {
+  "status": "ok",
+  "mb": 0.8,
+  "em": "2026-10-28T12:39:06"
+ },
+ "bkY_dLbhH9I": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T12:39:32"
+ },
+ "lhvstG03OJ0": {
+  "status": "ok",
+  "mb": 39.8,
+  "em": "2026-10-28T12:41:31"
+ },
+ "0IPl-eJi4kg": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T12:41:58"
+ },
+ "NcRlJ0ZPJ0M": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T12:42:24"
+ },
+ "-Q3rF44o3bk": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T12:42:50"
+ },
+ "WgPPYWFDd4E": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T12:43:16"
+ },
+ "x32sPP-xeA4": {
+  "status": "ok",
+  "mb": 18.8,
+  "em": "2026-10-28T12:43:45"
+ },
+ "nsGh8NhXTvs": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T12:44:12"
+ },
+ "qRTajwOfXdk": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T12:44:37"
+ },
+ "vYSlne80aTA": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T12:45:03"
+ },
+ "ffdaAal487U": {
+  "status": "ok",
+  "mb": 36.9,
+  "em": "2026-10-28T12:45:41"
+ },
+ "ZNJhz4IW8HE": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T12:47:38"
+ },
+ "ifbUZYC26Uc": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T12:48:06"
+ },
+ "BjIVs8GHYWU": {
+  "status": "ok",
+  "mb": 9.1,
+  "em": "2026-10-28T12:48:32"
+ },
+ "uWwIxD37KY0": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T12:48:58"
+ },
+ "RmfJOrq_QtQ": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T12:49:24"
+ },
+ "dYGWmtvmq4k": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T12:49:50"
+ },
+ "zJ6-dxhbCnE": {
+  "status": "ok",
+  "mb": 25.1,
+  "em": "2026-10-28T12:50:17"
+ },
+ "kg98KIW0wkI": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T12:50:43"
+ },
+ "uCywgN5lG84": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T12:51:09"
+ },
+ "A8XfakPgZkg": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T12:51:37"
+ },
+ "wq0o5EnqzaA": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T12:53:33"
+ },
+ "nSUTAHkYuAo": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T12:54:03"
+ },
+ "T4_8a8LObBk": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T12:54:28"
+ },
+ "llS3EP4u_9M": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T12:54:54"
+ },
+ "kf5S00poC6o": {
+  "status": "ok",
+  "mb": 30.9,
+  "em": "2026-10-28T12:55:23"
+ },
+ "aDW_g-MbW-A": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T12:55:51"
+ },
+ "fswzcvIRiu8": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T12:56:18"
+ },
+ "oGxmYiBXpV4": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T12:56:44"
+ },
+ "wruGgpYRcRc": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T12:57:11"
+ },
+ "hznS1V2SbXQ": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T12:57:36"
+ },
+ "JzO-Ol2etlA": {
+  "status": "ok",
+  "mb": 173.8,
+  "em": "2026-10-28T12:59:58"
+ },
+ "s9OQ8rzJ6Dg": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T13:00:26"
+ },
+ "_bopa4eVF4U": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:00:53"
+ },
+ "dU4nw8MpeR0": {
+  "status": "ok",
+  "mb": 27.1,
+  "em": "2026-10-28T13:01:25"
+ },
+ "NKdpxJwZrNM": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T13:01:51"
+ },
+ "PcozXtJb5Jw": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T13:02:17"
+ },
+ "CZwHfXUQS58": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T13:02:45"
+ },
+ "m7FQ0ZMx294": {
+  "status": "ok",
+  "mb": 76.8,
+  "em": "2026-10-28T13:03:17"
+ },
+ "K8prpxsuus4": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T13:03:43"
+ },
+ "g2wQ3Lul-_8": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T13:04:09"
+ },
+ "dXhYQOxzYME": {
+  "status": "ok",
+  "mb": 19.5,
+  "em": "2026-10-28T13:06:07"
+ },
+ "AvbwbBxKO20": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:06:34"
+ },
+ "fmXxUqeOHEE": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:06:59"
+ },
+ "9CM47wJI_Wc": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:07:26"
+ },
+ "VgmgaQmoGGU": {
+  "status": "ok",
+  "mb": 195.9,
+  "em": "2026-10-28T13:08:02"
+ },
+ "JdmZ9IjiOc8": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:08:29"
+ },
+ "wmpDZRlom1M": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:08:55"
+ },
+ "xbfQuDBT2Y8": {
+  "status": "ok",
+  "mb": 12.1,
+  "em": "2026-10-28T13:09:23"
+ },
+ "OWKCIzF3-sY": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T13:09:49"
+ },
+ "LCac4YJokv4": {
+  "status": "ok",
+  "mb": 47.4,
+  "em": "2026-10-28T13:10:20"
+ },
+ "KXfGLri88ms": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:12:17"
+ },
+ "tYkpKP7rViY": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T13:12:43"
+ },
+ "Oxrkm-4JGyo": {
+  "status": "ok",
+  "mb": 11.2,
+  "em": "2026-10-28T13:13:08"
+ },
+ "dYK-IYVRP7g": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T13:13:35"
+ },
+ "pXaj2cz8Tzg": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T13:14:01"
+ },
+ "qLwzkSzLHck": {
+  "status": "ok",
+  "mb": 50.7,
+  "em": "2026-10-28T13:14:30"
+ },
+ "3Ygy25Lwgxw": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:14:55"
+ },
+ "pUjxKBcMmgo": {
+  "status": "ok",
+  "mb": 21.1,
+  "em": "2026-10-28T13:15:23"
+ },
+ "LJjhrSVvVFY": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T13:15:50"
+ },
+ "PuHIN6Gb-K4": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:16:17"
+ },
+ "99nP4solYsc": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T13:18:13"
+ },
+ "43cllYLgG3I": {
+  "status": "ok",
+  "mb": 35.4,
+  "em": "2026-10-28T13:18:44"
+ },
+ "VkO2e28P7Mk": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:19:11"
+ },
+ "sy-gyVrwRxI": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T13:19:36"
+ },
+ "wWSR_fHc0tA": {
+  "status": "ok",
+  "mb": 0.7,
+  "em": "2026-10-28T13:20:03"
+ },
+ "vPCn7s8PRG8": {
+  "status": "ok",
+  "mb": 25.8,
+  "em": "2026-10-28T13:20:33"
+ },
+ "VjUrPicuyec": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:21:00"
+ },
+ "p0viC-tpHjY": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T13:21:26"
+ },
+ "XL2cFVsETtE": {
+  "status": "ok",
+  "mb": 65.3,
+  "em": "2026-10-28T13:21:55"
+ },
+ "FDbV1qaZYBw": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T13:22:22"
+ },
+ "niTf6m9XSLU": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T13:24:19"
+ },
+ "E1tidACzouw": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T13:24:44"
+ },
+ "TrQpyi7RqqI": {
+  "status": "ok",
+  "mb": 0.8,
+  "em": "2026-10-28T13:25:13"
+ },
+ "9-4_NI1quWk": {
+  "status": "ok",
+  "mb": 65.6,
+  "em": "2026-10-28T13:25:54"
+ },
+ "05zFlZ-d4ss": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T13:26:19"
+ },
+ "1XzZl4GlkcE": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:26:44"
+ },
+ "YiVS7e4yeVw": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:27:20"
+ },
+ "8qXhhVKhPgM": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T13:27:47"
+ },
+ "sDjymtHeyJE": {
+  "status": "ok",
+  "mb": 89.3,
+  "em": "2026-10-28T13:28:28"
+ },
+ "1CRfwVV8GoA": {
+  "status": "ok",
+  "mb": 37.4,
+  "em": "2026-10-28T13:29:01"
+ },
+ "sx-Jq5v7_9k": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:30:58"
+ },
+ "zzRuCr-m-vg": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:31:25"
+ },
+ "J_rPPjerxRs": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:31:51"
+ },
+ "rLrHmkxb6u8": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T13:32:17"
+ },
+ "ilJiuGfmdaI": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T13:32:44"
+ },
+ "w-ARTcJt200": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:33:09"
+ },
+ "ul7D1GtsmWo": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:33:42"
+ },
+ "u-VEdmnbwRE": {
+  "status": "ok",
+  "mb": 23.5,
+  "em": "2026-10-28T13:34:10"
+ },
+ "iOihEpaHZrU": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:34:37"
+ },
+ "4bWhY9vUxD0": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T13:35:03"
+ },
+ "4XENsnyxt8g": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:37:00"
+ },
+ "N3ZqxTHrBfE": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T13:37:27"
+ },
+ "42Jn7OgLJns": {
+  "status": "ok",
+  "mb": 59.0,
+  "em": "2026-10-28T13:37:59"
+ },
+ "6Wv-3cOeUrM": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:38:25"
+ },
+ "bKwDe5UXp2E": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:38:52"
+ },
+ "wGYoeZnoN9I": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T13:39:18"
+ },
+ "9HIQUi13Tr8": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T13:39:45"
+ },
+ "CGpuKgDAfYg": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T13:40:12"
+ },
+ "Gk-6NTKWN7w": {
+  "status": "ok",
+  "mb": 13.0,
+  "em": "2026-10-28T13:40:41"
+ },
+ "R0TybyipF8o": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:41:07"
+ },
+ "35mlEXC9fv0": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T13:43:02"
+ },
+ "GsSQXcUuD4w": {
+  "status": "ok",
+  "mb": 13.0,
+  "em": "2026-10-28T13:43:31"
+ },
+ "lbRjzzmYlQ4": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T13:43:58"
+ },
+ "RjYKNpd73zI": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T13:44:24"
+ },
+ "e5xu_Fb8RJU": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T13:44:52"
+ },
+ "RG3nHeTVr38": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:45:17"
+ },
+ "A8rxwi86CEU": {
+  "status": "ok",
+  "mb": 53.7,
+  "em": "2026-10-28T13:45:48"
+ },
+ "jRb7gUozlWk": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:46:15"
+ },
+ "wCcYww5DTaI": {
+  "status": "ok",
+  "mb": 53.5,
+  "em": "2026-10-28T13:46:45"
+ },
+ "4pWPGWpbKQY": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T13:47:12"
+ },
+ "yay8JDZ4YFA": {
+  "status": "ok",
+  "mb": 85.5,
+  "em": "2026-10-28T13:49:20"
+ },
+ "34t13ZcoEHg": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T13:49:47"
+ },
+ "d8TBXpObdm0": {
+  "status": "ok",
+  "mb": 25.9,
+  "em": "2026-10-28T13:50:17"
+ },
+ "-VrHfHL18gw": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T13:50:43"
+ },
+ "XaL8-c3hi50": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T13:51:09"
+ },
+ "18Ne1ZTmL2s": {
+  "status": "ok",
+  "mb": 2.4,
+  "em": "2026-10-28T13:51:35"
+ },
+ "TF-B0kJXIjI": {
+  "status": "ok",
+  "mb": 135.3,
+  "em": "2026-10-28T13:52:30"
+ },
+ "o3IPIY4E6bE": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T13:52:57"
+ },
+ "JfgERmdJtbs": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:53:23"
+ },
+ "QElxL7ROxXU": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T13:53:49"
+ },
+ "dRViCeNQHCE": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T13:55:45"
+ },
+ "t3rarcalAno": {
+  "status": "ok",
+  "mb": 67.2,
+  "em": "2026-10-28T13:56:24"
+ },
+ "8bi9K61RO6s": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T13:56:51"
+ },
+ "_lox432CHhI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T13:57:17"
+ },
+ "K3_OR0DPqTg": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T13:57:43"
+ },
+ "rxerLthdxhw": {
+  "status": "ok",
+  "mb": 12.4,
+  "em": "2026-10-28T13:58:11"
+ },
+ "u6UDmbeSu-Y": {
+  "status": "ok",
+  "mb": 23.5,
+  "em": "2026-10-28T13:58:38"
+ },
+ "HWUOZqPh4fw": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:59:05"
+ },
+ "X92svRlESDw": {
+  "status": "ok",
+  "mb": 14.1,
+  "em": "2026-10-28T13:59:34"
+ },
+ "kJ2nV5FN-lg": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T13:59:59"
+ },
+ "FImvtDUkCAI": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T14:01:57"
+ },
+ "mWylX6DJ7VI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T14:02:22"
+ },
+ "raetl_PYrfQ": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T14:02:45"
+ },
+ "INiLw3Yiy4A": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T14:03:12"
+ },
+ "QqMDBL_PzWI": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:03:38"
+ },
+ "MLbhHM4u3eE": {
+  "status": "ok",
+  "mb": 24.6,
+  "em": "2026-10-28T14:04:09"
+ },
+ "KRZ-Ziq-2i4": {
+  "status": "ok",
+  "mb": 12.4,
+  "em": "2026-10-28T14:04:37"
+ },
+ "On-PyKuSnmo": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:05:03"
+ },
+ "fBxM1720wdg": {
+  "status": "ok",
+  "mb": 15.6,
+  "em": "2026-10-28T14:05:34"
+ },
+ "0P6Txxatce4": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T14:06:00"
+ },
+ "OkbGxArEldE": {
+  "status": "ok",
+  "mb": 2.6,
+  "em": "2026-10-28T14:07:57"
+ },
+ "n2CQT1NZAkE": {
+  "status": "ok",
+  "mb": 155.0,
+  "em": "2026-10-28T14:08:48"
+ },
+ "4xAhTek2GX0": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:09:15"
+ },
+ "uRLYFcm9nKo": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:09:42"
+ },
+ "8NYKqXo_SwI": {
+  "status": "ok",
+  "mb": 13.3,
+  "em": "2026-10-28T14:10:12"
+ },
+ "YaqOloE-yII": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T14:10:40"
+ },
+ "0FKwhhAhO-c": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T14:11:05"
+ },
+ "Z1ABfIyjSlY": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T14:11:31"
+ },
+ "eOwZHHtc3dY": {
+  "status": "ok",
+  "mb": 20.4,
+  "em": "2026-10-28T14:12:02"
+ },
+ "yLlHDSiP4Gk": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T14:12:29"
+ },
+ "Z8xYuF891WI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T14:14:27"
+ },
+ "6w-it-X63jo": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T14:14:53"
+ },
+ "1IwhtZJtRuw": {
+  "status": "ok",
+  "mb": 21.0,
+  "em": "2026-10-28T14:15:24"
+ },
+ "yyHkdTuIIw0": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T14:15:51"
+ },
+ "DZluiTQHz5Y": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:16:19"
+ },
+ "lm31dlNeBFI": {
+  "status": "ok",
+  "mb": 56.6,
+  "em": "2026-10-28T14:16:54"
+ },
+ "i_tp3MtQcfc": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T14:17:21"
+ },
+ "dza_u64Ea44": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:17:47"
+ },
+ "Hs3bC9h8F9c": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T14:18:12"
+ },
+ "QIQJdwY6fEk": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T14:18:39"
+ },
+ "-RKkB1w6U7Q": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T14:20:35"
+ },
+ "q9wWPcpJgcs": {
+  "status": "ok",
+  "mb": 17.9,
+  "em": "2026-10-28T14:21:06"
+ },
+ "VV1Hd0eeC-8": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T14:21:33"
+ },
+ "JedONtDnIbY": {
+  "status": "ok",
+  "mb": 3.3,
+  "em": "2026-10-28T14:22:00"
+ },
+ "nEctiMDWoJU": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T14:22:26"
+ },
+ "2pQoegTWByg": {
+  "status": "ok",
+  "mb": 38.5,
+  "em": "2026-10-28T14:22:59"
+ },
+ "q3eSLd5nhqM": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T14:23:25"
+ },
+ "mydKg3zRPtw": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T14:23:52"
+ },
+ "ASVsCR-6uFM": {
+  "status": "ok",
+  "mb": 18.8,
+  "em": "2026-10-28T14:24:20"
+ },
+ "MKvbedQZty4": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T14:24:45"
+ },
+ "2bJhdBn_KSE": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T14:26:41"
+ },
+ "eR4s0SQd30U": {
+  "status": "ok",
+  "mb": 38.0,
+  "em": "2026-10-28T14:27:11"
+ },
+ "UKWZcpL0AIk": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:27:37"
+ },
+ "OfOJSxGlhvQ": {
+  "status": "ok",
+  "mb": 33.2,
+  "em": "2026-10-28T14:28:10"
+ },
+ "QEyp6kx4Jjw": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T14:28:38"
+ },
+ "xWvhfYzOTIY": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:29:03"
+ },
+ "SvS_8kfl1Jw": {
+  "status": "ok",
+  "mb": 31.3,
+  "em": "2026-10-28T14:29:38"
+ },
+ "PU_mwBakA1Q": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T14:30:06"
+ },
+ "ECFVLUe1BNw": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:30:32"
+ },
+ "P97Q5eZgU5Y": {
+  "status": "ok",
+  "mb": 24.0,
+  "em": "2026-10-28T14:31:04"
+ },
+ "SzfRnMIrlI8": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:33:01"
+ },
+ "Cfpm3rHEPQY": {
+  "status": "ok",
+  "mb": 63.3,
+  "em": "2026-10-28T14:33:33"
+ },
+ "pdwpjDWJVqw": {
+  "status": "ok",
+  "mb": 0.7,
+  "em": "2026-10-28T14:33:58"
+ },
+ "N9zwPqD9lWw": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:34:24"
+ },
+ "UrAOKvlWg64": {
+  "status": "ok",
+  "mb": 15.9,
+  "em": "2026-10-28T14:34:51"
+ },
+ "LKXqnx-51bY": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T14:35:18"
+ },
+ "g9Zhnn1uRzU": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T14:35:44"
+ },
+ "QefMKUZGZzQ": {
+  "status": "ok",
+  "mb": 35.8,
+  "em": "2026-10-28T14:36:11"
+ },
+ "gpIXFCbAOIU": {
+  "status": "ok",
+  "mb": 57.1,
+  "em": "2026-10-28T14:36:52"
+ },
+ "tLBgl4Ot3l4": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T14:37:18"
+ },
+ "vwqNzqYCZfs": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T14:39:13"
+ },
+ "L-8UVVelGEc": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T14:39:39"
+ },
+ "HARoKIUJNIU": {
+  "status": "ok",
+  "mb": 19.9,
+  "em": "2026-10-28T14:40:06"
+ },
+ "51oswn92sIY": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:40:33"
+ },
+ "ISEpzYHg0MI": {
+  "status": "ok",
+  "mb": 17.0,
+  "em": "2026-10-28T14:41:02"
+ },
+ "Ao-YJAevDak": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:41:27"
+ },
+ "Qaf95ixJ0bY": {
+  "status": "ok",
+  "mb": 82.0,
+  "em": "2026-10-28T14:42:11"
+ },
+ "LkLAJGyvuvY": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T14:42:36"
+ },
+ "AJ1nAtifJ0s": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T14:43:02"
+ },
+ "Jkl3inQT4Vk": {
+  "status": "ok",
+  "mb": 44.3,
+  "em": "2026-10-28T14:43:34"
+ },
+ "fHG4Dbdd-Qg": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T14:45:30"
+ },
+ "BVA4Xk8Jqos": {
+  "status": "ok",
+  "mb": 55.0,
+  "em": "2026-10-28T14:46:09"
+ },
+ "dL150PhDuXI": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:46:35"
+ },
+ "4JWaGAi5PN8": {
+  "status": "ok",
+  "mb": 59.4,
+  "em": "2026-10-28T14:47:08"
+ },
+ "u9rBBDSqHWE": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T14:47:34"
+ },
+ "o7pmngvx_Nc": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T14:48:02"
+ },
+ "RjXPSsho49g": {
+  "status": "ok",
+  "mb": 22.1,
+  "em": "2026-10-28T14:48:28"
+ },
+ "kokjI2Fgz2M": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T14:48:56"
+ },
+ "q6vyNaQVA-o": {
+  "status": "ok",
+  "mb": 15.0,
+  "em": "2026-10-28T14:49:24"
+ },
+ "IGmCwL2owf4": {
+  "status": "ok",
+  "mb": 13.5,
+  "em": "2026-10-28T14:49:51"
+ },
+ "Nlm6zY7XbW4": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T14:51:47"
+ },
+ "ghz__of0QPM": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T14:52:21"
+ },
+ "ytpzadKOrsE": {
+  "status": "ok",
+  "mb": 4.7,
+  "em": "2026-10-28T14:52:46"
+ },
+ "qSB6y3KdKwM": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T14:53:09"
+ },
+ "GE5m6sC0xSM": {
+  "status": "ok",
+  "mb": 3.4,
+  "em": "2026-10-28T14:53:36"
+ },
+ "MnzI7ClNIas": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T14:54:00"
+ },
+ "21-xpVywGDY": {
+  "status": "ok",
+  "mb": 3.5,
+  "em": "2026-10-28T14:54:34"
+ },
+ "fjOb6umh28I": {
+  "status": "ok",
+  "mb": 0.5,
+  "em": "2026-10-28T14:55:00"
+ },
+ "86P0f-dy1K8": {
+  "status": "ok",
+  "mb": 6.7,
+  "em": "2026-10-28T14:55:26"
+ },
+ "CYh8sF_Zgmw": {
+  "status": "ok",
+  "mb": 3.0,
+  "em": "2026-10-28T14:55:53"
+ },
+ "sHzQLjp3MKo": {
+  "status": "ok",
+  "mb": 3.3,
+  "em": "2026-10-28T14:57:49"
+ },
+ "4O37GI8lJf4": {
+  "status": "ok",
+  "mb": 4.4,
+  "em": "2026-10-28T14:58:16"
+ },
+ "_2JKJBsIsRM": {
+  "status": "ok",
+  "mb": 3.2,
+  "em": "2026-10-28T14:58:43"
+ },
+ "UU1VQNDmk30": {
+  "status": "ok",
+  "mb": 102.7,
+  "em": "2026-10-28T14:59:33"
+ },
+ "4qMSWlTDUKc": {
+  "status": "ok",
+  "mb": 60.9,
+  "em": "2026-10-28T15:00:38"
+ },
+ "G-bRw7uQ6Ns": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T15:01:00"
+ },
+ "U9yFWEdKBLg": {
+  "status": "ok",
+  "mb": 50.6,
+  "em": "2026-10-28T15:01:38"
+ },
+ "KtgFe5JZukY": {
+  "status": "ok",
+  "mb": 31.2,
+  "em": "2026-10-28T15:02:12"
+ },
+ "AynOyP6BIAk": {
+  "status": "ok",
+  "mb": 169.2,
+  "em": "2026-10-28T15:02:51"
+ },
+ "icRvnOQx438": {
+  "status": "ok",
+  "mb": 192.2,
+  "em": "2026-10-28T15:04:08"
+ },
+ "BOJJtjw-3Go": {
+  "status": "ok",
+  "mb": 151.8,
+  "em": "2026-10-28T15:06:44"
+ },
+ "dp052i8u8tc": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T15:07:17"
+ },
+ "wZHmVzzWDZA": {
+  "status": "ok",
+  "mb": 204.0,
+  "em": "2026-10-28T15:08:48"
+ },
+ "CtpIImcOQr4": {
+  "status": "ok",
+  "mb": 165.2,
+  "em": "2026-10-28T15:10:01"
+ },
+ "xCfFmQiVEds": {
+  "status": "ok",
+  "mb": 91.0,
+  "em": "2026-10-28T15:10:56"
+ },
+ "r1M9g0cHRfE": {
+  "status": "ok",
+  "mb": 69.1,
+  "em": "2026-10-28T15:11:32"
+ },
+ "C8iCkgXF6OM": {
+  "status": "ok",
+  "mb": 209.6,
+  "em": "2026-10-28T15:12:37"
+ },
+ "i-vZqpkAKPE": {
+  "status": "ok",
+  "mb": 11.7,
+  "em": "2026-10-28T15:13:06"
+ },
+ "yR0F1haQ07Y": {
+  "status": "ok",
+  "mb": 22.7,
+  "em": "2026-10-29T08:09:21"
+ },
+ "ugpo9Odsex0": {
+  "status": "ok",
+  "mb": 123.5,
+  "em": "2026-10-28T15:14:36"
+ },
+ "OYrJSwbVgFM": {
+  "status": "ok",
+  "mb": 23.6,
+  "em": "2026-10-28T15:16:37"
+ },
+ "vtMRr-C_0ao": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T15:17:02"
+ },
+ "fV144QgJpIQ": {
+  "status": "ok",
+  "mb": 24.2,
+  "em": "2026-10-28T15:17:29"
+ },
+ "N2-Al_ECB2I": {
+  "status": "ok",
+  "mb": 8.3,
+  "em": "2026-10-28T15:17:57"
+ },
+ "eYrbX4yqCG4": {
+  "status": "ok",
+  "mb": 14.8,
+  "em": "2026-10-28T15:18:25"
+ },
+ "efeZO-_PUhg": {
+  "status": "ok",
+  "mb": 16.6,
+  "em": "2026-10-28T15:18:56"
+ },
+ "aeAmSXGHSrU": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T15:19:24"
+ },
+ "sjL2xEQ551I": {
+  "status": "ok",
+  "mb": 13.2,
+  "em": "2026-10-28T15:20:01"
+ },
+ "eNHhxzDjOK8": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T15:20:34"
+ },
+ "BUV5u5Ch6m0": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T15:21:00"
+ },
+ "ahNSUklkElI": {
+  "status": "ok",
+  "mb": 60.9,
+  "em": "2026-10-28T15:23:05"
+ },
+ "Oc7Nzi1bfCQ": {
+  "status": "indisponivel",
+  "erro": "ERROR: [youtube] Oc7Nzi1bfCQ: Video unavailable. This content is not available on this country domain due to a defamation complaint.",
+  "em": "2026-10-28T15:23:29"
+ },
+ "2cshnIg4CnE": {
+  "status": "ok",
+  "mb": 63.1,
+  "em": "2026-10-28T15:24:20"
+ },
+ "eOEHhwN_ULU": {
+  "status": "ok",
+  "mb": 16.7,
+  "em": "2026-10-28T15:24:51"
+ },
+ "vrV60VK6aPQ": {
+  "status": "ok",
+  "mb": 64.8,
+  "em": "2026-10-28T15:25:24"
+ },
+ "PksauAdgbwI": {
+  "status": "ok",
+  "mb": 4.6,
+  "em": "2026-10-28T15:26:01"
+ },
+ "ehjCZYDOoE0": {
+  "status": "ok",
+  "mb": 10.2,
+  "em": "2026-10-28T15:26:28"
+ },
+ "2Yuxx-4mmZM": {
+  "status": "ok",
+  "mb": 38.3,
+  "em": "2026-10-28T15:27:01"
+ },
+ "l6YIJAH0z4w": {
+  "status": "ok",
+  "mb": 43.6,
+  "em": "2026-10-28T15:27:37"
+ },
+ "YQB60Qnr_VE": {
+  "status": "ok",
+  "mb": 29.6,
+  "em": "2026-10-28T15:28:09"
+ },
+ "LHVIArPAbLo": {
+  "status": "ok",
+  "mb": 22.3,
+  "em": "2026-10-28T15:30:12"
+ },
+ "_VwXE2A0lIU": {
+  "status": "ok",
+  "mb": 12.0,
+  "em": "2026-10-28T15:30:39"
+ },
+ "-ztc_j1VwQ0": {
+  "status": "ok",
+  "mb": 26.4,
+  "em": "2026-10-28T15:31:07"
+ },
+ "DO7fraOiGMc": {
+  "status": "ok",
+  "mb": 32.5,
+  "em": "2026-10-28T15:31:38"
+ },
+ "N02U_kidfE8": {
+  "status": "ok",
+  "mb": 36.2,
+  "em": "2026-10-28T15:32:06"
+ },
+ "Qg7kEpY4amw": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T15:32:40"
+ },
+ "vqXI40Qg5os": {
+  "status": "ok",
+  "mb": 94.3,
+  "em": "2026-10-28T15:33:20"
+ },
+ "Px52qSmdQs8": {
+  "status": "ok",
+  "mb": 60.0,
+  "em": "2026-10-28T15:34:12"
+ },
+ "JJiLaXw-w1Q": {
+  "status": "ok",
+  "mb": 31.9,
+  "em": "2026-10-28T15:34:39"
+ },
+ "V9RwyHkGWMg": {
+  "status": "ok",
+  "mb": 60.1,
+  "em": "2026-10-29T08:10:00"
+ },
+ "JPTGdXEtotU": {
+  "status": "ok",
+  "mb": 87.2,
+  "em": "2026-10-28T15:37:21"
+ },
+ "4WeiU2dglcQ": {
+  "status": "ok",
+  "mb": 26.2,
+  "em": "2026-10-28T15:37:52"
+ },
+ "JH4X5B5bf1U": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-28T15:38:24"
+ },
+ "_JlbjvHgryg": {
+  "status": "ok",
+  "mb": 24.9,
+  "em": "2026-10-28T15:38:54"
+ },
+ "A-4XZ-D_Phw": {
+  "status": "ok",
+  "mb": 4.4,
+  "em": "2026-10-28T15:39:30"
+ },
+ "sUGeHHOEqmQ": {
+  "status": "ok",
+  "mb": 61.5,
+  "em": "2026-10-28T15:40:02"
+ },
+ "xO6iiFhRypo": {
+  "status": "ok",
+  "mb": 182.0,
+  "em": "2026-10-28T15:41:12"
+ },
+ "wh9B4SCbWxI": {
+  "status": "ok",
+  "mb": 13.3,
+  "em": "2026-10-28T15:41:39"
+ },
+ "91846rIFmY4": {
+  "status": "ok",
+  "mb": 54.2,
+  "em": "2026-10-28T15:42:22"
+ },
+ "rNYhYOvR0VQ": {
+  "status": "ok",
+  "mb": 6.8,
+  "em": "2026-10-28T15:42:59"
+ },
+ "qySuenfRkDk": {
+  "status": "ok",
+  "mb": 38.8,
+  "em": "2026-10-28T15:45:09"
+ },
+ "QGtuaDZiTpk": {
+  "status": "ok",
+  "mb": 31.5,
+  "em": "2026-10-28T15:45:49"
+ },
+ "TAIStMD2wto": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T15:46:15"
+ },
+ "Js7xh_F9ymg": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T15:46:43"
+ },
+ "Kxd6YRHyM7A": {
+  "status": "ok",
+  "mb": 52.4,
+  "em": "2026-10-28T15:47:15"
+ },
+ "VzWwYkWqGNE": {
+  "status": "ok",
+  "mb": 155.1,
+  "em": "2026-10-28T15:48:05"
+ },
+ "4yTukT1K9ps": {
+  "status": "ok",
+  "mb": 22.4,
+  "em": "2026-10-28T15:48:33"
+ },
+ "42FRg-s6IxQ": {
+  "status": "ok",
+  "mb": 78.4,
+  "em": "2026-10-28T15:49:11"
+ },
+ "Uh14QIzhvzc": {
+  "status": "ok",
+  "mb": 25.6,
+  "em": "2026-10-28T15:49:40"
+ },
+ "4-tdiX2S8g8": {
+  "status": "ok",
+  "mb": 15.9,
+  "em": "2026-10-28T15:50:18"
+ },
+ "esB1QabKz8E": {
+  "status": "ok",
+  "mb": 3.5,
+  "em": "2026-10-28T15:52:15"
+ },
+ "ZUDAWbXCVdQ": {
+  "status": "ok",
+  "mb": 95.3,
+  "em": "2026-10-28T15:53:08"
+ },
+ "5rI_C02H6gQ": {
+  "status": "ok",
+  "mb": 17.4,
+  "em": "2026-10-28T15:53:37"
+ },
+ "ONqaXpen7gs": {
+  "status": "ok",
+  "mb": 5.4,
+  "em": "2026-10-28T15:54:12"
+ },
+ "Po4pNxWWAHc": {
+  "status": "ok",
+  "mb": 25.7,
+  "em": "2026-10-28T15:54:41"
+ },
+ "JiR3weDyOvM": {
+  "status": "ok",
+  "mb": 11.2,
+  "em": "2026-10-28T15:55:10"
+ },
+ "vOdxGDMzS2Q": {
+  "status": "ok",
+  "mb": 14.0,
+  "em": "2026-10-28T15:55:38"
+ },
+ "9UOe97CqHKg": {
+  "status": "ok",
+  "mb": 9.2,
+  "em": "2026-10-28T15:56:04"
+ },
+ "kTDUtAaO41I": {
+  "status": "ok",
+  "mb": 3.8,
+  "em": "2026-10-28T15:56:41"
+ },
+ "_MXI0EO5-3k": {
+  "status": "ok",
+  "mb": 6.0,
+  "em": "2026-10-28T15:57:15"
+ },
+ "REfNVmdh0Uk": {
+  "status": "ok",
+  "mb": 27.3,
+  "em": "2026-10-28T15:59:21"
+ },
+ "cbIK2XGvB9M": {
+  "status": "ok",
+  "mb": 27.6,
+  "em": "2026-10-28T15:59:53"
+ },
+ "2ejk315PiAI": {
+  "status": "ok",
+  "mb": 81.0,
+  "em": "2026-10-28T16:00:36"
+ },
+ "1JPodyNSprI": {
+  "status": "ok",
+  "mb": 17.7,
+  "em": "2026-10-29T08:10:32"
+ },
+ "hpfDpwTVtxY": {
+  "status": "ok",
+  "mb": 13.3,
+  "em": "2026-10-28T16:01:34"
+ },
+ "R969JitHrHY": {
+  "status": "ok",
+  "mb": 54.2,
+  "em": "2026-10-28T16:02:10"
+ },
+ "bIRElzmxw0o": {
+  "status": "ok",
+  "mb": 13.8,
+  "em": "2026-10-28T16:02:42"
+ },
+ "4X7ST0aQ-Ho": {
+  "status": "ok",
+  "mb": 12.0,
+  "em": "2026-10-28T16:03:17"
+ },
+ "fBsJh12JysQ": {
+  "status": "ok",
+  "mb": 11.4,
+  "em": "2026-10-28T16:03:50"
+ },
+ "-p7WjzB499U": {
+  "status": "ok",
+  "mb": 24.8,
+  "em": "2026-10-28T16:04:28"
+ },
+ "646QNAKkztw": {
+  "status": "ok",
+  "mb": 37.5,
+  "em": "2026-10-28T16:06:40"
+ },
+ "-56mh7dzyno": {
+  "status": "ok",
+  "mb": 24.0,
+  "em": "2026-10-28T16:07:14"
+ },
+ "ZQd7KyRHa9o": {
+  "status": "ok",
+  "mb": 4.4,
+  "em": "2026-10-28T16:07:50"
+ },
+ "1xrYpXPObdo": {
+  "status": "ok",
+  "mb": 33.7,
+  "em": "2026-10-28T16:08:30"
+ },
+ "dssZLzi70Ro": {
+  "status": "ok",
+  "mb": 17.0,
+  "em": "2026-10-28T16:09:12"
+ },
+ "v33TUmHFdXc": {
+  "status": "ok",
+  "mb": 39.0,
+  "em": "2026-10-28T16:09:57"
+ },
+ "NStv0qKt7MY": {
+  "status": "ok",
+  "mb": 15.8,
+  "em": "2026-10-28T16:10:33"
+ },
+ "9Bsyw75Nlc8": {
+  "status": "ok",
+  "mb": 21.5,
+  "em": "2026-10-28T16:11:25"
+ },
+ "b6K21dvhP8c": {
+  "status": "ok",
+  "mb": 45.0,
+  "em": "2026-10-28T16:12:04"
+ },
+ "NvOO_RuvQT8": {
+  "status": "ok",
+  "mb": 24.6,
+  "em": "2026-10-28T16:12:41"
+ },
+ "EjxC0-SrBoc": {
+  "status": "ok",
+  "mb": 50.9,
+  "em": "2026-10-28T16:14:51"
+ },
+ "CLJapSO3ByA": {
+  "status": "ok",
+  "mb": 11.3,
+  "em": "2026-10-28T16:15:27"
+ },
+ "aATDUe8sgIA": {
+  "status": "ok",
+  "mb": 34.1,
+  "em": "2026-10-28T16:16:09"
+ },
+ "_y0L60E9XnA": {
+  "status": "ok",
+  "mb": 6.3,
+  "em": "2026-10-28T16:16:44"
+ },
+ "AkdxMZOUcK4": {
+  "status": "ok",
+  "mb": 78.0,
+  "em": "2026-10-28T16:17:33"
+ },
+ "WmExeRDNvZw": {
+  "status": "ok",
+  "mb": 37.0,
+  "em": "2026-10-28T16:18:10"
+ },
+ "tdMlVx7a0Fs": {
+  "status": "ok",
+  "mb": 5.2,
+  "em": "2026-10-28T16:18:45"
+ },
+ "eZBIXuXSnKw": {
+  "status": "ok",
+  "mb": 3.3,
+  "em": "2026-10-28T16:19:17"
+ },
+ "1kUn9ZB9Exs": {
+  "status": "ok",
+  "mb": 17.4,
+  "em": "2026-10-28T16:19:46"
+ },
+ "p-dcgkeUNqU": {
+  "status": "ok",
+  "mb": 10.2,
+  "em": "2026-10-28T16:20:19"
+ },
+ "ztZByeTtpE4": {
+  "status": "ok",
+  "mb": 3.1,
+  "em": "2026-10-28T16:22:24"
+ },
+ "3ZvYZUdD6yc": {
+  "status": "ok",
+  "mb": 29.0,
+  "em": "2026-10-28T16:23:04"
+ },
+ "W9LhcISFKSw": {
+  "status": "ok",
+  "mb": 6.0,
+  "em": "2026-10-28T16:23:36"
+ },
+ "s0f-09eMjO0": {
+  "status": "ok",
+  "mb": 20.4,
+  "em": "2026-10-28T16:24:14"
+ },
+ "4WxLd1Kt89Y": {
+  "status": "ok",
+  "mb": 71.0,
+  "em": "2026-10-29T08:12:33"
+ },
+ "o0FSCeRXF2Y": {
+  "status": "ok",
+  "mb": 132.6,
+  "em": "2026-10-28T16:25:36"
+ },
+ "TqxIJ-9q6kM": {
+  "status": "ok",
+  "mb": 12.2,
+  "em": "2026-10-28T16:26:02"
+ },
+ "CkT_5AuaZTA": {
+  "status": "ok",
+  "mb": 38.1,
+  "em": "2026-10-28T16:26:38"
+ },
+ "nGCfxN8Sbms": {
+  "status": "ok",
+  "mb": 3.0,
+  "em": "2026-10-28T16:27:11"
+ },
+ "rn_y-ZI_iiQ": {
+  "status": "ok",
+  "mb": 26.2,
+  "em": "2026-10-28T16:27:46"
+ },
+ "N74Yh8Qk6w8": {
+  "status": "ok",
+  "mb": 22.8,
+  "em": "2026-10-28T16:29:56"
+ },
+ "nXNholwo7go": {
+  "status": "ok",
+  "mb": 19.5,
+  "em": "2026-10-28T16:30:32"
+ },
+ "YJAoO04ZgUY": {
+  "status": "ok",
+  "mb": 4.8,
+  "em": "2026-10-28T16:31:07"
+ },
+ "U0RmqcW1vuY": {
+  "status": "ok",
+  "mb": 6.0,
+  "em": "2026-10-29T08:13:06"
+ },
+ "1hoDnwOjNIA": {
+  "status": "ok",
+  "mb": 4.0,
+  "em": "2026-10-28T16:32:11"
+ },
+ "Sq2lqs-uJeA": {
+  "status": "ok",
+  "mb": 9.6,
+  "em": "2026-10-28T16:32:46"
+ },
+ "_ChN54bUCdI": {
+  "status": "ok",
+  "mb": 4.0,
+  "em": "2026-10-28T16:33:21"
+ },
+ "rwmbeagH5MM": {
+  "status": "ok",
+  "mb": 7.8,
+  "em": "2026-10-28T16:33:56"
+ },
+ "TxMyMm2KoM8": {
+  "status": "ok",
+  "mb": 5.3,
+  "em": "2026-10-28T16:34:33"
+ },
+ "eTFJf3BeaQI": {
+  "status": "ok",
+  "mb": 9.7,
+  "em": "2026-10-28T16:35:06"
+ },
+ "8ZEfmbk4VZs": {
+  "status": "ok",
+  "mb": 18.9,
+  "em": "2026-10-28T16:37:14"
+ },
+ "h6rvv7YHqzk": {
+  "status": "ok",
+  "mb": 27.2,
+  "em": "2026-10-28T16:37:48"
+ },
+ "iTWOmAwK5gI": {
+  "status": "ok",
+  "mb": 7.4,
+  "em": "2026-10-28T16:38:22"
+ },
+ "83X63FqBSMQ": {
+  "status": "ok",
+  "mb": 93.3,
+  "em": "2026-10-28T16:39:05"
+ },
+ "s-YFcGeXsVo": {
+  "status": "ok",
+  "mb": 415.2,
+  "em": "2026-10-28T16:40:16"
+ },
+ "tvtci1uCXS0": {
+  "status": "ok",
+  "mb": 32.7,
+  "em": "2026-10-28T16:46:09"
+ },
+ "f5Bl2jiCEIg": {
+  "status": "ok",
+  "mb": 13.7,
+  "em": "2026-10-28T16:49:32"
+ },
+ "ZlYegWIP2lo": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T16:50:06"
+ },
+ "wAWk0H9mZ-w": {
+  "status": "ok",
+  "mb": 82.4,
+  "em": "2026-10-28T16:50:47"
+ },
+ "unMpVTz3mVE": {
+  "status": "ok",
+  "mb": 357.0,
+  "em": "2026-10-28T16:53:24"
+ },
+ "NmqA1w8EAls": {
+  "status": "ok",
+  "mb": 11.3,
+  "em": "2026-10-28T16:53:51"
+ },
+ "vlaglyYklhQ": {
+  "status": "ok",
+  "mb": 119.9,
+  "em": "2026-10-28T16:54:36"
+ },
+ "kVurAqfyOZw": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T16:55:10"
+ },
+ "HMRTAV6MD4U": {
+  "status": "ok",
+  "mb": 11.3,
+  "em": "2026-10-28T16:55:37"
+ },
+ "3WN1Lq6uBB8": {
+  "status": "ok",
+  "mb": 58.8,
+  "em": "2026-10-28T16:56:14"
+ },
+ "TjByhJIiaak": {
+  "status": "ok",
+  "mb": 187.3,
+  "em": "2026-10-28T16:57:21"
+ },
+ "_YSvUzCXqRQ": {
+  "status": "ok",
+  "mb": 28.6,
+  "em": "2026-10-28T16:57:55"
+ },
+ "eroRqCr5GWw": {
+  "status": "ok",
+  "mb": 33.1,
+  "em": "2026-10-28T16:58:23"
+ },
+ "aGsPJ9-qBCI": {
+  "status": "ok",
+  "mb": 36.3,
+  "em": "2026-10-28T16:58:58"
+ },
+ "V3AojUXNfAE": {
+  "status": "ok",
+  "mb": 385.5,
+  "em": "2026-10-28T17:02:59"
+ },
+ "k2zaD5KRCp8": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:03:22"
+ },
+ "YjCGRMKqt4I": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:03:44"
+ },
+ "HD87s5EqgDc": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:04:07"
+ },
+ "HYrsYrA7an0": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:04:31"
+ },
+ "_y6lrUY_y_g": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:04:53"
+ },
+ "sID2DRYjNJc": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:05:16"
+ },
+ "I1ghkPFb90E": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:05:39"
+ },
+ "OlZP736Dvko": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:06:01"
+ },
+ "_xxxcOOS-d8": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T17:06:28"
+ },
+ "vESSlog0kZ0": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T17:08:24"
+ },
+ "iBy559jYXE0": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:08:46"
+ },
+ "C0TUsKluhok": {
+  "status": "ok",
+  "mb": 521.8,
+  "em": "2026-10-28T17:10:13"
+ },
+ "fLsz972bJBs": {
+  "status": "ok",
+  "mb": 96.4,
+  "em": "2026-10-28T17:11:00"
+ },
+ "PO26qaRR8cM": {
+  "status": "ok",
+  "mb": 79.2,
+  "em": "2026-10-28T17:11:46"
+ },
+ "0pMO9J1SSI4": {
+  "status": "ok",
+  "mb": 276.1,
+  "em": "2026-10-28T17:12:57"
+ },
+ "Xo9yBrU411Q": {
+  "status": "ok",
+  "mb": 157.0,
+  "em": "2026-10-28T17:13:52"
+ },
+ "k6O3L5ZkWmI": {
+  "status": "ok",
+  "mb": 220.1,
+  "em": "2026-10-29T08:19:44"
+ },
+ "rym4Rjv6adA": {
+  "status": "ok",
+  "mb": 26.5,
+  "em": "2026-10-28T17:14:56"
+ },
+ "GEnoRvqH-zQ": {
+  "status": "ok",
+  "mb": 61.9,
+  "em": "2026-10-28T17:15:36"
+ },
+ "xuVoZ5tKDz0": {
+  "status": "ok",
+  "mb": 164.3,
+  "em": "2026-10-28T17:18:01"
+ },
+ "GEa1U4qlmto": {
+  "status": "ok",
+  "mb": 216.7,
+  "em": "2026-10-28T17:19:28"
+ },
+ "vsBZJqcpjhY": {
+  "status": "indisponivel",
+  "erro": "ERROR: [youtube] vsBZJqcpjhY: Video unavailable. It was blocked due to the claimed content by Organizações Globo.",
+  "em": "2026-10-28T17:19:51"
+ },
+ "rT8XEUAKAP8": {
+  "status": "ok",
+  "mb": 88.5,
+  "em": "2026-10-28T17:20:28"
+ },
+ "A4tM9zmfKIg": {
+  "status": "ok",
+  "mb": 55.6,
+  "em": "2026-10-28T17:21:08"
+ },
+ "t3dSBw2rHtg": {
+  "status": "ok",
+  "mb": 21.5,
+  "em": "2026-10-28T17:21:38"
+ },
+ "e9ja_Ts4olA": {
+  "status": "ok",
+  "mb": 11.0,
+  "em": "2026-10-28T17:22:05"
+ },
+ "B8PhgBOK8Cs": {
+  "status": "ok",
+  "mb": 0.1,
+  "em": "2026-10-28T17:22:32"
+ },
+ "gC5OHtqZm_Y": {
+  "status": "ok",
+  "mb": 126.8,
+  "em": "2026-10-28T17:23:40"
+ },
+ "9nP70R1JaWw": {
+  "status": "ok",
+  "mb": 72.1,
+  "em": "2026-10-28T17:24:33"
+ },
+ "f-A6vJ9ME6M": {
+  "status": "ok",
+  "mb": 162.1,
+  "em": "2026-10-28T17:26:48"
+ },
+ "R7fqKqrprm0": {
+  "status": "ok",
+  "mb": 17.8,
+  "em": "2026-10-28T17:27:23"
+ },
+ "2wowDaMt7Tc": {
+  "status": "ok",
+  "mb": 219.3,
+  "em": "2026-10-28T17:28:43"
+ },
+ "eHQ28leV1ns": {
+  "status": "ok",
+  "mb": 150.4,
+  "em": "2026-10-28T17:29:39"
+ },
+ "1aIep5e_294": {
+  "status": "ok",
+  "mb": 390.9,
+  "em": "2026-10-28T17:31:42"
+ },
+ "CjvUvYpG9cA": {
+  "status": "ok",
+  "mb": 202.5,
+  "em": "2026-10-28T17:32:36"
+ },
+ "dt3RPMkRjlo": {
+  "status": "ok",
+  "mb": 87.7,
+  "em": "2026-10-28T17:33:25"
+ },
+ "4SqpdfkumEo": {
+  "status": "ok",
+  "mb": 22.1,
+  "em": "2026-10-28T17:33:54"
+ },
+ "vQUzZNOkhOw": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T17:34:20"
+ },
+ "gUpInrdXnvY": {
+  "status": "ok",
+  "mb": 13.9,
+  "em": "2026-10-28T17:34:48"
+ },
+ "13PlQcREyjo": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T17:36:46"
+ },
+ "s_2cyJAOnus": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-28T17:37:14"
+ },
+ "f1uY4eYAcBA": {
+  "status": "ok",
+  "mb": 14.5,
+  "em": "2026-10-28T17:37:41"
+ },
+ "vVQu3dVhHXo": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T17:38:09"
+ },
+ "Rz49mTIgyxo": {
+  "status": "ok",
+  "mb": 8.2,
+  "em": "2026-10-28T17:38:37"
+ },
+ "mC0JGT7t4uQ": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T17:39:05"
+ },
+ "AEeoFSkloow": {
+  "status": "ok",
+  "mb": 9.6,
+  "em": "2026-10-28T17:39:33"
+ },
+ "9vHZPMOf3H0": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T17:40:00"
+ },
+ "BRYvIf9OJVo": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T17:40:26"
+ },
+ "t3b1c6N2o1A": {
+  "status": "ok",
+  "mb": 17.6,
+  "em": "2026-10-28T17:40:54"
+ },
+ "HdtL46nHo7Q": {
+  "status": "ok",
+  "mb": 4.4,
+  "em": "2026-10-28T17:42:52"
+ },
+ "bS-YpAqTnPA": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T17:43:17"
+ },
+ "aPsOpeF9XNY": {
+  "status": "ok",
+  "mb": 7.2,
+  "em": "2026-10-28T17:43:51"
+ },
+ "L9YcRcE7eBU": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T17:44:16"
+ },
+ "9sDSrMhZRLo": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T17:44:47"
+ },
+ "g-JYRe-HhNk": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T17:45:17"
+ },
+ "u5XMYmyeEK8": {
+  "status": "ok",
+  "mb": 11.6,
+  "em": "2026-10-28T17:45:44"
+ },
+ "iP6wX_Wuzq4": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T17:46:10"
+ },
+ "gmcQXIpVmOw": {
+  "status": "ok",
+  "mb": 8.6,
+  "em": "2026-10-28T17:46:37"
+ },
+ "QrXICFFsJ4o": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T17:47:04"
+ },
+ "xqN_3OHl5cw": {
+  "status": "ok",
+  "mb": 23.8,
+  "em": "2026-10-28T17:49:09"
+ },
+ "YkZmXX2AdDM": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T17:49:36"
+ },
+ "Ddq2A8kvv4Y": {
+  "status": "ok",
+  "mb": 45.2,
+  "em": "2026-10-28T17:50:06"
+ },
+ "ReFIc1AKsJo": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T17:50:32"
+ },
+ "1-G2IfwMi-w": {
+  "status": "ok",
+  "mb": 12.4,
+  "em": "2026-10-28T17:50:59"
+ },
+ "ZAN5ntAxUWE": {
+  "status": "ok",
+  "mb": 2.4,
+  "em": "2026-10-28T17:51:24"
+ },
+ "5_S4gG2GLMY": {
+  "status": "ok",
+  "mb": 4.3,
+  "em": "2026-10-28T17:51:50"
+ },
+ "fKQzVzLhGNo": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T17:52:16"
+ },
+ "eSJCKdqd-do": {
+  "status": "ok",
+  "mb": 4.5,
+  "em": "2026-10-28T17:52:43"
+ },
+ "W4rNjzkmfzI": {
+  "status": "indisponivel",
+  "erro": "w-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+  "em": "2026-10-28T17:53:06"
+ },
+ "8bcsI6UNDRM": {
+  "status": "ok",
+  "mb": 32.5,
+  "em": "2026-10-28T17:55:04"
+ },
+ "fB1mylw4WYg": {
+  "status": "ok",
+  "mb": 34.5,
+  "em": "2026-10-28T17:55:35"
+ },
+ "NOT_DAS6LYk": {
+  "status": "ok",
+  "mb": 30.0,
+  "em": "2026-10-28T17:56:02"
+ },
+ "rZyrCUroJUk": {
+  "status": "ok",
+  "mb": 24.1,
+  "em": "2026-10-28T17:56:30"
+ },
+ "bpk6lgwRlWw": {
+  "status": "ok",
+  "mb": 37.0,
+  "em": "2026-10-28T17:57:00"
+ },
+ "zoQoAdxBYn4": {
+  "status": "ok",
+  "mb": 46.8,
+  "em": "2026-10-28T17:57:28"
+ },
+ "Cxy4_HeLo6c": {
+  "status": "ok",
+  "mb": 47.3,
+  "em": "2026-10-28T17:58:04"
+ },
+ "AE8osx2q-ds": {
+  "status": "ok",
+  "mb": 19.0,
+  "em": "2026-10-28T17:58:31"
+ },
+ "ASWQDsl4gS4": {
+  "status": "ok",
+  "mb": 29.6,
+  "em": "2026-10-28T17:59:05"
+ },
+ "TTjIEPPTmLA": {
+  "status": "ok",
+  "mb": 42.0,
+  "em": "2026-10-28T17:59:40"
+ },
+ "oSUPNvGLaeY": {
+  "status": "ok",
+  "mb": 34.5,
+  "em": "2026-10-28T18:01:42"
+ },
+ "Gl8fFUgC2y0": {
+  "status": "ok",
+  "mb": 17.5,
+  "em": "2026-10-28T18:02:09"
+ },
+ "aFOTSOpTPfM": {
+  "status": "ok",
+  "mb": 36.4,
+  "em": "2026-10-28T18:02:40"
+ },
+ "Ap-7ieDfx_o": {
+  "status": "ok",
+  "mb": 27.2,
+  "em": "2026-10-28T18:03:11"
+ },
+ "FcgffQeMF3A": {
+  "status": "ok",
+  "mb": 82.6,
+  "em": "2026-10-28T18:05:29"
+ },
+ "WnMfMGyECeo": {
+  "status": "ok",
+  "mb": 25.6,
+  "em": "2026-10-28T18:05:59"
+ },
+ "EtCl9Gnt2d8": {
+  "status": "ok",
+  "mb": 34.8,
+  "em": "2026-10-28T18:06:35"
+ },
+ "q_ZD-iFSuRY": {
+  "status": "ok",
+  "mb": 78.6,
+  "em": "2026-10-28T18:07:19"
+ },
+ "TWg6hMDKDHs": {
+  "status": "ok",
+  "mb": 24.1,
+  "em": "2026-10-28T18:07:48"
+ },
+ "li9GuyX-1rY": {
+  "status": "ok",
+  "mb": 9.2,
+  "em": "2026-10-28T18:08:17"
+ },
+ "FH65_mvYcWc": {
+  "status": "ok",
+  "mb": 7.8,
+  "em": "2026-10-28T18:10:17"
+ },
+ "qhkzzutkgus": {
+  "status": "ok",
+  "mb": 38.4,
+  "em": "2026-10-28T18:10:51"
+ },
+ "AOwkxlqf66M": {
+  "status": "ok",
+  "mb": 51.3,
+  "em": "2026-10-28T18:11:24"
+ },
+ "Kt9-QWIcLMo": {
+  "status": "ok",
+  "mb": 97.9,
+  "em": "2026-10-28T18:12:26"
+ },
+ "W-7QrVkWKrk": {
+  "status": "ok",
+  "mb": 63.9,
+  "em": "2026-10-28T18:13:00"
+ },
+ "2-oypfKm5f0": {
+  "status": "ok",
+  "mb": 54.9,
+  "em": "2026-10-28T18:13:33"
+ },
+ "0rFQ1OF6ZXU": {
+  "status": "ok",
+  "mb": 114.6,
+  "em": "2026-10-28T18:14:59"
+ },
+ "oiLLB23S37I": {
+  "status": "ok",
+  "mb": 61.9,
+  "em": "2026-10-28T18:15:35"
+ },
+ "xRRPbKipCxk": {
+  "status": "ok",
+  "mb": 87.8,
+  "em": "2026-10-28T18:16:12"
+ },
+ "5CBoAeUGUSs": {
+  "status": "ok",
+  "mb": 38.6,
+  "em": "2026-10-28T18:16:46"
+ },
+ "65moLoZw-JU": {
+  "status": "ok",
+  "mb": 58.8,
+  "em": "2026-10-29T08:20:18"
+ },
+ "TWntHTvdDqM": {
+  "status": "ok",
+  "mb": 30.1,
+  "em": "2026-10-29T08:20:51"
+ },
+ "-lqXJH_g2xg": {
+  "status": "ok",
+  "mb": 110.4,
+  "em": "2026-10-28T18:19:42"
+ },
+ "PHbUr92f1Ds": {
+  "status": "ok",
+  "mb": 67.0,
+  "em": "2026-10-28T18:20:29"
+ },
+ "B44kIaPoO40": {
+  "status": "ok",
+  "mb": 38.3,
+  "em": "2026-10-28T18:21:00"
+ },
+ "MBa6IQohUVw": {
+  "status": "ok",
+  "mb": 58.1,
+  "em": "2026-10-28T18:21:37"
+ },
+ "A4GolQXDeAY": {
+  "status": "ok",
+  "mb": 0.7,
+  "em": "2026-10-28T18:22:03"
+ },
+ "5z03xPAYGiQ": {
+  "status": "ok",
+  "mb": 41.6,
+  "em": "2026-10-28T18:22:44"
+ },
+ "AYSPXIWbqRg": {
+  "status": "ok",
+  "mb": 51.1,
+  "em": "2026-10-28T18:26:31"
+ },
+ "IhtV_Iz_jbA": {
+  "status": "ok",
+  "mb": 30.8,
+  "em": "2026-10-28T18:27:05"
+ },
+ "V8D5_NE6GI4": {
+  "status": "ok",
+  "mb": 59.2,
+  "em": "2026-10-28T18:29:06"
+ },
+ "rxKFcShEpKU": {
+  "status": "ok",
+  "mb": 40.5,
+  "em": "2026-10-28T18:29:38"
+ },
+ "i4dWLBLGZfc": {
+  "status": "ok",
+  "mb": 22.8,
+  "em": "2026-10-28T18:30:07"
+ },
+ "gZCYlTewNLo": {
+  "status": "ok",
+  "mb": 31.4,
+  "em": "2026-10-28T18:30:38"
+ },
+ "TacCHlk3V_g": {
+  "status": "ok",
+  "mb": 39.5,
+  "em": "2026-10-28T18:31:09"
+ },
+ "EfW4fjgVcPo": {
+  "status": "ok",
+  "mb": 13.9,
+  "em": "2026-10-28T18:31:43"
+ },
+ "BOmtd0XDZNY": {
+  "status": "ok",
+  "mb": 37.8,
+  "em": "2026-10-28T18:32:20"
+ },
+ "FKN02lQYWW0": {
+  "status": "ok",
+  "mb": 15.1,
+  "em": "2026-10-28T18:32:49"
+ },
+ "71RljgFBUxU": {
+  "status": "ok",
+  "mb": 9.9,
+  "em": "2026-10-28T18:33:17"
+ },
+ "aeNfCF17h-M": {
+  "status": "ok",
+  "mb": 53.9,
+  "em": "2026-10-28T18:33:52"
+ },
+ "9AM0zxBqAtM": {
+  "status": "ok",
+  "mb": 24.0,
+  "em": "2026-10-28T18:35:53"
+ },
+ "MSr2O334WDw": {
+  "status": "ok",
+  "mb": 13.4,
+  "em": "2026-10-28T18:36:22"
+ },
+ "w82QT0SjlYA": {
+  "status": "ok",
+  "mb": 30.6,
+  "em": "2026-10-28T18:36:53"
+ },
+ "oqoQl1EH0yg": {
+  "status": "ok",
+  "mb": 20.6,
+  "em": "2026-10-28T18:37:24"
+ },
+ "yvTb7-4Us98": {
+  "status": "ok",
+  "mb": 16.9,
+  "em": "2026-10-28T18:37:53"
+ },
+ "UHepk89mNSo": {
+  "status": "ok",
+  "mb": 27.6,
+  "em": "2026-10-28T18:38:23"
+ },
+ "sysE51udIoc": {
+  "status": "ok",
+  "mb": 43.2,
+  "em": "2026-10-28T18:39:07"
+ },
+ "gO7jLPa5T5A": {
+  "status": "ok",
+  "mb": 30.8,
+  "em": "2026-10-28T18:39:44"
+ },
+ "cqL1PFdZ-4w": {
+  "status": "ok",
+  "mb": 26.4,
+  "em": "2026-10-28T18:40:15"
+ },
+ "JbZTrf_d-Fg": {
+  "status": "ok",
+  "mb": 20.2,
+  "em": "2026-10-28T18:40:50"
+ },
+ "SfV9nbBDO-Y": {
+  "status": "ok",
+  "mb": 42.6,
+  "em": "2026-10-28T18:42:56"
+ },
+ "NDZCSvojxeM": {
+  "status": "ok",
+  "mb": 26.2,
+  "em": "2026-10-28T18:43:28"
+ },
+ "E8V1PuhsgeA": {
+  "status": "ok",
+  "mb": 32.6,
+  "em": "2026-10-28T18:44:03"
+ },
+ "28ANUO4EIV8": {
+  "status": "ok",
+  "mb": 15.5,
+  "em": "2026-10-28T18:44:31"
+ },
+ "rN3g_JEgSMY": {
+  "status": "ok",
+  "mb": 18.7,
+  "em": "2026-10-28T18:44:59"
+ },
+ "xdmJvAzJ83w": {
+  "status": "ok",
+  "mb": 13.8,
+  "em": "2026-10-28T18:45:27"
+ },
+ "1-4dpn8GmY8": {
+  "status": "ok",
+  "mb": 35.6,
+  "em": "2026-10-28T18:46:34"
+ },
+ "YgoJp2EVZjY": {
+  "status": "ok",
+  "mb": 20.2,
+  "em": "2026-10-28T18:47:15"
+ },
+ "a91liD7cK4Y": {
+  "status": "ok",
+  "mb": 6.6,
+  "em": "2026-10-28T18:47:42"
+ },
+ "eNbQVWxMK9E": {
+  "status": "ok",
+  "mb": 26.9,
+  "em": "2026-10-28T18:48:12"
+ },
+ "ESm3MYNRTiA": {
+  "status": "ok",
+  "mb": 12.9,
+  "em": "2026-10-28T18:50:12"
+ },
+ "4IsGcxiCsvg": {
+  "status": "ok",
+  "mb": 15.0,
+  "em": "2026-10-28T18:50:41"
+ },
+ "z1D6qq6QiiE": {
+  "status": "ok",
+  "mb": 24.5,
+  "em": "2026-10-28T18:51:11"
+ },
+ "XcfmjniZkqc": {
+  "status": "ok",
+  "mb": 49.2,
+  "em": "2026-10-28T18:51:46"
+ },
+ "f0mK1orhYmw": {
+  "status": "ok",
+  "mb": 12.5,
+  "em": "2026-10-28T18:52:16"
+ },
+ "d2AUPQnlu5g": {
+  "status": "ok",
+  "mb": 11.2,
+  "em": "2026-10-28T18:52:47"
+ },
+ "ZljqQNankIQ": {
+  "status": "ok",
+  "mb": 23.2,
+  "em": "2026-10-28T18:53:24"
+ },
+ "C9JpVcMxGCo": {
+  "status": "ok",
+  "mb": 20.8,
+  "em": "2026-10-28T18:53:54"
+ },
+ "AFSMtKXh_7A": {
+  "status": "ok",
+  "mb": 36.4,
+  "em": "2026-10-28T18:54:31"
+ },
+ "fRa6Zg4BsnU": {
+  "status": "ok",
+  "mb": 45.8,
+  "em": "2026-10-28T18:55:02"
+ },
+ "5mjGolG2D0g": {
+  "status": "ok",
+  "mb": 55.0,
+  "em": "2026-10-28T18:57:28"
+ },
+ "sYlguuMThds": {
+  "status": "ok",
+  "mb": 23.8,
+  "em": "2026-10-28T18:57:59"
+ },
+ "qqp1Ex1ESP8": {
+  "status": "ok",
+  "mb": 27.5,
+  "em": "2026-10-28T18:58:32"
+ },
+ "LoJftZSLoTw": {
+  "status": "ok",
+  "mb": 34.8,
+  "em": "2026-10-28T18:59:02"
+ },
+ "Vaoi0efFJ5M": {
+  "status": "ok",
+  "mb": 16.7,
+  "em": "2026-10-28T18:59:31"
+ },
+ "J1QERlru5vU": {
+  "status": "ok",
+  "mb": 26.2,
+  "em": "2026-10-28T19:00:06"
+ },
+ "uw3BlGmL79I": {
+  "status": "ok",
+  "mb": 36.3,
+  "em": "2026-10-28T19:00:47"
+ },
+ "Nuz2SftFBKQ": {
+  "status": "ok",
+  "mb": 44.2,
+  "em": "2026-10-28T19:01:18"
+ },
+ "Qh3S5e6EpB8": {
+  "status": "ok",
+  "mb": 29.7,
+  "em": "2026-10-28T19:01:50"
+ },
+ "nWWb8lObtLY": {
+  "status": "ok",
+  "mb": 32.8,
+  "em": "2026-10-28T19:02:25"
+ },
+ "Sm4mL8s02p8": {
+  "status": "ok",
+  "mb": 32.8,
+  "em": "2026-10-28T19:04:28"
+ },
+ "QV_dDCVCotk": {
+  "status": "ok",
+  "mb": 34.2,
+  "em": "2026-10-28T19:05:00"
+ },
+ "501C3j25F2Q": {
+  "status": "ok",
+  "mb": 16.2,
+  "em": "2026-10-28T19:05:30"
+ },
+ "l-GWA2rrViE": {
+  "status": "ok",
+  "mb": 17.6,
+  "em": "2026-10-28T19:06:02"
+ },
+ "_Zh6CRbYalw": {
+  "status": "ok",
+  "mb": 27.9,
+  "em": "2026-10-28T19:06:32"
+ },
+ "zW7vW5GsyN4": {
+  "status": "ok",
+  "mb": 45.6,
+  "em": "2026-10-28T19:07:08"
+ },
+ "1UbFt5Go6BA": {
+  "status": "ok",
+  "mb": 45.1,
+  "em": "2026-10-28T19:07:43"
+ },
+ "utoctkf6oD4": {
+  "status": "ok",
+  "mb": 9.4,
+  "em": "2026-10-28T19:08:11"
+ },
+ "lU0Zdp1rE5E": {
+  "status": "ok",
+  "mb": 36.1,
+  "em": "2026-10-28T19:08:46"
+ },
+ "-FOz2uudXRY": {
+  "status": "ok",
+  "mb": 25.1,
+  "em": "2026-10-28T19:09:15"
+ },
+ "uqbOfhm-_EY": {
+  "status": "ok",
+  "mb": 35.0,
+  "em": "2026-10-28T19:11:21"
+ },
+ "gnUwomCuWss": {
+  "status": "ok",
+  "mb": 17.8,
+  "em": "2026-10-28T19:11:51"
+ },
+ "FtmdTCi9fSY": {
+  "status": "ok",
+  "mb": 26.8,
+  "em": "2026-10-28T19:12:21"
+ },
+ "nWTOM7c2zjs": {
+  "status": "ok",
+  "mb": 31.6,
+  "em": "2026-10-28T19:12:55"
+ },
+ "wxgRGFYfIJI": {
+  "status": "ok",
+  "mb": 33.5,
+  "em": "2026-10-28T19:13:27"
+ },
+ "cojV3gW19Ts": {
+  "status": "ok",
+  "mb": 119.9,
+  "em": "2026-10-28T19:14:27"
+ },
+ "Vtn3ksCQ3MA": {
+  "status": "ok",
+  "mb": 83.6,
+  "em": "2026-10-28T19:15:08"
+ },
+ "W_92032KCfI": {
+  "status": "ok",
+  "mb": 89.7,
+  "em": "2026-10-28T19:19:52"
+ },
+ "iAwQ06fRNm0": {
+  "status": "ok",
+  "mb": 84.4,
+  "em": "2026-10-28T19:20:36"
+ },
+ "hgq8Aw_53Po": {
+  "status": "ok",
+  "mb": 77.0,
+  "em": "2026-10-28T19:22:53"
+ },
+ "or7ph1prPeQ": {
+  "status": "ok",
+  "mb": 63.9,
+  "em": "2026-10-28T19:25:00"
+ },
+ "ve-8BOeM1aI": {
+  "status": "ok",
+  "mb": 47.4,
+  "em": "2026-10-28T19:25:36"
+ },
+ "uy4HuXKdu6g": {
+  "status": "ok",
+  "mb": 41.9,
+  "em": "2026-10-28T19:26:12"
+ },
+ "PW5ftFXJVss": {
+  "status": "ok",
+  "mb": 29.8,
+  "em": "2026-10-28T19:26:45"
+ },
+ "UcnYyYs-Iog": {
+  "status": "ok",
+  "mb": 43.4,
+  "em": "2026-10-28T19:27:20"
+ },
+ "4_8eXNcOGOc": {
+  "status": "ok",
+  "mb": 90.1,
+  "em": "2026-10-28T19:28:07"
+ },
+ "v_o09kbI6Ao": {
+  "status": "ok",
+  "mb": 231.6,
+  "em": "2026-10-28T19:32:30"
+ },
+ "frZRro74gHk": {
+  "status": "ok",
+  "mb": 73.4,
+  "em": "2026-10-28T19:33:08"
+ },
+ "JTGHBGdGOW4": {
+  "status": "ok",
+  "mb": 91.5,
+  "em": "2026-10-28T19:33:43"
+ },
+ "qoU0MFbygHw": {
+  "status": "ok",
+  "mb": 98.4,
+  "em": "2026-10-28T19:34:17"
+ },
+ "FDrsypWdc1s": {
+  "status": "ok",
+  "mb": 239.7,
+  "em": "2026-10-28T19:37:23"
+ },
+ "WXCayVmEoJo": {
+  "status": "ok",
+  "mb": 82.0,
+  "em": "2026-10-28T19:38:28"
+ },
+ "xRjmbEhr9QQ": {
+  "status": "ok",
+  "mb": 188.4,
+  "em": "2026-10-28T19:40:31"
+ },
+ "ri2Gifo9dg0": {
+  "status": "ok",
+  "mb": 25.4,
+  "em": "2026-10-28T19:41:04"
+ },
+ "XiNWDT2HrwM": {
+  "status": "ok",
+  "mb": 56.2,
+  "em": "2026-10-28T19:41:39"
+ },
+ "AHGJkBIxW-Q": {
+  "status": "ok",
+  "mb": 69.0,
+  "em": "2026-10-28T19:42:15"
+ },
+ "OHP3mhr9FGc": {
+  "status": "ok",
+  "mb": 45.1,
+  "em": "2026-10-28T19:42:54"
+ },
+ "eirKsXW8VI4": {
+  "status": "ok",
+  "mb": 25.3,
+  "em": "2026-10-28T19:43:32"
+ },
+ "RIFW-_iwhsk": {
+  "status": "ok",
+  "mb": 62.0,
+  "em": "2026-10-28T19:44:08"
+ },
+ "qhKZBkO0svI": {
+  "status": "ok",
+  "mb": 19.6,
+  "em": "2026-10-28T19:44:55"
+ },
+ "hWHyzMRdqQk": {
+  "status": "ok",
+  "mb": 52.3,
+  "em": "2026-10-28T19:47:09"
+ },
+ "0Ut6V8VIV0E": {
+  "status": "ok",
+  "mb": 101.5,
+  "em": "2026-10-28T19:48:02"
+ },
+ "CO7ISFhzH8A": {
+  "status": "ok",
+  "mb": 39.4,
+  "em": "2026-10-28T19:48:39"
+ },
+ "hQmR3cMDd8c": {
+  "status": "ok",
+  "mb": 81.9,
+  "em": "2026-10-28T19:49:16"
+ },
+ "OFGEts6ne_Q": {
+  "status": "ok",
+  "mb": 70.1,
+  "em": "2026-10-28T19:49:51"
+ },
+ "-mn-MxEsk5o": {
+  "status": "ok",
+  "mb": 70.3,
+  "em": "2026-10-28T19:50:39"
+ },
+ "V1lE1khCL7I": {
+  "status": "ok",
+  "mb": 91.2,
+  "em": "2026-10-28T19:51:33"
+ },
+ "rh99yBiEroU": {
+  "status": "ok",
+  "mb": 79.4,
+  "em": "2026-10-28T19:52:25"
+ },
+ "CODgSnXRAbQ": {
+  "status": "ok",
+  "mb": 26.8,
+  "em": "2026-10-28T19:53:22"
+ },
+ "TjB7WwJ9miQ": {
+  "status": "ok",
+  "mb": 25.1,
+  "em": "2026-10-28T19:54:03"
+ },
+ "5LvhpKy0NBI": {
+  "status": "ok",
+  "mb": 58.0,
+  "em": "2026-10-28T19:56:18"
+ },
+ "NNqfml-ivl8": {
+  "status": "ok",
+  "mb": 29.9,
+  "em": "2026-10-28T19:56:47"
+ },
+ "_47puI6btxM": {
+  "status": "ok",
+  "mb": 49.9,
+  "em": "2026-10-28T19:57:16"
+ },
+ "oA76m8haP5o": {
+  "status": "ok",
+  "mb": 47.9,
+  "em": "2026-10-28T19:59:36"
+ },
+ "PVMxRurTXWY": {
+  "status": "ok",
+  "mb": 79.9,
+  "em": "2026-10-28T20:00:30"
+ },
+ "dbGgCszyojk": {
+  "status": "ok",
+  "mb": 108.6,
+  "em": "2026-10-28T20:01:58"
+ },
+ "LEXrDrhtS5I": {
+  "status": "ok",
+  "mb": 30.1,
+  "em": "2026-10-28T20:02:33"
+ },
+ "5XEndTjfkGg": {
+  "status": "ok",
+  "mb": 95.7,
+  "em": "2026-10-28T20:03:19"
+ },
+ "Sph4rTOEUVc": {
+  "status": "ok",
+  "mb": 48.1,
+  "em": "2026-10-28T20:03:58"
+ },
+ "BddxF2duyig": {
+  "status": "ok",
+  "mb": 64.4,
+  "em": "2026-10-28T20:04:42"
+ },
+ "1EFZjIHzeqc": {
+  "status": "ok",
+  "mb": 83.2,
+  "em": "2026-10-28T20:07:01"
+ },
+ "Lwfs_QTYdgA": {
+  "status": "ok",
+  "mb": 204.9,
+  "em": "2026-10-28T20:08:26"
+ },
+ "HJa1dOVcMyY": {
+  "status": "ok",
+  "mb": 31.8,
+  "em": "2026-10-28T20:09:02"
+ },
+ "csJazdojivY": {
+  "status": "ok",
+  "mb": 15.7,
+  "em": "2026-10-28T20:09:33"
+ },
+ "RPouSFirIhw": {
+  "status": "ok",
+  "mb": 23.2,
+  "em": "2026-10-28T20:10:17"
+ },
+ "34Xqc4DNwH8": {
+  "status": "ok",
+  "mb": 39.8,
+  "em": "2026-10-28T20:10:59"
+ },
+ "gFM0a0Ly88s": {
+  "status": "ok",
+  "mb": 21.1,
+  "em": "2026-10-28T20:11:30"
+ },
+ "ULuu7ygRjiQ": {
+  "status": "ok",
+  "mb": 43.3,
+  "em": "2026-10-28T20:12:16"
+ },
+ "OAqT9rVbByk": {
+  "status": "ok",
+  "mb": 25.7,
+  "em": "2026-10-28T20:12:47"
+ },
+ "eBHs2awHk7M": {
+  "status": "ok",
+  "mb": 40.0,
+  "em": "2026-10-28T20:13:16"
+ },
+ "XKAePZjI26M": {
+  "status": "ok",
+  "mb": 91.6,
+  "em": "2026-10-28T20:15:26"
+ },
+ "BbEq4UK_h4U": {
+  "status": "ok",
+  "mb": 79.4,
+  "em": "2026-10-28T20:16:10"
+ },
+ "7hiC3beQkFw": {
+  "status": "ok",
+  "mb": 95.6,
+  "em": "2026-10-28T20:17:21"
+ },
+ "AcHyYxzqEfI": {
+  "status": "ok",
+  "mb": 104.5,
+  "em": "2026-10-28T20:18:23"
+ },
+ "9nQBQrrYkUU": {
+  "status": "ok",
+  "mb": 54.0,
+  "em": "2026-10-28T20:19:01"
+ },
+ "GRaXqNwFqxQ": {
+  "status": "ok",
+  "mb": 37.7,
+  "em": "2026-10-28T20:19:43"
+ },
+ "F8jDVIBQigs": {
+  "status": "ok",
+  "mb": 53.3,
+  "em": "2026-10-28T20:20:22"
+ },
+ "weh39NK1HZ8": {
+  "status": "ok",
+  "mb": 66.4,
+  "em": "2026-10-28T20:21:04"
+ },
+ "kzE7MTyEq0c": {
+  "status": "ok",
+  "mb": 54.2,
+  "em": "2026-10-28T20:22:19"
+ },
+ "GDboRGrlcK0": {
+  "status": "ok",
+  "mb": 35.8,
+  "em": "2026-10-28T20:23:00"
+ },
+ "tu9MdWGGJV8": {
+  "status": "ok",
+  "mb": 40.6,
+  "em": "2026-10-28T20:25:09"
+ },
+ "v1pPRi5i-4Y": {
+  "status": "ok",
+  "mb": 47.5,
+  "em": "2026-10-28T20:25:52"
+ },
+ "NeT2qpHyml8": {
+  "status": "ok",
+  "mb": 22.9,
+  "em": "2026-10-28T20:26:26"
+ },
+ "kOwC1rVV5ok": {
+  "status": "ok",
+  "mb": 16.6,
+  "em": "2026-10-28T20:26:58"
+ },
+ "oi_GotAjS04": {
+  "status": "ok",
+  "mb": 35.8,
+  "em": "2026-10-28T20:27:35"
+ },
+ "wYVj7cLigIo": {
+  "status": "ok",
+  "mb": 32.2,
+  "em": "2026-10-28T20:28:08"
+ },
+ "O24uKl_3cYQ": {
+  "status": "ok",
+  "mb": 22.8,
+  "em": "2026-10-28T20:28:41"
+ },
+ "_584UCT8KKY": {
+  "status": "ok",
+  "mb": 51.9,
+  "em": "2026-10-28T20:29:20"
+ },
+ "9hSn4y64tRs": {
+  "status": "ok",
+  "mb": 52.8,
+  "em": "2026-10-28T20:30:02"
+ },
+ "y7b5NFHZ4nA": {
+  "status": "ok",
+  "mb": 38.1,
+  "em": "2026-10-28T20:30:37"
+ },
+ "t_bJALxxE-s": {
+  "status": "ok",
+  "mb": 22.1,
+  "em": "2026-10-28T20:32:40"
+ },
+ "J_s_u20V4B4": {
+  "status": "ok",
+  "mb": 20.8,
+  "em": "2026-10-28T20:33:14"
+ },
+ "gFOEqIoKATY": {
+  "status": "ok",
+  "mb": 29.0,
+  "em": "2026-10-28T20:33:53"
+ },
+ "ktXzjHlySK0": {
+  "status": "ok",
+  "mb": 29.6,
+  "em": "2026-10-28T20:34:33"
+ },
+ "bDfZwVjAQx4": {
+  "status": "ok",
+  "mb": 36.7,
+  "em": "2026-10-28T20:35:11"
+ },
+ "fo7HuH5FxGs": {
+  "status": "ok",
+  "mb": 32.2,
+  "em": "2026-10-28T20:35:45"
+ },
+ "Pl2eKqnpd4w": {
+  "status": "ok",
+  "mb": 14.0,
+  "em": "2026-10-28T20:36:14"
+ },
+ "1LuMCSIwJww": {
+  "status": "ok",
+  "mb": 36.2,
+  "em": "2026-10-28T20:36:50"
+ },
+ "wehYRT-YN8A": {
+  "status": "ok",
+  "mb": 18.7,
+  "em": "2026-10-28T20:37:22"
+ },
+ "7v6e8mpTClY": {
+  "status": "ok",
+  "mb": 23.0,
+  "em": "2026-10-28T20:37:51"
+ },
+ "toE7KNkGUEg": {
+  "status": "ok",
+  "mb": 17.7,
+  "em": "2026-10-28T20:39:52"
+ },
+ "uk-4O_qv8Rg": {
+  "status": "ok",
+  "mb": 17.1,
+  "em": "2026-10-28T20:40:21"
+ },
+ "CEDf-uyfUdI": {
+  "status": "ok",
+  "mb": 59.9,
+  "em": "2026-10-28T20:41:07"
+ },
+ "aySR-vS8NR8": {
+  "status": "ok",
+  "mb": 22.0,
+  "em": "2026-10-28T20:41:44"
+ },
+ "sZc5rZgDB6Q": {
+  "status": "ok",
+  "mb": 22.4,
+  "em": "2026-10-28T20:42:14"
+ },
+ "fFQifemVJx4": {
+  "status": "ok",
+  "mb": 28.0,
+  "em": "2026-10-28T20:42:54"
+ },
+ "GfDY4G47Fco": {
+  "status": "ok",
+  "mb": 32.9,
+  "em": "2026-10-28T20:43:35"
+ },
+ "ND4nqOModtk": {
+  "status": "ok",
+  "mb": 10.0,
+  "em": "2026-10-28T20:44:03"
+ },
+ "_7gq3DX9OcA": {
+  "status": "ok",
+  "mb": 19.8,
+  "em": "2026-10-28T20:44:31"
+ },
+ "FPFQPOl399c": {
+  "status": "ok",
+  "mb": 48.2,
+  "em": "2026-10-28T20:45:21"
+ },
+ "8AjMPcE91pA": {
+  "status": "ok",
+  "mb": 50.6,
+  "em": "2026-10-28T20:48:25"
+ },
+ "wzLbjKaOBH8": {
+  "status": "ok",
+  "mb": 23.9,
+  "em": "2026-10-28T20:48:57"
+ },
+ "4QMNuA3RDUs": {
+  "status": "ok",
+  "mb": 15.6,
+  "em": "2026-10-28T20:49:29"
+ },
+ "llWgQhgUMHc": {
+  "status": "ok",
+  "mb": 25.4,
+  "em": "2026-10-28T20:50:04"
+ },
+ "5V8Pajd0tpI": {
+  "status": "ok",
+  "mb": 9.1,
+  "em": "2026-10-28T20:50:34"
+ },
+ "uiQ0S77gS-8": {
+  "status": "ok",
+  "mb": 8.3,
+  "em": "2026-10-28T20:51:03"
+ },
+ "F9reKJsTo8E": {
+  "status": "ok",
+  "mb": 11.9,
+  "em": "2026-10-28T20:51:33"
+ },
+ "AMOUZmJ6lQo": {
+  "status": "ok",
+  "mb": 15.9,
+  "em": "2026-10-28T20:52:02"
+ },
+ "rUcETOAu0r4": {
+  "status": "ok",
+  "mb": 15.3,
+  "em": "2026-10-28T20:53:29"
+ },
+ "oqovuB4pqoY": {
+  "status": "ok",
+  "mb": 14.2,
+  "em": "2026-10-28T20:53:59"
+ },
+ "Usc--hutrLQ": {
+  "status": "ok",
+  "mb": 19.6,
+  "em": "2026-10-28T20:56:11"
+ },
+ "kVJTZXHzi7E": {
+  "status": "ok",
+  "mb": 11.0,
+  "em": "2026-10-28T20:56:38"
+ },
+ "V37Jn8lTjQI": {
+  "status": "ok",
+  "mb": 12.1,
+  "em": "2026-10-28T20:57:08"
+ },
+ "-KkFxMR_F3Q": {
+  "status": "ok",
+  "mb": 10.0,
+  "em": "2026-10-28T20:57:38"
+ },
+ "-oq5dJeUuAE": {
+  "status": "ok",
+  "mb": 9.5,
+  "em": "2026-10-28T20:58:08"
+ },
+ "FI-C01TDEfo": {
+  "status": "ok",
+  "mb": 24.2,
+  "em": "2026-10-28T20:58:38"
+ },
+ "oHPkKRud3vQ": {
+  "status": "ok",
+  "mb": 28.5,
+  "em": "2026-10-28T20:59:11"
+ },
+ "Moe_mE3KAO8": {
+  "status": "ok",
+  "mb": 30.6,
+  "em": "2026-10-28T20:59:49"
+ },
+ "qKTmirwB6uc": {
+  "status": "ok",
+  "mb": 9.5,
+  "em": "2026-10-28T21:00:18"
+ },
+ "ihrsgMt7tOM": {
+  "status": "ok",
+  "mb": 6.7,
+  "em": "2026-10-28T21:00:46"
+ },
+ "NxUkO8slDpA": {
+  "status": "ok",
+  "mb": 10.7,
+  "em": "2026-10-28T21:02:46"
+ },
+ "4sKky1fscCU": {
+  "status": "ok",
+  "mb": 6.3,
+  "em": "2026-10-28T21:03:15"
+ },
+ "BU0i7TIX_Kk": {
+  "status": "ok",
+  "mb": 5.5,
+  "em": "2026-10-28T21:03:41"
+ },
+ "L5QcwgpY1NI": {
+  "status": "ok",
+  "mb": 5.9,
+  "em": "2026-10-28T21:04:08"
+ },
+ "OrmlqELPuco": {
+  "status": "ok",
+  "mb": 5.2,
+  "em": "2026-10-28T21:04:36"
+ },
+ "Riej5mV-l6s": {
+  "status": "ok",
+  "mb": 8.1,
+  "em": "2026-10-28T21:05:05"
+ },
+ "Q0f2t0ngBkY": {
+  "status": "ok",
+  "mb": 10.2,
+  "em": "2026-10-28T21:05:38"
+ },
+ "WfAkOwGyJ1U": {
+  "status": "ok",
+  "mb": 7.8,
+  "em": "2026-10-28T21:06:06"
+ },
+ "g9IvLKLszeg": {
+  "status": "ok",
+  "mb": 7.2,
+  "em": "2026-10-28T21:07:01"
+ },
+ "R8SdfzPR2vI": {
+  "status": "ok",
+  "mb": 19.5,
+  "em": "2026-10-28T21:07:36"
+ },
+ "MTHveqolyEw": {
+  "status": "ok",
+  "mb": 12.2,
+  "em": "2026-10-28T21:09:37"
+ },
+ "4rMX9jO2cK4": {
+  "status": "ok",
+  "mb": 10.6,
+  "em": "2026-10-28T21:10:07"
+ },
+ "f3-bO2INPvc": {
+  "status": "ok",
+  "mb": 6.5,
+  "em": "2026-10-28T21:10:34"
+ },
+ "mIi5p_YqrMQ": {
+  "status": "ok",
+  "mb": 6.5,
+  "em": "2026-10-28T21:11:03"
+ },
+ "pzGTvQ7dTTY": {
+  "status": "ok",
+  "mb": 12.1,
+  "em": "2026-10-28T21:11:46"
+ },
+ "ClJteWSI6Zo": {
+  "status": "ok",
+  "mb": 13.8,
+  "em": "2026-10-28T21:12:17"
+ },
+ "23cGLjvsW8c": {
+  "status": "ok",
+  "mb": 9.1,
+  "em": "2026-10-28T21:12:46"
+ },
+ "xiRu4h9cEYk": {
+  "status": "ok",
+  "mb": 12.7,
+  "em": "2026-10-28T21:13:16"
+ },
+ "BDXkE1hwPDk": {
+  "status": "ok",
+  "mb": 14.2,
+  "em": "2026-10-28T21:14:25"
+ },
+ "T8elaTujIg4": {
+  "status": "ok",
+  "mb": 10.0,
+  "em": "2026-10-28T21:16:09"
+ },
+ "noyOuKW_05w": {
+  "status": "ok",
+  "mb": 18.1,
+  "em": "2026-10-28T21:18:10"
+ },
+ "Xuj8ixhj7qQ": {
+  "status": "ok",
+  "mb": 15.7,
+  "em": "2026-10-28T21:18:43"
+ },
+ "QBdGLoPvjxo": {
+  "status": "ok",
+  "mb": 7.6,
+  "em": "2026-10-28T21:19:12"
+ },
+ "cZXD5IpaP38": {
+  "status": "ok",
+  "mb": 15.1,
+  "em": "2026-10-28T21:19:42"
+ },
+ "pfKrow4F1Nk": {
+  "status": "ok",
+  "mb": 5.1,
+  "em": "2026-10-28T21:20:10"
+ },
+ "An2p126MV-0": {
+  "status": "ok",
+  "mb": 9.7,
+  "em": "2026-10-28T21:20:41"
+ },
+ "r33d8pshJ14": {
+  "status": "ok",
+  "mb": 29.4,
+  "em": "2026-10-28T21:21:15"
+ },
+ "gRUso25d7BI": {
+  "status": "ok",
+  "mb": 11.0,
+  "em": "2026-10-28T21:21:44"
+ },
+ "xo6lA6lUOxA": {
+  "status": "ok",
+  "mb": 24.7,
+  "em": "2026-10-28T21:22:19"
+ },
+ "LSJINWME034": {
+  "status": "ok",
+  "mb": 20.0,
+  "em": "2026-10-28T21:22:47"
+ },
+ "R0hSqOPNc_w": {
+  "status": "ok",
+  "mb": 12.9,
+  "em": "2026-10-28T21:25:09"
+ },
+ "vV4rMVXtAhw": {
+  "status": "ok",
+  "mb": 8.9,
+  "em": "2026-10-28T21:25:38"
+ },
+ "jBvLFdsW-yM": {
+  "status": "ok",
+  "mb": 3.6,
+  "em": "2026-10-28T21:26:05"
+ },
+ "-BPwcz7bZik": {
+  "status": "ok",
+  "mb": 9.1,
+  "em": "2026-10-28T21:26:34"
+ },
+ "5HJfEWXV18Q": {
+  "status": "ok",
+  "mb": 14.3,
+  "em": "2026-10-28T21:27:06"
+ },
+ "0hOBobZb1FQ": {
+  "status": "ok",
+  "mb": 11.4,
+  "em": "2026-10-28T21:27:36"
+ },
+ "a4tgDPsAfXs": {
+  "status": "ok",
+  "mb": 15.6,
+  "em": "2026-10-28T21:28:06"
+ },
+ "nzeILzqh9bM": {
+  "status": "ok",
+  "mb": 22.0,
+  "em": "2026-10-28T21:28:35"
+ },
+ "DduOPI6soAM": {
+  "status": "ok",
+  "mb": 22.9,
+  "em": "2026-10-28T21:29:34"
+ },
+ "fIYi5RNCml8": {
+  "status": "ok",
+  "mb": 13.6,
+  "em": "2026-10-28T21:30:07"
+ },
+ "zGmHsT0HFFQ": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-29T08:21:17"
+ },
+ "psGadT2aCNA": {
+  "status": "ok",
+  "mb": 12.5,
+  "em": "2026-10-28T21:32:34"
+ },
+ "wNmHNQN_ejk": {
+  "status": "ok",
+  "mb": 13.0,
+  "em": "2026-10-28T21:33:03"
+ },
+ "sfuN8JEXtG0": {
+  "status": "ok",
+  "mb": 6.2,
+  "em": "2026-10-28T21:33:31"
+ },
+ "5bEb_pKwewI": {
+  "status": "ok",
+  "mb": 9.3,
+  "em": "2026-10-28T21:34:05"
+ },
+ "EluVuE7Muxw": {
+  "status": "ok",
+  "mb": 9.2,
+  "em": "2026-10-28T21:34:33"
+ },
+ "qSdAnEs0-Ik": {
+  "status": "ok",
+  "mb": 11.2,
+  "em": "2026-10-28T21:35:24"
+ },
+ "UGUsnfvt8AQ": {
+  "status": "ok",
+  "mb": 9.3,
+  "em": "2026-10-28T21:35:54"
+ },
+ "9RdVjIbcihs": {
+  "status": "ok",
+  "mb": 11.3,
+  "em": "2026-10-28T21:36:23"
+ },
+ "eAQt9XdK4jA": {
+  "status": "ok",
+  "mb": 10.9,
+  "em": "2026-10-28T21:36:54"
+ },
+ "Ls90w7w_jEg": {
+  "status": "ok",
+  "mb": 11.5,
+  "em": "2026-10-28T21:38:53"
+ },
+ "uANFp6_GzuA": {
+  "status": "ok",
+  "mb": 6.6,
+  "em": "2026-10-28T21:39:35"
+ },
+ "Z1o33ikZvis": {
+  "status": "ok",
+  "mb": 20.5,
+  "em": "2026-10-28T21:40:05"
+ },
+ "8iVroFAFHw0": {
+  "status": "ok",
+  "mb": 10.3,
+  "em": "2026-10-28T21:40:33"
+ },
+ "DiQidS3Af-k": {
+  "status": "ok",
+  "mb": 10.6,
+  "em": "2026-10-28T21:41:08"
+ },
+ "918ODqkjBis": {
+  "status": "ok",
+  "mb": 10.8,
+  "em": "2026-10-28T21:41:39"
+ },
+ "bNeCaNHL9Gk": {
+  "status": "ok",
+  "mb": 6.4,
+  "em": "2026-10-28T21:42:08"
+ },
+ "SNky4aBiTTU": {
+  "status": "ok",
+  "mb": 10.5,
+  "em": "2026-10-28T21:42:38"
+ },
+ "Ubc7bPNvybY": {
+  "status": "ok",
+  "mb": 36.9,
+  "em": "2026-10-28T21:43:13"
+ },
+ "8YgyeSEKcgk": {
+  "status": "ok",
+  "mb": 11.9,
+  "em": "2026-10-28T21:43:43"
+ },
+ "T7tUVKp803M": {
+  "status": "ok",
+  "mb": 7.6,
+  "em": "2026-10-28T21:45:42"
+ },
+ "xezottTnfNI": {
+  "status": "ok",
+  "mb": 8.6,
+  "em": "2026-10-28T21:46:10"
+ },
+ "ue8G9DO5BvQ": {
+  "status": "ok",
+  "mb": 7.7,
+  "em": "2026-10-28T21:46:37"
+ },
+ "A7c3ArdEa6M": {
+  "status": "ok",
+  "mb": 12.6,
+  "em": "2026-10-28T21:47:05"
+ },
+ "T4a5A8F56sc": {
+  "status": "ok",
+  "mb": 7.3,
+  "em": "2026-10-28T21:47:33"
+ },
+ "vByPfQwGKps": {
+  "status": "ok",
+  "mb": 11.1,
+  "em": "2026-10-28T21:48:01"
+ },
+ "Wjw0CFABirI": {
+  "status": "ok",
+  "mb": 5.6,
+  "em": "2026-10-28T21:48:29"
+ },
+ "yKaWbSxRT3E": {
+  "status": "ok",
+  "mb": 17.6,
+  "em": "2026-10-28T21:49:00"
+ },
+ "HCnC_MDN-6k": {
+  "status": "ok",
+  "mb": 14.8,
+  "em": "2026-10-28T21:49:28"
+ },
+ "KCiXnZgE_-s": {
+  "status": "ok",
+  "mb": 6.9,
+  "em": "2026-10-28T21:49:54"
+ },
+ "gr_zp12DIGk": {
+  "status": "ok",
+  "mb": 8.1,
+  "em": "2026-10-28T21:51:55"
+ },
+ "d9JIdFZTHK4": {
+  "status": "ok",
+  "mb": 10.9,
+  "em": "2026-10-28T21:52:22"
+ },
+ "-cA8pchF8NQ": {
+  "status": "ok",
+  "mb": 8.2,
+  "em": "2026-10-28T21:52:49"
+ },
+ "oKiT_8y92zY": {
+  "status": "ok",
+  "mb": 8.2,
+  "em": "2026-10-28T21:53:16"
+ },
+ "6RIIqw3ISSc": {
+  "status": "ok",
+  "mb": 15.8,
+  "em": "2026-10-28T21:53:47"
+ },
+ "7B1Ok7dyPQc": {
+  "status": "ok",
+  "mb": 14.3,
+  "em": "2026-10-28T21:54:16"
+ },
+ "SafXtohQEBA": {
+  "status": "ok",
+  "mb": 19.7,
+  "em": "2026-10-28T21:54:44"
+ },
+ "2JgSComPCXM": {
+  "status": "ok",
+  "mb": 8.0,
+  "em": "2026-10-28T21:55:12"
+ },
+ "o0o9AOv3-8E": {
+  "status": "ok",
+  "mb": 7.7,
+  "em": "2026-10-28T21:55:40"
+ },
+ "uiynxGcZqhs": {
+  "status": "ok",
+  "mb": 17.6,
+  "em": "2026-10-28T21:56:10"
+ },
+ "AP4Ox_SxWms": {
+  "status": "ok",
+  "mb": 25.3,
+  "em": "2026-10-28T21:58:57"
+ },
+ "wzbq2YCadv0": {
+  "status": "ok",
+  "mb": 293.4,
+  "em": "2026-10-28T22:03:59"
+ },
+ "5vJjynoa0W0": {
+  "status": "ok",
+  "mb": 11.4,
+  "em": "2026-10-28T22:04:27"
+ },
+ "JqSaiCki2XE": {
+  "status": "ok",
+  "mb": 9.3,
+  "em": "2026-10-28T22:04:57"
+ },
+ "l921kpobUHk": {
+  "status": "ok",
+  "mb": 17.5,
+  "em": "2026-10-28T22:05:30"
+ },
+ "S0aLiplw_to": {
+  "status": "ok",
+  "mb": 9.3,
+  "em": "2026-10-28T22:05:58"
+ },
+ "E45yUiIBwCg": {
+  "status": "ok",
+  "mb": 11.4,
+  "em": "2026-10-28T22:06:26"
+ },
+ "xnflEC-5e00": {
+  "status": "ok",
+  "mb": 10.8,
+  "em": "2026-10-28T22:06:55"
+ },
+ "tferazcP5Sw": {
+  "status": "ok",
+  "mb": 14.0,
+  "em": "2026-10-28T22:07:27"
+ },
+ "HCf2N1qCYmg": {
+  "status": "ok",
+  "mb": 7.8,
+  "em": "2026-10-28T22:07:56"
+ },
+ "Cz1zPuoHVu8": {
+  "status": "ok",
+  "mb": 28.2,
+  "em": "2026-10-28T22:09:58"
+ },
+ "3s8Q7-LV_wQ": {
+  "status": "ok",
+  "mb": 6.1,
+  "em": "2026-10-28T22:10:26"
+ },
+ "UvKdvI80tO0": {
+  "status": "ok",
+  "mb": 12.9,
+  "em": "2026-10-28T22:10:53"
+ },
+ "nCVftrmWrlI": {
+  "status": "ok",
+  "mb": 15.7,
+  "em": "2026-10-28T22:11:23"
+ },
+ "PRhOh46DIy4": {
+  "status": "ok",
+  "mb": 13.1,
+  "em": "2026-10-28T22:11:52"
+ },
+ "H3TXoHC2dlg": {
+  "status": "ok",
+  "mb": 144.1,
+  "em": "2026-10-28T22:12:58"
+ },
+ "tR-W24u_fPY": {
+  "status": "ok",
+  "mb": 9.7,
+  "em": "2026-10-28T22:13:25"
+ },
+ "8gMOd2Q9Wd4": {
+  "status": "ok",
+  "mb": 26.5,
+  "em": "2026-10-28T22:13:56"
+ },
+ "bx5mEUAaB64": {
+  "status": "ok",
+  "mb": 10.6,
+  "em": "2026-10-28T22:14:24"
+ },
+ "dfFovC1jov8": {
+  "status": "ok",
+  "mb": 7.4,
+  "em": "2026-10-28T22:14:52"
+ },
+ "EYXHXOraugY": {
+  "status": "ok",
+  "mb": 16.8,
+  "em": "2026-10-28T22:16:49"
+ },
+ "c5eXFDy7F9I": {
+  "status": "ok",
+  "mb": 11.1,
+  "em": "2026-10-28T22:17:18"
+ },
+ "lFXNMa1cxts": {
+  "status": "ok",
+  "mb": 8.1,
+  "em": "2026-10-28T22:17:46"
+ },
+ "4-8LzP6TEJc": {
+  "status": "ok",
+  "mb": 15.3,
+  "em": "2026-10-28T22:18:13"
+ },
+ "laB4RnieLdE": {
+  "status": "ok",
+  "mb": 15.7,
+  "em": "2026-10-28T22:18:43"
+ },
+ "whSxoVS2N0k": {
+  "status": "ok",
+  "mb": 14.6,
+  "em": "2026-10-28T22:19:11"
+ },
+ "hxlIzqqpDow": {
+  "status": "ok",
+  "mb": 10.1,
+  "em": "2026-10-28T22:19:40"
+ },
+ "i6nbRQuedho": {
+  "status": "ok",
+  "mb": 73.3,
+  "em": "2026-10-28T22:20:09"
+ },
+ "vg2kijqQa3A": {
+  "status": "ok",
+  "mb": 11.0,
+  "em": "2026-10-28T22:20:38"
+ },
+ "yZVusFmxg0w": {
+  "status": "ok",
+  "mb": 61.2,
+  "em": "2026-10-28T22:21:12"
+ },
+ "G3x-9Kfgu3g": {
+  "status": "ok",
+  "mb": 81.8,
+  "em": "2026-10-28T22:23:21"
+ },
+ "U2OaY8fc2d8": {
+  "status": "ok",
+  "mb": 14.9,
+  "em": "2026-10-28T22:23:51"
+ },
+ "83Rgl-XA8zk": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T22:24:19"
+ },
+ "bmsafTjjrCU": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T22:24:44"
+ },
+ "3_JcsmObAT0": {
+  "status": "ok",
+  "mb": 50.7,
+  "em": "2026-10-28T22:25:20"
+ },
+ "NbhA7dzjXC8": {
+  "status": "ok",
+  "mb": 31.9,
+  "em": "2026-10-28T22:25:52"
+ },
+ "_rpFvwHjdW8": {
+  "status": "ok",
+  "mb": 37.4,
+  "em": "2026-10-28T22:26:22"
+ },
+ "LbjDYjl1Dw8": {
+  "status": "ok",
+  "mb": 53.6,
+  "em": "2026-10-28T22:26:53"
+ },
+ "rlJgnZEChm4": {
+  "status": "ok",
+  "mb": 70.7,
+  "em": "2026-10-28T22:27:32"
+ },
+ "cQKcXM8US5s": {
+  "status": "ok",
+  "mb": 83.0,
+  "em": "2026-10-28T22:28:31"
+ },
+ "aYzn7hHoWnw": {
+  "status": "ok",
+  "mb": 52.6,
+  "em": "2026-10-28T22:30:43"
+ },
+ "Qf_2N9YOQa8": {
+  "status": "ok",
+  "mb": 64.0,
+  "em": "2026-10-28T22:31:18"
+ },
+ "5HoDZucW9zE": {
+  "status": "ok",
+  "mb": 3.2,
+  "em": "2026-10-28T22:31:44"
+ },
+ "WDUkeVqtX_w": {
+  "status": "ok",
+  "mb": 11.5,
+  "em": "2026-10-28T22:32:12"
+ },
+ "QH_8pQCSUOE": {
+  "status": "ok",
+  "mb": 35.9,
+  "em": "2026-10-28T22:32:42"
+ },
+ "a4FIipEnmcQ": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T22:33:08"
+ },
+ "IJ3H1Y0PBS0": {
+  "status": "ok",
+  "mb": 0.8,
+  "em": "2026-10-28T22:33:34"
+ },
+ "iE3wK9YQN6Y": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T22:34:02"
+ },
+ "lDyDa-7G0Og": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T22:34:37"
+ },
+ "ZJ0xy2EvZqU": {
+  "status": "ok",
+  "mb": 16.6,
+  "em": "2026-10-28T22:35:08"
+ },
+ "grEn1bKIsZ0": {
+  "status": "ok",
+  "mb": 10.5,
+  "em": "2026-10-28T22:37:05"
+ },
+ "6xlE1vio-Vs": {
+  "status": "ok",
+  "mb": 15.6,
+  "em": "2026-10-28T22:37:32"
+ },
+ "qolQxwIhhzM": {
+  "status": "ok",
+  "mb": 39.0,
+  "em": "2026-10-28T22:38:04"
+ },
+ "99wP8MGmLsA": {
+  "status": "ok",
+  "mb": 23.3,
+  "em": "2026-10-28T22:38:33"
+ },
+ "P5LTCsfk0dg": {
+  "status": "ok",
+  "mb": 15.3,
+  "em": "2026-10-28T22:38:59"
+ },
+ "mPsY9zm_TDk": {
+  "status": "ok",
+  "mb": 15.4,
+  "em": "2026-10-28T22:39:30"
+ },
+ "FWGu740-24k": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T22:39:58"
+ },
+ "krIBkG-mEj0": {
+  "status": "ok",
+  "mb": 19.3,
+  "em": "2026-10-28T22:40:29"
+ },
+ "mBqRDqu75kU": {
+  "status": "ok",
+  "mb": 15.2,
+  "em": "2026-10-28T22:40:56"
+ },
+ "ZUyQoj9Majg": {
+  "status": "ok",
+  "mb": 8.1,
+  "em": "2026-10-28T22:41:27"
+ },
+ "rCqdPl_26As": {
+  "status": "ok",
+  "mb": 4.2,
+  "em": "2026-10-28T22:43:25"
+ },
+ "168rhPF16c0": {
+  "status": "ok",
+  "mb": 14.1,
+  "em": "2026-10-28T22:43:51"
+ },
+ "WbEE-ieT9r8": {
+  "status": "ok",
+  "mb": 11.0,
+  "em": "2026-10-28T22:44:18"
+ },
+ "Dv7PpqWq4lI": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T22:44:45"
+ },
+ "dfjSf7c6Ax8": {
+  "status": "ok",
+  "mb": 10.4,
+  "em": "2026-10-28T22:45:13"
+ },
+ "1fOlh4wnnhs": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T22:45:39"
+ },
+ "dU0a8890NXk": {
+  "status": "ok",
+  "mb": 16.4,
+  "em": "2026-10-28T22:46:09"
+ },
+ "iBZi3_WeQnQ": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T22:46:35"
+ },
+ "9-VNh3N_TU0": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T22:47:02"
+ },
+ "sX8sq8QboDs": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T22:47:28"
+ },
+ "4eGeikUGuRA": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T22:49:25"
+ },
+ "kBFNMwb4RPg": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T22:49:51"
+ },
+ "EphP6MPMgTc": {
+  "status": "ok",
+  "mb": 3.1,
+  "em": "2026-10-28T22:50:19"
+ },
+ "mniqUiQZqQQ": {
+  "status": "ok",
+  "mb": 1.9,
+  "em": "2026-10-28T22:50:46"
+ },
+ "8Ceo7f8DEVQ": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T22:51:12"
+ },
+ "UIQEbq5saWE": {
+  "status": "ok",
+  "mb": 3.2,
+  "em": "2026-10-28T22:51:39"
+ },
+ "sH92u5FgD3g": {
+  "status": "ok",
+  "mb": 2.5,
+  "em": "2026-10-28T22:52:05"
+ },
+ "7Sv2Rek9J_o": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T22:52:39"
+ },
+ "iOA4_Et2YXQ": {
+  "status": "ok",
+  "mb": 2.8,
+  "em": "2026-10-28T22:53:06"
+ },
+ "mbiT2YKN7I0": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T22:53:31"
+ },
+ "zuXn5AGVXEE": {
+  "status": "ok",
+  "mb": 5.9,
+  "em": "2026-10-28T22:55:28"
+ },
+ "_aTCJWUx4ws": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-28T22:55:56"
+ },
+ "oDMl4gSAhvQ": {
+  "status": "ok",
+  "mb": 3.4,
+  "em": "2026-10-28T22:56:22"
+ },
+ "WV4i0hhnqM8": {
+  "status": "ok",
+  "mb": 2.9,
+  "em": "2026-10-28T22:56:49"
+ },
+ "KNdIK-2F_2c": {
+  "status": "ok",
+  "mb": 6.9,
+  "em": "2026-10-28T22:57:17"
+ },
+ "3wFUc4_jLaw": {
+  "status": "ok",
+  "mb": 5.7,
+  "em": "2026-10-28T22:57:45"
+ },
+ "HlUZaZeEc20": {
+  "status": "ok",
+  "mb": 4.1,
+  "em": "2026-10-28T22:58:21"
+ },
+ "x-BRr6WFL6g": {
+  "status": "ok",
+  "mb": 3.1,
+  "em": "2026-10-28T22:58:47"
+ },
+ "Y-Bn6Ui6N4M": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T22:59:14"
+ },
+ "ZAw2ym0395A": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T22:59:40"
+ },
+ "n6mvUne9YcA": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T23:01:35"
+ },
+ "gmipA84tsHE": {
+  "status": "ok",
+  "mb": 0.8,
+  "em": "2026-10-28T23:02:01"
+ },
+ "gjUMR17ql_0": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T23:02:26"
+ },
+ "ldn8yJ02wFI": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-28T23:02:52"
+ },
+ "UvVDQ-bw3MI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T23:03:17"
+ },
+ "t7knwh0WQU8": {
+  "status": "ok",
+  "mb": 1.7,
+  "em": "2026-10-28T23:03:45"
+ },
+ "XrE_AubWywA": {
+  "status": "ok",
+  "mb": 7.8,
+  "em": "2026-10-28T23:04:12"
+ },
+ "huu0XjOsqKU": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T23:04:39"
+ },
+ "NqMNxRT7JUE": {
+  "status": "ok",
+  "mb": 0.7,
+  "em": "2026-10-28T23:05:05"
+ },
+ "2Pki-0tg9u0": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-28T23:05:30"
+ },
+ "MXcmbKCYn94": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T23:07:26"
+ },
+ "qkR-MU6sfOo": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T23:07:53"
+ },
+ "GE8-hPwTK_4": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T23:08:19"
+ },
+ "HsXZsUuuibA": {
+  "status": "ok",
+  "mb": 3.8,
+  "em": "2026-10-28T23:08:46"
+ },
+ "lB3H1QJpu8Y": {
+  "status": "ok",
+  "mb": 59.8,
+  "em": "2026-10-28T23:09:27"
+ },
+ "gwotbzYhSdc": {
+  "status": "ok",
+  "mb": 0.8,
+  "em": "2026-10-28T23:09:54"
+ },
+ "mj0hQ_GVS1M": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T23:10:22"
+ },
+ "YfJlCbWgghI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T23:10:48"
+ },
+ "G2FE0Y3GDrk": {
+  "status": "ok",
+  "mb": 8.2,
+  "em": "2026-10-28T23:11:14"
+ },
+ "baH1gwIuUGQ": {
+  "status": "ok",
+  "mb": 6.5,
+  "em": "2026-10-28T23:11:42"
+ },
+ "f3p_J7hIL3I": {
+  "status": "ok",
+  "mb": 0.4,
+  "em": "2026-10-28T23:13:38"
+ },
+ "uRuEMC8Qfdk": {
+  "status": "ok",
+  "mb": 1.3,
+  "em": "2026-10-28T23:14:04"
+ },
+ "E4HjxocEPSU": {
+  "status": "ok",
+  "mb": 0.7,
+  "em": "2026-10-28T23:14:31"
+ },
+ "e2L1ayQQbsI": {
+  "status": "ok",
+  "mb": 4.1,
+  "em": "2026-10-28T23:15:04"
+ },
+ "hlthhVQGIRg": {
+  "status": "ok",
+  "mb": 8.1,
+  "em": "2026-10-28T23:15:29"
+ },
+ "g_EIZ9ZgyvE": {
+  "status": "ok",
+  "mb": 10.6,
+  "em": "2026-10-28T23:15:57"
+ },
+ "vSDfkDcgofw": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T23:16:24"
+ },
+ "YXKf-P7iaX0": {
+  "status": "ok",
+  "mb": 9.6,
+  "em": "2026-10-28T23:16:51"
+ },
+ "pmOvavKkgRc": {
+  "status": "ok",
+  "mb": 360.2,
+  "em": "2026-10-28T23:18:55"
+ },
+ "I6HbjOFxs-o": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T23:19:22"
+ },
+ "oIJKoSn4KiE": {
+  "status": "ok",
+  "mb": 13.3,
+  "em": "2026-10-28T23:21:24"
+ },
+ "K8MfKP4rlPw": {
+  "status": "ok",
+  "mb": 10.7,
+  "em": "2026-10-28T23:21:51"
+ },
+ "LOTEs-EyRPM": {
+  "status": "ok",
+  "mb": 9.9,
+  "em": "2026-10-28T23:22:18"
+ },
+ "hwG6Cmhq1f4": {
+  "status": "ok",
+  "mb": 1.8,
+  "em": "2026-10-28T23:22:45"
+ },
+ "ui3zc9ouhng": {
+  "status": "ok",
+  "mb": 3.4,
+  "em": "2026-10-28T23:23:11"
+ },
+ "FWAG0pi2aY0": {
+  "status": "ok",
+  "mb": 20.4,
+  "em": "2026-10-28T23:23:39"
+ },
+ "D5WyYxjl_OY": {
+  "status": "ok",
+  "mb": 29.9,
+  "em": "2026-10-28T23:24:09"
+ },
+ "T7FhK4yJxJc": {
+  "status": "ok",
+  "mb": 4.2,
+  "em": "2026-10-28T23:24:35"
+ },
+ "QabdKamNSgQ": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T23:25:01"
+ },
+ "fP3D6IV2e78": {
+  "status": "ok",
+  "mb": 237.2,
+  "em": "2026-10-28T23:25:55"
+ },
+ "mSwYes2NOfM": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T23:27:53"
+ },
+ "9Fi87YPZlb8": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T23:28:26"
+ },
+ "XI-PvMvaMmM": {
+  "status": "ok",
+  "mb": 206.8,
+  "em": "2026-10-28T23:29:42"
+ },
+ "NJHgjBKdKcA": {
+  "status": "ok",
+  "mb": 2.3,
+  "em": "2026-10-28T23:30:09"
+ },
+ "D7lgX3mM_zI": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-28T23:30:35"
+ },
+ "RrBpYnfu0mY": {
+  "status": "ok",
+  "mb": 2.4,
+  "em": "2026-10-28T23:31:01"
+ },
+ "mCw3QAdQjaI": {
+  "status": "ok",
+  "mb": 6.0,
+  "em": "2026-10-28T23:31:28"
+ },
+ "vdZm1Rbm7hI": {
+  "status": "ok",
+  "mb": 0.5,
+  "em": "2026-10-28T23:31:54"
+ },
+ "uJAxIb28J4Y": {
+  "status": "ok",
+  "mb": 28.4,
+  "em": "2026-10-28T23:32:28"
+ },
+ "Odgwt_qTW9s": {
+  "status": "ok",
+  "mb": 39.1,
+  "em": "2026-10-28T23:33:02"
+ },
+ "BwBJ2N0qqu4": {
+  "status": "ok",
+  "mb": 10.9,
+  "em": "2026-10-28T23:35:07"
+ },
+ "91GpdvP2-DE": {
+  "status": "ok",
+  "mb": 0.6,
+  "em": "2026-10-28T23:35:32"
+ },
+ "fBvzVItfRnY": {
+  "status": "ok",
+  "mb": 29.9,
+  "em": "2026-10-28T23:36:07"
+ },
+ "as_o44r0Es8": {
+  "status": "ok",
+  "mb": 143.8,
+  "em": "2026-10-28T23:37:07"
+ },
+ "f_4AX360A6c": {
+  "status": "ok",
+  "mb": 110.2,
+  "em": "2026-10-28T23:38:15"
+ },
+ "eurRq-FCQJQ": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-28T23:38:43"
+ },
+ "N09DvR7xuLw": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-28T23:39:09"
+ },
+ "mWUBZdnoHfc": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T23:39:35"
+ },
+ "1LtJVdG28oE": {
+  "status": "ok",
+  "mb": 14.8,
+  "em": "2026-10-28T23:40:05"
+ },
+ "hnfMS1TktIk": {
+  "status": "ok",
+  "mb": 1.0,
+  "em": "2026-10-28T23:40:32"
+ },
+ "6vSQeDFwbSk": {
+  "status": "ok",
+  "mb": 217.9,
+  "em": "2026-10-28T23:43:13"
+ },
+ "mFgtgW_OAos": {
+  "status": "ok",
+  "mb": 2.7,
+  "em": "2026-10-28T23:43:38"
+ },
+ "uUFIfaC1-oA": {
+  "status": "ok",
+  "mb": 267.0,
+  "em": "2026-10-28T23:44:43"
+ },
+ "4-FtHfSHVBQ": {
+  "status": "ok",
+  "mb": 42.0,
+  "em": "2026-10-28T23:45:50"
+ },
+ "6LCg5NE4zt4": {
+  "status": "ok",
+  "mb": 73.3,
+  "em": "2026-10-28T23:46:26"
+ },
+ "RyNdh1OgioE": {
+  "status": "ok",
+  "mb": 18.3,
+  "em": "2026-10-28T23:47:00"
+ },
+ "uWdd4jAzCj0": {
+  "status": "ok",
+  "mb": 6.8,
+  "em": "2026-10-28T23:47:29"
+ },
+ "Jov1d8R4Zj0": {
+  "status": "ok",
+  "mb": 2.4,
+  "em": "2026-10-28T23:47:55"
+ },
+ "2yguUQtewUg": {
+  "status": "ok",
+  "mb": 55.8,
+  "em": "2026-10-28T23:48:33"
+ },
+ "q-h1IZf34TM": {
+  "status": "ok",
+  "mb": 2.1,
+  "em": "2026-10-28T23:48:59"
+ },
+ "tDRhUf4a1fQ": {
+  "status": "ok",
+  "mb": 1.1,
+  "em": "2026-10-28T23:51:06"
+ },
+ "WnKx1jpc7bk": {
+  "status": "ok",
+  "mb": 33.8,
+  "em": "2026-10-28T23:51:38"
+ },
+ "yJKRiPFw-38": {
+  "status": "ok",
+  "mb": 15.3,
+  "em": "2026-10-28T23:52:08"
+ },
+ "71vm6RMqu8U": {
+  "status": "ok",
+  "mb": 46.1,
+  "em": "2026-10-28T23:52:35"
+ },
+ "pWMIEaTYKdQ": {
+  "status": "ok",
+  "mb": 27.3,
+  "em": "2026-10-28T23:53:10"
+ },
+ "FWdpHsqg4NQ": {
+  "status": "ok",
+  "mb": 37.8,
+  "em": "2026-10-28T23:53:45"
+ },
+ "JSUrJgdiIRs": {
+  "status": "ok",
+  "mb": 77.0,
+  "em": "2026-10-28T23:54:22"
+ },
+ "KBslDAPwfck": {
+  "status": "ok",
+  "mb": 100.9,
+  "em": "2026-10-28T23:55:06"
+ },
+ "4RMiT61gFBo": {
+  "status": "ok",
+  "mb": 363.0,
+  "em": "2026-10-28T23:57:19"
+ },
+ "V5h_AJxwUS8": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-28T23:57:45"
+ },
+ "Dn0_avWOKPs": {
+  "status": "ok",
+  "mb": 2.6,
+  "em": "2026-10-28T23:59:51"
+ },
+ "FkUwnUUF3EQ": {
+  "status": "ok",
+  "mb": 117.3,
+  "em": "2026-10-29T00:00:31"
+ },
+ "qnwjxaLJA-Y": {
+  "status": "ok",
+  "mb": 13.8,
+  "em": "2026-10-29T00:01:00"
+ },
+ "4o0E4lL8Ntw": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-29T00:01:26"
+ },
+ "lYW1QTzeRR8": {
+  "status": "ok",
+  "mb": 143.5,
+  "em": "2026-10-29T00:02:35"
+ },
+ "8C8itcrqQPA": {
+  "status": "ok",
+  "mb": 2.2,
+  "em": "2026-10-29T00:03:02"
+ },
+ "_ZY5CHT7Iwk": {
+  "status": "ok",
+  "mb": 8.8,
+  "em": "2026-10-29T00:03:30"
+ },
+ "RhvodM5TieQ": {
+  "status": "ok",
+  "mb": 1.2,
+  "em": "2026-10-29T00:03:56"
+ },
+ "j01U6sasgkk": {
+  "status": "ok",
+  "mb": 14.3,
+  "em": "2026-10-29T00:04:27"
+ },
+ "oF531bXDQgY": {
+  "status": "ok",
+  "mb": 7.9,
+  "em": "2026-10-29T00:04:54"
+ },
+ "k3HU6cwmRmY": {
+  "status": "ok",
+  "mb": 1.6,
+  "em": "2026-10-29T00:06:54"
+ },
+ "-0n3TEWQmd8": {
+  "status": "ok",
+  "mb": 23.6,
+  "em": "2026-10-29T00:07:31"
+ },
+ "8TYwvTDD-jI": {
+  "status": "ok",
+  "mb": 0.9,
+  "em": "2026-10-29T00:07:58"
+ },
+ "IV_4RYkAgII": {
+  "status": "ok",
+  "mb": 45.3,
+  "em": "2026-10-29T00:08:38"
+ },
+ "ylSPmZENf9w": {
+  "status": "ok",
+  "mb": 16.8,
+  "em": "2026-10-29T00:09:07"
+ },
+ "g4wfWQsRl2c": {
+  "status": "ok",
+  "mb": 0.4,
+  "em": "2026-10-29T00:09:33"
+ },
+ "IvIu8kOXx5c": {
+  "status": "ok",
+  "mb": 9.5,
+  "em": "2026-10-29T00:10:00"
+ },
+ "V_gdMyzMN3w": {
+  "status": "ok",
+  "mb": 47.4,
+  "em": "2026-10-29T00:10:27"
+ },
+ "xF4Hc1KkBDM": {
+  "status": "ok",
+  "mb": 1.4,
+  "em": "2026-10-29T00:10:52"
+ },
+ "-95EoegPWMo": {
+  "status": "ok",
+  "mb": 13.0,
+  "em": "2026-10-29T00:11:19"
+ },
+ "_t0JIe5KM8Q": {
+  "status": "ok",
+  "mb": 1.5,
+  "em": "2026-10-29T00:13:16"
+ },
+ "C36CEXpNRHM": {
+  "status": "ok",
+  "mb": 58.9,
+  "em": "2026-10-29T00:14:12"
+ },
+ "5q1FhFgjBhY": {
+  "status": "ok",
+  "mb": 105.4,
+  "em": "2026-10-29T00:14:58"
+ },
+ "nDDhOyrvPZU": {
+  "status": "ok",
+  "mb": 108.2,
+  "em": "2026-10-29T00:15:33"
+ },
+ "oYD66OucgJQ": {
+  "status": "ok",
+  "mb": 4.6,
+  "em": "2026-10-29T00:16:11"
+ },
+ "zklEKLiPYR4": {
+  "status": "ok",
+  "mb": 2.6,
+  "em": "2026-10-29T00:16:45"
+ },
+ "bF9V8CgaE2c": {
+  "status": "ok",
+  "mb": 44.9,
+  "em": "2026-10-29T00:17:25"
+ },
+ "mu3Jc_f6ZzA": {
+  "status": "ok",
+  "mb": 57.3,
+  "em": "2026-10-29T00:18:27"
+ },
+ "-XP5KS4qk2k": {
+  "status": "ok",
+  "mb": 101.0,
+  "em": "2026-10-29T00:19:15"
+ },
+ "Xt2DlSgYeys": {
+  "status": "ok",
+  "mb": 29.4,
+  "em": "2026-10-29T00:19:54"
+ },
+ "I4RY_UQ1sZs": {
+  "status": "ok",
+  "mb": 3.1,
+  "em": "2026-10-29T00:21:50"
+ },
+ "VvoHlBBc-gw": {
+  "status": "ok",
+  "mb": 5.8,
+  "em": "2026-10-29T00:22:16"
+ },
+ "iC-lPI9QSjk": {
+  "status": "ok",
+  "mb": 10.9,
+  "em": "2026-10-29T00:22:44"
+ },
+ "BN92FlGBjeg": {
+  "status": "ok",
+  "mb": 88.7,
+  "em": "2026-10-29T00:23:36"
+ },
+ "H38NissxuAQ": {
+  "status": "ok",
+  "mb": 69.1,
+  "em": "2026-10-29T00:24:14"
+ },
+ "OPvjduHlhSQ": {
+  "status": "ok",
+  "mb": 190.1,
+  "em": "2026-10-29T00:25:06"
+ },
+ "gQjjDfEswHE": {
+  "status": "ok",
+  "mb": 28.2,
+  "em": "2026-10-29T00:25:32"
+ },
+ "hwOkwPtMDAY": {
+  "status": "ok",
+  "mb": 24.7,
+  "em": "2026-10-29T00:25:59"
+ },
+ "GfdP_tr5KPE": {
+  "status": "ok",
+  "mb": 340.2,
+  "em": "2026-10-29T00:27:45"
+ },
+ "idj4Tl-24ks": {
+  "status": "ok",
+  "mb": 5.2,
+  "em": "2026-10-29T00:28:19"
+ },
+ "ZjznxmTZ5AM": {
+  "status": "ok",
+  "mb": 15.3,
+  "em": "2026-10-29T00:30:20"
+ },
+ "rqyoDMLPibg": {
+  "status": "ok",
+  "mb": 0.2,
+  "em": "2026-10-29T00:30:53"
+ },
+ "s2sLdOUwQM0": {
+  "status": "ok",
+  "mb": 2.0,
+  "em": "2026-10-29T00:31:26"
  }
 }

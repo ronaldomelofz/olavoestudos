@@ -1,42 +1,66 @@
 {
- "em": "2026-10-28 11:14",
- "gb": 12.84,
+ "agora": 1793284467.3,
+ "em": "11:34:27",
+ "gb": 50.34,
+ "vivos": [
+  {
+   "id": "videos",
+   "nome": "Download dos vídeos",
+   "estado": "parado",
+   "visto_em": 1793272877.8,
+   "linha": "[08:21:17] Fim da rodada · 1083 vídeos no acervo · 50.3 GB"
+  },
+  {
+   "id": "legendas",
+   "nome": "Legendas",
+   "estado": "ativo",
+   "visto_em": 1793284421.6,
+   "linha": "[11:33:41]   excesso de requisições (1/5) — cooldown 180s"
+  },
+  {
+   "id": "whisper",
+   "nome": "Retranscrição fina",
+   "estado": "parado",
+   "visto_em": 1793279292.7,
+   "linha": "[10:08:12] [5/11] áudio V_S95CfEzmc.mp4 (301572 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula 01 Co"
+  }
+ ],
  "removidos": 31,
  "etapas": [
   {
    "id": "videos",
    "nome": "Vídeos em MP4 no acervo",
-   "feito": 55,
+   "feito": 1083,
    "total": 1100,
-   "detalhe": "12.84 GB salvos · pausa de 20 s entre vídeos"
+   "detalhe": "50.34 GB salvos · o restante não está mais disponível no YouTube"
   },
   {
    "id": "seminario",
    "nome": "Textos integrais do Seminário",
-   "feito": 1894,
+   "feito": 2460,
    "total": 2460,
    "detalhe": "artigos abertos em JSON e Markdown"
   },
   {
    "id": "legendas",
    "nome": "Legendas com marcação de tempo",
-   "feito": 268,
+   "feito": 1007,
    "total": 1100,
-   "detalhe": "sem acesso: 31 · erros a repetir: 2"
+   "detalhe": "sem acesso: 45 · erros a repetir: 25"
   },
   {
    "id": "estudo",
    "nome": "Edição para estudo",
-   "feito": 262,
-   "total": 268,
-   "detalhe": "parágrafos com tempo, a partir das legendas já extraídas"
+   "feito": 1008,
+   "total": 1008,
+   "detalhe": "parágrafos com tempo, a partir das legendas e retranscrições já extraídas"
   },
   {
    "id": "whisper",
    "nome": "Retranscrição fina das aulas completas",
-   "feito": 2,
-   "total": 33,
-   "detalhe": "Whisper small em fatias de 20 min · falhas: 1"
+   "feito": 26,
+   "total": 87,
+   "detalhe": "33 aulas completas + 54 vídeos sem legenda, a partir dos MP4 locais · falhas: 0"
   },
   {
    "id": "cursos",
