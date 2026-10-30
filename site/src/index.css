@@ -1410,3 +1410,73 @@ li.visto .check {
 .video-texto { margin: 1.2rem 0; }
 .video-texto video { width: 100%; border-radius: 10px; background: #000; }
 .video-texto figcaption { margin-top: .4rem; font-size: .9rem; }
+
+/* ---------- login privado ---------- */
+.login-tela {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+  background:
+    radial-gradient(ellipse at 20% 10%, rgba(120, 40, 40, 0.18), transparent 50%),
+    radial-gradient(ellipse at 80% 90%, rgba(40, 50, 80, 0.16), transparent 45%),
+    var(--paper);
+}
+.login-caixa {
+  width: min(420px, 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding: 2rem;
+  background: color-mix(in srgb, var(--paper) 92%, white);
+  border: 1px solid var(--line);
+  box-shadow: 0 18px 50px rgba(20, 10, 10, 0.12);
+}
+.login-caixa h1 { font-family: var(--font-display); margin: 0; }
+.login-caixa label { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.92rem; }
+.login-caixa input { padding: 0.65rem 0.75rem; border: 1px solid var(--line); background: #fff; }
+.nav-sair {
+  margin-left: 0.5rem;
+  background: transparent;
+  border: 0;
+  color: var(--ink-soft);
+  cursor: pointer;
+  font: inherit;
+}
+.nav-sair:hover { color: var(--wine); text-decoration: underline; }
+
+/* ---------- biblioteca ---------- */
+.abas { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0; align-items: center; }
+.abas button {
+  border: 1px solid var(--line);
+  background: transparent;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+  font: inherit;
+}
+.abas button.ativa { background: var(--wine); color: #fff; border-color: var(--wine); }
+.abas-busca { margin-left: auto; }
+.faixa-cof { margin: 1rem 0; border: 1px solid var(--line); padding: 0.4rem 0.8rem; }
+.faixa-cof summary { cursor: pointer; font-family: var(--font-display); }
+.faixa-cof summary span { color: var(--ink-soft); font-size: 0.9rem; margin-left: 0.5rem; }
+.grade-cof { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.5rem; }
+.aula-cof {
+  display: flex; flex-direction: column; gap: 0.15rem;
+  padding: 0.65rem; border: 1px solid var(--line); text-decoration: none; color: inherit;
+}
+.aula-cof.revisada { border-left: 3px solid #2f6b4f; }
+.aula-cof.pendente { border-left: 3px solid #a07830; }
+.livro-card { display: flex; flex-direction: column; gap: 0.4rem; text-decoration: none; color: inherit; }
+.livro-lombada {
+  width: 2.4rem; height: 2.4rem; display: grid; place-items: center;
+  background: var(--wine); color: #fff; font-family: var(--font-display); font-size: 1.2rem;
+}
+.pdf-frame { width: 100%; min-height: 75vh; border: 1px solid var(--line); background: #222; margin: 1rem 0; }
+.pagina-livro { white-space: pre-wrap; font-family: var(--font-body); line-height: 1.55; }
+.paginacao { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+.player-cof { width: 100%; max-height: 420px; background: #000; margin-bottom: 1rem; }
+.busca-lista { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1.2rem; }
+.busca-lista .trecho { color: var(--ink-soft); font-size: 0.95rem; margin: 0.25rem 0 0; }
+.busca-lista mark { background: #f3e0a8; padding: 0 0.15rem; }
+.fontes-busca { flex-wrap: wrap; gap: 0.75rem; }
+.cof-leitura .marca-tempo { color: var(--wine); font-weight: 600; font-size: 0.9em; }

@@ -5533,5 +5533,50 @@
   "status": "erro",
   "erro": "ERROR: [youtube] gICSWXGs0d4: This video is unavailable",
   "em": "2026-10-29T14:13:45"
+ },
+ "kfu6OtIWhDw": {
+  "status": "ok",
+  "mb": 43.9,
+  "em": "2026-10-29T14:14:23"
+ },
+ "OpKvK75lG0w": {
+  "status": "ok",
+  "mb": 255.9,
+  "em": "2026-10-29T14:15:30"
+ },
+ "yE4-YQkFXd8": {
+  "status": "indisponivel",
+  "erro": "ERROR: [youtube] yE4-YQkFXd8: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.",
+  "em": "2026-10-29T14:15:53"
+ },
+ "YoApKNuOQ1A": {
+  "status": "ok",
+  "mb": 757.0,
+  "em": "2026-10-29T14:18:54"
+ },
+ "dUtpd4NuivM": {
+  "status": "ok",
+  "mb": 12.2,
+  "em": "2026-10-29T14:19:36"
+ },
+ "P-a5JwY_DGU": {
+  "status": "erro",
+  "erro": "ERROR: [youtube] P-a5JwY_DGU: This video is unavailable",
+  "em": "2026-10-29T14:19:59"
+ },
+ "pjMOTYmhuVc": {
+  "status": "ok",
+  "mb": 10.2,
+  "em": "2026-10-29T14:20:26"
+ },
+ "HFeEsz93iiw": {
+  "status": "erro",
+  "erro": "ERROR: [youtube] HFeEsz93iiw: This video is unavailable",
+  "em": "2026-10-29T14:22:18"
+ },
+ "-ARru63yog0": {
+  "status": "ok",
+  "mb": 179.5,
+  "em": "2026-10-29T14:23:32"
  }
 }

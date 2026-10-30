@@ -4,8 +4,10 @@ import type { IncomingMessage, ServerResponse } from 'node:http'
 import { extname, join, normalize, resolve } from 'node:path'
 import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
+import { buscar, type Fonte } from './busca-local'
 
 const ACERVO = resolve(__dirname, '..', 'ACERVO')
+const LIVROS = resolve(__dirname, '..', 'LIVROS')
 const TIPOS: Record<string, string> = {
   '.mp4': 'video/mp4',
   '.m4a': 'audio/mp4',
@@ -13,6 +15,7 @@ const TIPOS: Record<string, string> = {
   '.jpeg': 'image/jpeg',
   '.png': 'image/png',
   '.webp': 'image/webp',
+  '.pdf': 'application/pdf',
   '.json': 'application/json; charset=utf-8',
   '.md': 'text/markdown; charset=utf-8',
   '.txt': 'text/plain; charset=utf-8',
@@ -35,30 +38,42 @@ function indiceAoVivo(res: ServerResponse) {
   indice.miniaturas = nomes(videos, '.jpg')
   indice.textos = nomes(join(sem, 'textos'), '.json')
   indice.guias = nomes(join(sem, 'guias'), '.json')
+  indice.biblioteca = existsSync(join(ACERVO, 'BIBLIOTECA', '_indice.json'))
   res.setHeader('Content-Type', 'application/json; charset=utf-8')
   res.end(JSON.stringify(indice))
 }
 
-/** /andamento.json é medido na hora; o resto de /acervo vem do disco. */
-function painel(req: IncomingMessage, res: ServerResponse, next: () => void) {
-  const url = decodeURIComponent((req.url ?? '').split('?')[0])
-  if (url === '/andamento.json') {
-    const r = spawnSync('python', ['../scripts/andamento.py', '--stdout'], { cwd: __dirname, encoding: 'utf-8' })
-    res.setHeader('Content-Type', 'application/json; charset=utf-8')
-    res.setHeader('Cache-Control', 'no-store')
-    res.end(r.stdout || '{}')
-    return
-  }
-  servirAcervo(req, res, next)
+const json = (res: ServerResponse, dado: unknown) => {
+  res.setHeader('Content-Type', 'application/json; charset=utf-8')
+  res.setHeader('Cache-Control', 'no-store')
+  res.end(typeof dado === 'string' ? dado : JSON.stringify(dado))
 }
 
-/** Serve a pasta ACERVO/ (vídeos, miniaturas, textos salvos) em /acervo, com suporte a Range. */
-function servirAcervo(req: IncomingMessage, res: ServerResponse, next: () => void) {
-  const url = decodeURIComponent((req.url ?? '').split('?')[0])
-  if (!url.startsWith('/acervo/')) return next()
-  if (url === '/acervo/_indice.json') return indiceAoVivo(res)
-  const arquivo = normalize(join(ACERVO, url.slice('/acervo/'.length)))
-  if (!arquivo.startsWith(ACERVO) || !existsSync(arquivo) || !statSync(arquivo).isFile()) {
+/** /andamento.json e /api/busca são calculados na hora; /acervo e /livros vêm do disco. */
+function painel(req: IncomingMessage, res: ServerResponse, next: () => void) {
+  const [caminho, consulta = ''] = (req.url ?? '').split('?')
+  const url = decodeURIComponent(caminho)
+  if (url === '/andamento.json') {
+    const r = spawnSync('python', ['../scripts/andamento.py', '--stdout'], { cwd: __dirname, encoding: 'utf-8' })
+    return json(res, r.stdout || '{}')
+  }
+  if (url === '/api/busca') {
+    const p = new URLSearchParams(consulta)
+    const fontes = p.get('fontes')?.split(',').filter(Boolean) as Fonte[] | undefined
+    return json(res, buscar(p.get('q') ?? '', fontes?.length ? fontes : null, Number(p.get('limite') ?? 80)))
+  }
+  if (url.startsWith('/acervo/')) {
+    if (url === '/acervo/_indice.json') return indiceAoVivo(res)
+    return servir(ACERVO, url.slice('/acervo/'.length), req, res)
+  }
+  if (url.startsWith('/livros/')) return servir(LIVROS, url.slice('/livros/'.length), req, res)
+  next()
+}
+
+/** Serve um arquivo de `base`, com suporte a Range (vídeos e PDFs grandes). */
+function servir(base: string, relativo: string, req: IncomingMessage, res: ServerResponse) {
+  const arquivo = normalize(join(base, relativo))
+  if (!arquivo.startsWith(base) || !existsSync(arquivo) || !statSync(arquivo).isFile()) {
     res.statusCode = 404
     return res.end()
   }

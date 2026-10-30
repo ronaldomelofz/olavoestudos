@@ -1,14 +1,14 @@
 {
- "agora": 1793294037.3,
- "em": "14:13:57",
- "gb": 50.53,
+ "agora": 1793359439.6,
+ "em": "08:23:59",
+ "gb": 51.79,
  "vivos": [
   {
    "id": "videos",
    "nome": "Download dos vídeos",
-   "estado": "ativo",
-   "visto_em": 1793294025.3,
-   "linha": "[14:13:45] [3/11] ERRO gICSWXGs0d4: ERROR: [youtube] gICSWXGs0d4: This video is unavailable"
+   "estado": "parado",
+   "visto_em": 1793294612.8,
+   "linha": "[14:23:32] Fim da rodada · 1091 vídeos no acervo · 51.8 GB"
   },
   {
    "id": "legendas",
@@ -20,10 +20,9 @@
   {
    "id": "whisper",
    "nome": "Retranscrição fina",
-   "estado": "ativo",
-   "visto_em": 1793293237.8,
-   "linha": "[14:00:37] [2/7] áudio 0nu4zO48wWs.mp4 (178125 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula Final",
-   "cpu": true
+   "estado": "parado",
+   "visto_em": 1793325180.8,
+   "linha": "[22:53:00] Fim da rodada."
   }
  ],
  "removidos": 48,
@@ -31,9 +30,9 @@
   {
    "id": "videos",
    "nome": "Vídeos em MP4 no acervo",
-   "feito": 1085,
+   "feito": 1091,
    "total": 1083,
-   "detalhe": "50.53 GB salvos · o restante não está mais disponível no YouTube"
+   "detalhe": "51.79 GB salvos · o restante não está mais disponível no YouTube"
   },
   {
    "id": "seminario",
@@ -52,16 +51,16 @@
   {
    "id": "estudo",
    "nome": "Edição para estudo",
-   "feito": 1008,
-   "total": 1011,
+   "feito": 1058,
+   "total": 1083,
    "detalhe": "parágrafos com tempo, a partir das legendas e retranscrições já extraídas"
   },
   {
    "id": "whisper",
    "nome": "Retranscrição fina das aulas completas",
-   "feito": 27,
+   "feito": 105,
    "total": 109,
-   "detalhe": "33 aulas completas + 76 vídeos sem legenda ou recusados pelo YouTube, a partir dos MP4 locais · falhas: 0"
+   "detalhe": "33 aulas completas + 76 vídeos sem legenda ou recusados pelo YouTube, a partir dos MP4 locais · falhas: 3"
   },
   {
    "id": "cursos",

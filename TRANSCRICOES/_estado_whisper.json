@@ -187,5 +187,566 @@
   "seg": 4387,
   "ritmo": 0.45,
   "em": "2026-10-29T14:00:29"
+ },
+ "0nu4zO48wWs": {
+  "status": "ok",
+  "palavras": 14181,
+  "seg": 3223,
+  "ritmo": 0.55,
+  "em": "2026-10-29T14:54:20"
+ },
+ "XC5UX2E8H6c": {
+  "status": "ok",
+  "palavras": 9363,
+  "seg": 1845,
+  "ritmo": 0.46,
+  "em": "2026-10-29T15:25:13"
+ },
+ "XNrKmaIIxaQ": {
+  "status": "ok",
+  "palavras": 13507,
+  "seg": 2777,
+  "ritmo": 0.45,
+  "em": "2026-10-29T16:11:38"
+ },
+ "IzBoTtEiHn0": {
+  "status": "ok",
+  "palavras": 8686,
+  "seg": 1790,
+  "ritmo": 0.47,
+  "em": "2026-10-29T16:41:36"
+ },
+ "G694yNnpeVg": {
+  "status": "ok",
+  "palavras": 21795,
+  "seg": 4571,
+  "ritmo": 0.45,
+  "em": "2026-10-29T17:58:40"
+ },
+ "Tog9FgT_85E": {
+  "status": "ok",
+  "palavras": 11661,
+  "seg": 2423,
+  "ritmo": 0.44,
+  "em": "2026-10-29T18:39:11"
+ },
+ "Mn9iS9jSs9E": {
+  "status": "ok",
+  "palavras": 10034,
+  "seg": 2110,
+  "ritmo": 0.54,
+  "em": "2026-10-29T19:14:56"
+ },
+ "4qMSWlTDUKc": {
+  "status": "ok",
+  "palavras": 5781,
+  "seg": 1602,
+  "ritmo": 0.59,
+  "em": "2026-10-29T19:41:46"
+ },
+ "Oc7Nzi1bfCQ": {
+  "status": "erro",
+  "erro": "ERROR: [youtube] Oc7Nzi1bfCQ: Video unavailable. This content is not available on this country domain due to a defamation complaint.\n",
+  "em": "2026-10-29T19:41:58"
+ },
+ "PksauAdgbwI": {
+  "status": "ok",
+  "palavras": 355,
+  "seg": 68,
+  "ritmo": 0.48,
+  "em": "2026-10-29T19:43:13"
+ },
+ "qySuenfRkDk": {
+  "status": "ok",
+  "palavras": 1861,
+  "seg": 396,
+  "ritmo": 0.53,
+  "em": "2026-10-29T19:49:57"
+ },
+ "4-tdiX2S8g8": {
+  "status": "ok",
+  "palavras": 1008,
+  "seg": 205,
+  "ritmo": 0.52,
+  "em": "2026-10-29T19:54:14"
+ },
+ "_MXI0EO5-3k": {
+  "status": "ok",
+  "palavras": 465,
+  "seg": 94,
+  "ritmo": 0.48,
+  "em": "2026-10-29T19:55:56"
+ },
+ "ZQd7KyRHa9o": {
+  "status": "ok",
+  "palavras": 199,
+  "seg": 42,
+  "ritmo": 0.51,
+  "em": "2026-10-29T19:56:46"
+ },
+ "1xrYpXPObdo": {
+  "status": "ok",
+  "palavras": 2462,
+  "seg": 463,
+  "ritmo": 0.62,
+  "em": "2026-10-29T20:04:36"
+ },
+ "dssZLzi70Ro": {
+  "status": "ok",
+  "palavras": 1181,
+  "seg": 238,
+  "ritmo": 0.52,
+  "em": "2026-10-29T20:08:43"
+ },
+ "v33TUmHFdXc": {
+  "status": "ok",
+  "palavras": 2456,
+  "seg": 529,
+  "ritmo": 0.55,
+  "em": "2026-10-29T20:18:25"
+ },
+ "W9LhcISFKSw": {
+  "status": "ok",
+  "palavras": 265,
+  "seg": 55,
+  "ritmo": 0.48,
+  "em": "2026-10-29T20:19:28"
+ },
+ "CkT_5AuaZTA": {
+  "status": "ok",
+  "palavras": 2226,
+  "seg": 426,
+  "ritmo": 0.51,
+  "em": "2026-10-29T20:26:42"
+ },
+ "cBVUy1fDPMQ": {
+  "status": "erro",
+  "erro": "from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n",
+  "em": "2026-10-29T20:26:54"
+ },
+ "3WN1Lq6uBB8": {
+  "status": "ok",
+  "palavras": 3595,
+  "seg": 735,
+  "ritmo": 0.52,
+  "em": "2026-10-29T20:39:16"
+ },
+ "eroRqCr5GWw": {
+  "status": "ok",
+  "palavras": 1644,
+  "seg": 319,
+  "ritmo": 0.51,
+  "em": "2026-10-29T20:45:28"
+ },
+ "aGsPJ9-qBCI": {
+  "status": "ok",
+  "palavras": 1183,
+  "seg": 233,
+  "ritmo": 0.5,
+  "em": "2026-10-29T20:49:30"
+ },
+ "_xxxcOOS-d8": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 1,
+  "ritmo": 0.03,
+  "em": "2026-10-29T20:49:38"
+ },
+ "vsBZJqcpjhY": {
+  "status": "erro",
+  "erro": "ERROR: [youtube] vsBZJqcpjhY: Video unavailable. It was blocked due to the claimed content by Organizações Globo.\n",
+  "em": "2026-10-29T20:49:49"
+ },
+ "R7fqKqrprm0": {
+  "status": "ok",
+  "palavras": 1237,
+  "seg": 264,
+  "ritmo": 0.55,
+  "em": "2026-10-29T20:54:21"
+ },
+ "dt3RPMkRjlo": {
+  "status": "ok",
+  "palavras": 4593,
+  "seg": 1041,
+  "ritmo": 0.47,
+  "em": "2026-10-29T21:12:35"
+ },
+ "xRjmbEhr9QQ": {
+  "status": "ok",
+  "palavras": 2442,
+  "seg": 504,
+  "ritmo": 0.07,
+  "em": "2026-10-29T21:21:07"
+ },
+ "ND4nqOModtk": {
+  "status": "ok",
+  "palavras": 636,
+  "seg": 113,
+  "ritmo": 0.42,
+  "em": "2026-10-29T21:23:08"
+ },
+ "vg2kijqQa3A": {
+  "status": "ok",
+  "palavras": 126,
+  "seg": 21,
+  "ritmo": 0.1,
+  "em": "2026-10-29T21:23:38"
+ },
+ "bmsafTjjrCU": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:23:46"
+ },
+ "a4FIipEnmcQ": {
+  "status": "ok",
+  "palavras": 57,
+  "seg": 12,
+  "ritmo": 0.52,
+  "em": "2026-10-29T21:24:51"
+ },
+ "IJ3H1Y0PBS0": {
+  "status": "ok",
+  "palavras": 57,
+  "seg": 12,
+  "ritmo": 0.6,
+  "em": "2026-10-29T21:25:11"
+ },
+ "iE3wK9YQN6Y": {
+  "status": "ok",
+  "palavras": 57,
+  "seg": 12,
+  "ritmo": 0.39,
+  "em": "2026-10-29T21:25:31"
+ },
+ "FWGu740-24k": {
+  "status": "ok",
+  "palavras": 39,
+  "seg": 9,
+  "ritmo": 0.25,
+  "em": "2026-10-29T21:25:48"
+ },
+ "Dv7PpqWq4lI": {
+  "status": "ok",
+  "palavras": 112,
+  "seg": 23,
+  "ritmo": 0.56,
+  "em": "2026-10-29T21:26:20"
+ },
+ "1fOlh4wnnhs": {
+  "status": "ok",
+  "palavras": 5,
+  "seg": 4,
+  "ritmo": 0.16,
+  "em": "2026-10-29T21:27:17"
+ },
+ "Y-Bn6Ui6N4M": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:27:25"
+ },
+ "ZAw2ym0395A": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:27:34"
+ },
+ "n6mvUne9YcA": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:27:42"
+ },
+ "gmipA84tsHE": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:27:50"
+ },
+ "gjUMR17ql_0": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:28:43"
+ },
+ "UvVDQ-bw3MI": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:28:51"
+ },
+ "huu0XjOsqKU": {
+  "status": "ok",
+  "palavras": 5,
+  "seg": 5,
+  "ritmo": 0.2,
+  "em": "2026-10-29T21:29:04"
+ },
+ "NqMNxRT7JUE": {
+  "status": "ok",
+  "palavras": 3,
+  "seg": 4,
+  "ritmo": 0.2,
+  "em": "2026-10-29T21:29:16"
+ },
+ "2Pki-0tg9u0": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:29:24"
+ },
+ "MXcmbKCYn94": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:30:18"
+ },
+ "qkR-MU6sfOo": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:30:26"
+ },
+ "GE8-hPwTK_4": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:30:34"
+ },
+ "gwotbzYhSdc": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:30:42"
+ },
+ "YfJlCbWgghI": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:30:50"
+ },
+ "f3p_J7hIL3I": {
+  "status": "ok",
+  "palavras": 62,
+  "seg": 13,
+  "ritmo": 0.87,
+  "em": "2026-10-29T21:31:56"
+ },
+ "uRuEMC8Qfdk": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:32:04"
+ },
+ "E4HjxocEPSU": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:32:12"
+ },
+ "I6HbjOFxs-o": {
+  "status": "ok",
+  "palavras": 57,
+  "seg": 12,
+  "ritmo": 0.35,
+  "em": "2026-10-29T21:32:32"
+ },
+ "LOTEs-EyRPM": {
+  "status": "ok",
+  "palavras": 777,
+  "seg": 147,
+  "ritmo": 0.44,
+  "em": "2026-10-29T21:35:07"
+ },
+ "mSwYes2NOfM": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T21:36:01"
+ },
+ "9Fi87YPZlb8": {
+  "status": "ok",
+  "palavras": 147,
+  "seg": 24,
+  "ritmo": 0.34,
+  "em": "2026-10-29T21:36:33"
+ },
+ "XI-PvMvaMmM": {
+  "status": "ok",
+  "palavras": 10851,
+  "seg": 2184,
+  "ritmo": 0.55,
+  "em": "2026-10-29T22:13:05"
+ },
+ "mCw3QAdQjaI": {
+  "status": "ok",
+  "palavras": 99,
+  "seg": 19,
+  "ritmo": 0.32,
+  "em": "2026-10-29T22:13:32"
+ },
+ "vdZm1Rbm7hI": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:13:40"
+ },
+ "91GpdvP2-DE": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:14:33"
+ },
+ "eurRq-FCQJQ": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:14:42"
+ },
+ "N09DvR7xuLw": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:14:50"
+ },
+ "mWUBZdnoHfc": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:14:58"
+ },
+ "hnfMS1TktIk": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:15:07"
+ },
+ "mFgtgW_OAos": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.19,
+  "em": "2026-10-29T22:16:15"
+ },
+ "q-h1IZf34TM": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.25,
+  "em": "2026-10-29T22:16:38"
+ },
+ "V5h_AJxwUS8": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.39,
+  "em": "2026-10-29T22:17:01"
+ },
+ "4o0E4lL8Ntw": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.39,
+  "em": "2026-10-29T22:17:24"
+ },
+ "8C8itcrqQPA": {
+  "status": "ok",
+  "palavras": 191,
+  "seg": 39,
+  "ritmo": 0.4,
+  "em": "2026-10-29T22:18:11"
+ },
+ "RhvodM5TieQ": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.38,
+  "em": "2026-10-29T22:19:19"
+ },
+ "k3HU6cwmRmY": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.33,
+  "em": "2026-10-29T22:19:42"
+ },
+ "8TYwvTDD-jI": {
+  "status": "ok",
+  "palavras": 112,
+  "seg": 23,
+  "ritmo": 1.92,
+  "em": "2026-10-29T22:20:13"
+ },
+ "IV_4RYkAgII": {
+  "status": "ok",
+  "palavras": 3033,
+  "seg": 654,
+  "ritmo": 0.5,
+  "em": "2026-10-29T22:31:14"
+ },
+ "g4wfWQsRl2c": {
+  "status": "ok",
+  "palavras": 112,
+  "seg": 21,
+  "ritmo": 1.4,
+  "em": "2026-10-29T22:31:44"
+ },
+ "xF4Hc1KkBDM": {
+  "status": "ok",
+  "palavras": 72,
+  "seg": 15,
+  "ritmo": 0.33,
+  "em": "2026-10-29T22:32:52"
+ },
+ "_t0JIe5KM8Q": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:33:00"
+ },
+ "C36CEXpNRHM": {
+  "status": "ok",
+  "palavras": 1741,
+  "seg": 384,
+  "ritmo": 0.47,
+  "em": "2026-10-29T22:39:32"
+ },
+ "5q1FhFgjBhY": {
+  "status": "ok",
+  "palavras": 3921,
+  "seg": 792,
+  "ritmo": 0.48,
+  "em": "2026-10-29T22:52:52"
+ },
+ "rqyoDMLPibg": {
+  "status": "ok",
+  "palavras": 0,
+  "seg": 0,
+  "ritmo": 0.0,
+  "em": "2026-10-29T22:53:00"
  }
 }

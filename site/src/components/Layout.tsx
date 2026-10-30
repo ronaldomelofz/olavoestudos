@@ -1,5 +1,6 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useEffect, useState } from 'react'
+import { useAuth } from '../lib/auth'
 
 const LINKS = [
   { to: '/', label: 'Início', end: true },
@@ -8,6 +9,8 @@ const LINKS = [
   { to: '/playlists', label: 'Playlists' },
   { to: '/textos', label: 'Textos' },
   { to: '/seminario', label: 'Seminário' },
+  { to: '/biblioteca', label: 'Biblioteca' },
+  { to: '/busca', label: 'Busca' },
   { to: '/conceitos', label: 'Conceitos' },
   { to: '/plano', label: 'Plano' },
   { to: '/caderno', label: 'Caderno' },
@@ -17,6 +20,7 @@ const LINKS = [
 
 export function Layout() {
   const location = useLocation()
+  const { sair } = useAuth()
   const [menuOpen, setMenuOpen] = useState(false)
 
   useEffect(() => {
@@ -60,6 +64,9 @@ export function Layout() {
               {l.label}
             </NavLink>
           ))}
+          <button type="button" className="nav-sair" onClick={sair}>
+            Sair
+          </button>
         </nav>
       </header>
 

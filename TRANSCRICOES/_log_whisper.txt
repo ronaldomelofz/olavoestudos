@@ -83,3 +83,185 @@
 [12:47:22] [1/7] áudio V_S95CfEzmc.mp4 (301572 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula 01 Co
 [14:00:29]   OK 20903 palavras em 4387s (ritmo 0.45× a duração)
 [14:00:37] [2/7] áudio 0nu4zO48wWs.mp4 (178125 KB) · 12 Camadas da Personalidade [ÁUDIO REMASTERIZADO] Aula Final
+[14:54:20]   OK 14181 palavras em 3223s (ritmo 0.55× a duração)
+[14:54:28] [3/7] áudio XC5UX2E8H6c.mp4 (96991 KB) · O Que é Ideologia [ÁUDIO REMASTERIZADO] Aula Completa - Olav
+[15:25:13]   OK 9363 palavras em 1845s (ritmo 0.46× a duração)
+[15:25:21] [4/7] áudio XNrKmaIIxaQ.mp4 (161078 KB) · Platão É Incompreendido Até Hoje [ÁUDIO REMASTERIZADO] Aula 
+[16:11:38]   OK 13507 palavras em 2777s (ritmo 0.45× a duração)
+[16:11:46] [5/7] áudio IzBoTtEiHn0.mp4 (95736 KB) · A História Do Esoterismo e Das Religiões [ÁUDIO REMASTERIZAD
+[16:41:36]   OK 8686 palavras em 1790s (ritmo 0.47× a duração)
+[16:41:44] — pausa de lote 45s —
+[16:42:29] [6/7] áudio G694yNnpeVg.mp4 (242783 KB) · Olavo de Carvalho — Domínio da língua e da literatura
+[17:58:40]   OK 21795 palavras em 4571s (ritmo 0.45× a duração)
+[17:58:48] [7/7] áudio Tog9FgT_85E.mp4 (199210 KB) · Olavo de Carvalho — A maturidade do homem de estudos
+[18:39:11]   OK 11661 palavras em 2423s (ritmo 0.44× a duração)
+[18:39:11] Fim da rodada.
+[18:39:12] ============================================================
+[18:39:12] RETRANSCRIÇÃO FINA | modelo=small | pendentes=75
+[18:39:40] Carregando Whisper small (CPU int8, threads=2)…
+[18:39:46] Modelo pronto.
+[18:39:46] [1/75] áudio Mn9iS9jSs9E.mp4 (168697 KB) · O Triunfo do Marxismo Cultural   Olavo de Carvalho, Cliff Ki
+[19:14:56]   OK 10034 palavras em 2110s (ritmo 0.54× a duração)
+[19:15:04] [2/75] áudio 4qMSWlTDUKc.mp4 (59501 KB) · Stefan Molyneux entrevista Olavo de Carvalho
+[19:41:46]   OK 5781 palavras em 1602s (ritmo 0.59× a duração)
+[19:41:58]   FALHA Oc7Nzi1bfCQ: ERROR: [youtube] Oc7Nzi1bfCQ: Video unavailable. This content is not available on this country domain due to a defamation complaint.
+
+[19:42:06] [4/75] áudio PksauAdgbwI.mp4 (4476 KB) · Olavo de Carvalho - Aviso aos ingressantes do Seminário de F
+[19:43:13]   OK 355 palavras em 68s (ritmo 0.48× a duração)
+[19:43:21] [5/75] áudio qySuenfRkDk.mp4 (37869 KB) · Aviso ao Escola Sem Partido
+[19:49:57]   OK 1861 palavras em 396s (ritmo 0.53× a duração)
+[19:50:05] — pausa de lote 45s —
+[19:50:50] [6/75] áudio 4-tdiX2S8g8.mp4 (15489 KB) · Olavo de Carvalho - A farsa da America's Quarterly
+[19:54:14]   OK 1008 palavras em 205s (ritmo 0.52× a duração)
+[19:54:23] [7/75] áudio _MXI0EO5-3k.mp4 (5892 KB) · Mourão se desdiz e nem percebe
+[19:55:56]   OK 465 palavras em 94s (ritmo 0.48× a duração)
+[19:56:04] [8/75] áudio ZQd7KyRHa9o.mp4 (4273 KB) · Mais merda na Fôia
+[19:56:46]   OK 199 palavras em 42s (ritmo 0.51× a duração)
+[19:56:54] [9/75] áudio 1xrYpXPObdo.mp4 (32947 KB) · Caranguejos no balde - 1
+[20:04:36]   OK 2462 palavras em 463s (ritmo 0.62× a duração)
+[20:04:45] [10/75] áudio dssZLzi70Ro.mp4 (16561 KB) · Caranguejos no balde - 2
+[20:08:43]   OK 1181 palavras em 238s (ritmo 0.52× a duração)
+[20:08:51] — pausa de lote 45s —
+[20:09:36] [11/75] áudio v33TUmHFdXc.mp4 (38049 KB) · Caranguejos no balde - 3 (fim)
+[20:18:25]   OK 2456 palavras em 529s (ritmo 0.55× a duração)
+[20:18:33] [12/75] áudio W9LhcISFKSw.mp4 (5855 KB) · Esclarecimentinho
+[20:19:28]   OK 265 palavras em 55s (ritmo 0.48× a duração)
+[20:19:36] [13/75] áudio CkT_5AuaZTA.mp4 (37214 KB) · TE ENSEÑO A LEER ESTO EN 14 MINUTOS (AUNQUE NO SEAS MÚSICO)
+[20:26:42]   OK 2226 palavras em 426s (ritmo 0.51× a duração)
+[20:26:54]   FALHA cBVUy1fDPMQ: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+[20:27:02] [15/75] áudio 3WN1Lq6uBB8.mp4 (57447 KB) · Por que a direita só se funhanha
+[20:39:16]   OK 3595 palavras em 735s (ritmo 0.52× a duração)
+[20:39:24] — pausa de lote 45s —
+[20:40:09] [16/75] áudio eroRqCr5GWw.mp4 (32317 KB) · A verdadeira direita burra
+[20:45:28]   OK 1644 palavras em 319s (ritmo 0.51× a duração)
+[20:45:37] [17/75] áudio aGsPJ9-qBCI.mp4 (35428 KB) · Teorema de Picágoras
+[20:49:30]   OK 1183 palavras em 233s (ritmo 0.5× a duração)
+[20:49:38] [18/75] áudio _xxxcOOS-d8.mp4 (1574 KB) · Último dia de promoção na Livraria do Seminário!
+[20:49:38]   OK 0 palavras em 1s (ritmo 0.03× a duração)
+[20:49:49]   FALHA vsBZJqcpjhY: ERROR: [youtube] vsBZJqcpjhY: Video unavailable. It was blocked due to the claimed content by Organizações Globo.
+
+[20:49:57] [20/75] áudio R7fqKqrprm0.mp4 (17424 KB) · Entrevista ao Grobo 14 fev 20
+[20:54:21]   OK 1237 palavras em 264s (ritmo 0.55× a duração)
+[20:54:29] — pausa de lote 45s —
+[20:55:14] [21/75] áudio dt3RPMkRjlo.mp4 (85658 KB) · Un filósofo llamado Olavo de Carvalho
+[21:12:35]   OK 4593 palavras em 1041s (ritmo 0.47× a duração)
+[21:12:43] [22/75] áudio xRjmbEhr9QQ.mp4 (184018 KB) · O que você SABE mas não consegue DESCREVER | Olavo de Carval
+[21:21:07]   OK 2442 palavras em 504s (ritmo 0.07× a duração)
+[21:21:15] [23/75] áudio ND4nqOModtk.mp4 (9728 KB) · O Brasil vive uma ALUCINAÇÃO COLETIVA | Olavo de Carvalho
+[21:23:08]   OK 636 palavras em 113s (ritmo 0.42× a duração)
+[21:23:16] [24/75] áudio vg2kijqQa3A.mp4 (10695 KB) · Nosso destino é a eternidade | Olavo de Carvalho (1947-2022)
+[21:23:38]   OK 126 palavras em 21s (ritmo 0.1× a duração)
+[21:23:46] [25/75] áudio bmsafTjjrCU.mp4 (1005 KB) · Black November na Livraria do Seminário!
+[21:23:46]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:23:54] — pausa de lote 45s —
+[21:24:39] [26/75] áudio a4FIipEnmcQ.mp4 (1127 KB) · Último dia da BLACK NOVEMBER!
+[21:24:51]   OK 57 palavras em 12s (ritmo 0.52× a duração)
+[21:24:59] [27/75] áudio IJ3H1Y0PBS0.mp4 (767 KB) · Venha aproveitar a BLACK FRIDAY na Livraria do Seminário!
+[21:25:11]   OK 57 palavras em 12s (ritmo 0.6× a duração)
+[21:25:19] [28/75] áudio iE3wK9YQN6Y.mp4 (1409 KB) · Novidade imperdível na Livraria: Uma indicação do Professor 
+[21:25:31]   OK 57 palavras em 12s (ritmo 0.39× a duração)
+[21:25:39] [29/75] áudio FWGu740-24k.mp4 (1613 KB) · Grandes obras de literatura e indicações para a vida intelec
+[21:25:48]   OK 39 palavras em 9s (ritmo 0.25× a duração)
+[21:25:57] [30/75] áudio Dv7PpqWq4lI.mp4 (1909 KB) · Lançamento + Promoção Explorando a Filosofia!
+[21:26:20]   OK 112 palavras em 23s (ritmo 0.56× a duração)
+[21:26:28] — pausa de lote 45s —
+[21:27:13] [31/75] áudio 1fOlh4wnnhs.mp4 (1358 KB) · Novo livro do professor Olavo + Black Antecipada!
+[21:27:17]   OK 5 palavras em 4s (ritmo 0.16× a duração)
+[21:27:25] [32/75] áudio Y-Bn6Ui6N4M.mp4 (1609 KB) · Black November na livraria do Seminário!
+[21:27:25]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:27:33] [33/75] áudio ZAw2ym0395A.mp4 (878 KB) · Oferta Especial O Comunismo na América Latina!
+[21:27:34]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:27:42] [34/75] áudio n6mvUne9YcA.mp4 (1431 KB) · Oferta Especial "Independência do Brasil"!
+[21:27:42]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:27:50] [35/75] áudio gmipA84tsHE.mp4 (751 KB) · Chegamos ao último dia da Promoção especial "Contra o Foro d
+[21:27:50]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:27:58] — pausa de lote 45s —
+[21:28:43] [36/75] áudio gjUMR17ql_0.mp4 (1200 KB) · Promoção especial "Contra o Foro de São Paulo"
+[21:28:43]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:28:51] [37/75] áudio UvVDQ-bw3MI.mp4 (1147 KB) · Oferta especial “Os Inimigos do Ocidente'' na livraria do Se
+[21:28:51]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:28:59] [38/75] áudio huu0XjOsqKU.mp4 (987 KB) · Último dia de promoção na livraria do Seminário!
+[21:29:04]   OK 5 palavras em 5s (ritmo 0.2× a duração)
+[21:29:12] [39/75] áudio NqMNxRT7JUE.mp4 (699 KB) · Promoção Especial na Livraria do Seminário!
+[21:29:16]   OK 3 palavras em 4s (ritmo 0.2× a duração)
+[21:29:24] [40/75] áudio 2Pki-0tg9u0.mp4 (843 KB) · Lançamento: O que restou de 22: uma semana na contramão da h
+[21:29:24]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:29:32] — pausa de lote 45s —
+[21:30:17] [41/75] áudio MXcmbKCYn94.mp4 (1067 KB) · Últimas horas do Mês Black na Livraria do Seminário
+[21:30:18]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:30:26] [42/75] áudio qkR-MU6sfOo.mp4 (988 KB) · A Morte de Virgílio e outras grandes novidades.
+[21:30:26]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:30:34] [43/75] áudio GE8-hPwTK_4.mp4 (1459 KB) · O Mês Black continua na Livraria do Seminário!
+[21:30:34]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:30:42] [44/75] áudio gwotbzYhSdc.mp4 (766 KB) · Novo livro do professor Olavo!
+[21:30:42]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:30:50] [45/75] áudio YfJlCbWgghI.mp4 (1209 KB) · Oferta especial para a Semana Santa!
+[21:30:50]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:30:58] — pausa de lote 45s —
+[21:31:43] [46/75] áudio f3p_J7hIL3I.mp4 (373 KB) · Últimas 48 horas de promoção na livraria
+[21:31:56]   OK 62 palavras em 13s (ritmo 0.87× a duração)
+[21:32:04] [47/75] áudio uRuEMC8Qfdk.mp4 (1306 KB) · Nova publicação do professor + promoção na livraria.
+[21:32:04]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:32:12] [48/75] áudio E4HjxocEPSU.mp4 (693 KB) · A verdade sobre a pandemia - E outras obras essenciais.
+[21:32:12]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:32:20] [49/75] áudio I6HbjOFxs-o.mp4 (1711 KB) · Semana Olavo de Carvalho no Mercado Livre!
+[21:32:32]   OK 57 palavras em 12s (ritmo 0.35× a duração)
+[21:32:40] [50/75] áudio LOTEs-EyRPM.mp4 (9668 KB) · Detalhe faltante
+[21:35:07]   OK 777 palavras em 147s (ritmo 0.44× a duração)
+[21:35:15] — pausa de lote 45s —
+[21:36:00] [51/75] áudio mSwYes2NOfM.mp4 (1081 KB) · Obra inédita: "Inteligência e verdade: ensaios de filosofia"
+[21:36:01]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[21:36:09] [52/75] áudio 9Fi87YPZlb8.mp4 (2160 KB) · A história da literatura ocidental
+[21:36:33]   OK 147 palavras em 24s (ritmo 0.34× a duração)
+[21:36:41] [53/75] áudio XI-PvMvaMmM.mp4 (201955 KB) · Olavo de Carvalho fala à JP
+[22:13:05]   OK 10851 palavras em 2184s (ritmo 0.55× a duração)
+[22:13:13] [54/75] áudio mCw3QAdQjaI.mp4 (5823 KB) · Recadinho da Roxane
+[22:13:32]   OK 99 palavras em 19s (ritmo 0.32× a duração)
+[22:13:40] [55/75] áudio vdZm1Rbm7hI.mp4 (469 KB) · Oferta do dia na Livraria do Seminário!
+[22:13:40]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:13:48] — pausa de lote 45s —
+[22:14:33] [56/75] áudio 91GpdvP2-DE.mp4 (583 KB) · Novo Livro de Olavo de Carvalho
+[22:14:33]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:14:41] [57/75] áudio eurRq-FCQJQ.mp4 (1579 KB) · Começa hoje a Mega Promoção Livraria do Seminário!
+[22:14:42]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:14:50] [58/75] áudio N09DvR7xuLw.mp4 (2145 KB) · Último dia!
+[22:14:50]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:14:58] [59/75] áudio mWUBZdnoHfc.mp4 (1080 KB) · A LIVRARIA DO SEMINÁRIO ESTÁ EM PROMOÇÃO!
+[22:14:58]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:15:06] [60/75] áudio hnfMS1TktIk.mp4 (963 KB) · PROMOÇÃO DE MARÇO NA LIVRARIA DO SEMINÁRIO!
+[22:15:07]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:15:15] — pausa de lote 45s —
+[22:16:00] [61/75] áudio mFgtgW_OAos.mp4 (2631 KB) · PROMOÇÃO NOVIDADES NA LIVRARIA DO SEMINÁRIO!
+[22:16:15]   OK 72 palavras em 15s (ritmo 0.19× a duração)
+[22:16:23] [62/75] áudio q-h1IZf34TM.mp4 (2098 KB) · A nossa Black Friday!
+[22:16:38]   OK 72 palavras em 15s (ritmo 0.25× a duração)
+[22:16:46] [63/75] áudio V5h_AJxwUS8.mp4 (1477 KB) · O Jardim das Aflições - Edição especial em capa dura
+[22:17:01]   OK 72 palavras em 15s (ritmo 0.39× a duração)
+[22:17:09] [64/75] áudio 4o0E4lL8Ntw.mp4 (1422 KB) · A Cólera dos Imbecis
+[22:17:24]   OK 72 palavras em 15s (ritmo 0.39× a duração)
+[22:17:32] [65/75] áudio 8C8itcrqQPA.mp4 (2185 KB) · A inveja dos anjos
+[22:18:11]   OK 191 palavras em 39s (ritmo 0.4× a duração)
+[22:18:19] — pausa de lote 45s —
+[22:19:04] [66/75] áudio RhvodM5TieQ.mp4 (1149 KB) · Recomendação de leitura: 5 livros sobre o comunismo
+[22:19:19]   OK 72 palavras em 15s (ritmo 0.38× a duração)
+[22:19:27] [67/75] áudio k3HU6cwmRmY.mp4 (1580 KB) · PROMOÇÃO LIVRARIA DO SEMINÁRIO DE FILOSOFIA
+[22:19:42]   OK 72 palavras em 15s (ritmo 0.33× a duração)
+[22:19:50] [68/75] áudio 8TYwvTDD-jI.mp4 (909 KB) · CONSELHOS SOBRE O TRABALHO INTELECTUAL - Louis Riboulet
+[22:20:13]   OK 112 palavras em 23s (ritmo 1.92× a duração)
+[22:20:21] [69/75] áudio IV_4RYkAgII.mp4 (44238 KB) · O dia que Olavo de Carvalho colocou Miriam Leitão no seu de
+[22:31:14]   OK 3033 palavras em 654s (ritmo 0.5× a duração)
+[22:31:22] [70/75] áudio g4wfWQsRl2c.mp4 (364 KB) · A CRISE DO MUNDO MODERNO
+[22:31:44]   OK 112 palavras em 21s (ritmo 1.4× a duração)
+[22:31:52] — pausa de lote 45s —
+[22:32:37] [71/75] áudio xF4Hc1KkBDM.mp4 (1365 KB) · Recomendação de leitura: 6 LIVROS SOBRE A NOVA ORDEM MUNDIAL
+[22:32:52]   OK 72 palavras em 15s (ritmo 0.33× a duração)
+[22:33:00] [72/75] áudio _t0JIe5KM8Q.mp4 (1431 KB) · 5 LIVROS SOBRE ESTUDO E VIDA INTELECTUAL
+[22:33:00]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:33:08] [73/75] áudio C36CEXpNRHM.mp4 (57534 KB) · O Olavo Tem Razão - 2: Quibe cru
+[22:39:32]   OK 1741 palavras em 384s (ritmo 0.47× a duração)
+[22:39:40] [74/75] áudio 5q1FhFgjBhY.mp4 (102910 KB) · O Olavo Tem Razão - 1: Quem Sou Eu
+[22:52:52]   OK 3921 palavras em 792s (ritmo 0.48× a duração)
+[22:53:00] [75/75] áudio rqyoDMLPibg.mp4 (192 KB) · vin
+[22:53:00]   OK 0 palavras em 0s (ritmo 0.0× a duração)
+[22:53:00] Fim da rodada.

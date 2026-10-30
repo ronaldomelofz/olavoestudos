@@ -24,3 +24,12 @@ TRANSCRICOES/_work/
 site/public/data/transcricoes/
 
 TRANSCRICOES/_andamento_cache.json
+
+# Biblioteca pessoal: livros, COF transcrito e Planeta ficam só na máquina
+LIVROS/
+ACERVO/BIBLIOTECA/
+ACERVO/COF-ESCRIBAS/
+.env
+site/.env
+site/.netlify/
+.netlify/

@@ -15,6 +15,11 @@ import { Plano } from './pages/Plano'
 import { CadernoPage } from './pages/CadernoPage'
 import { Sobre } from './pages/Sobre'
 import { Andamento } from './pages/Andamento'
+import { Biblioteca } from './pages/Biblioteca'
+import { CofAulaPage } from './pages/CofAulaPage'
+import { LivroPage } from './pages/LivroPage'
+import { PlanetaPage } from './pages/PlanetaPage'
+import { Busca } from './pages/Busca'
 
 export default function App() {
   return (
@@ -31,6 +36,11 @@ export default function App() {
         <Route path="textos/:slug" element={<TextoPage pasta="textos" />} />
         <Route path="guias/:slug" element={<TextoPage pasta="guias" />} />
         <Route path="seminario" element={<SeminarioPage />} />
+        <Route path="biblioteca" element={<Biblioteca />} />
+        <Route path="biblioteca/cof/:id" element={<CofAulaPage />} />
+        <Route path="biblioteca/livros/:slug" element={<LivroPage />} />
+        <Route path="biblioteca/planeta/:slug" element={<PlanetaPage />} />
+        <Route path="busca" element={<Busca />} />
         <Route path="conceitos" element={<Conceitos />} />
         <Route path="plano" element={<Plano />} />
         <Route path="caderno" element={<CadernoPage />} />

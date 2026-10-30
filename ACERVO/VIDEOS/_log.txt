@@ -1326,3 +1326,17 @@ ERROR:
 [14:12:59] [1/11] OK vf5IxZ3Frto 100.7 MB em 24s
 [14:13:22] [2/11] INDISPONIVEL Z1mViCAh4Nc: ies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 [14:13:45] [3/11] ERRO gICSWXGs0d4: ERROR: [youtube] gICSWXGs0d4: This video is unavailable
+[14:14:23] [4/11] OK kfu6OtIWhDw 43.9 MB em 18s
+[14:15:30] [5/11] OK OpKvK75lG0w 255.9 MB em 48s
+[14:15:53] [6/11] INDISPONIVEL yE4-YQkFXd8: E4-YQkFXd8: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+[14:18:54] [7/11] OK YoApKNuOQ1A 757.0 MB em 161s
+[14:19:36] [8/11] OK dUtpd4NuivM 12.2 MB em 22s
+[14:19:59] [9/11] ERRO P-a5JwY_DGU: ERROR: [youtube] P-a5JwY_DGU: This video is unavailable
+[14:20:26] [10/11] OK pjMOTYmhuVc 10.2 MB em 6s
+[14:20:46] — lote 10/11 · pausa 90s —
+[14:22:18] [11/11] ERRO HFeEsz93iiw: ERROR: [youtube] HFeEsz93iiw: This video is unavailable
+[14:22:18] Fim da rodada · 1090 vídeos no acervo · 51.6 GB
+[14:22:19] ============================================================
+[14:22:19] VÍDEOS | fila=1 pendentes=1 pausa=20.0s
+[14:23:32] [1/1] OK -ARru63yog0 179.5 MB em 74s
+[14:23:32] Fim da rodada · 1091 vídeos no acervo · 51.8 GB

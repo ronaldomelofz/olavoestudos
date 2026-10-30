@@ -1,0 +1,33 @@
+[08:22:01] COF: 589 aulas (257 revisadas) · 21 ligadas a vídeos do acervo
+[08:22:03] Planeta: 18 artigos · 18 com PDF
+[08:22:03] Livro: a_escolastica.pdf · 51 páginas
+[08:22:03] Livro: a_felicidade_geral_da_nacao.pdf · 292 páginas
+[08:22:04] Livro: a_filosofia_e_seu_inverso.pdf · 43 páginas
+[08:22:04] Livro: a_inversao_revolucionaria_em_acao.pdf · 187 páginas
+[08:22:05] Livro: a_longa_marcha_da_vaca_para_o_brejo.pdf · 267 páginas
+[08:22:05] Livro: a_morte_do_pato.pdf · 307 páginas
+[08:22:05] Livro: a_nova_era_e_a_revolucao_cultural.pdf · 58 páginas
+[08:22:05] Livro: a_realidade.pdf · 35 páginas
+[08:22:06] Livro: aristoteles_em_nova_perspectiva.pdf · 104 páginas
+[08:22:06] Livro: as_12_camadas_da_personalidade.pdf · 19 páginas
+[08:22:07] Livro: dominador_invisivel.pdf · 2 páginas
+[08:22:08] Livro: eua-e-nova-ordem-mundial.pdf · 87 páginas
+[08:22:08] Livro: filosofia_crista.pdf · 30 páginas
+[08:22:08] Livro: i_nova_era_e_a_revolucao_cultural.pdf · 94 páginas
+[08:22:08] Livro: inteligencia_verdade_e_certeza.pdf · 32 páginas
+[08:22:09] Livro: maquiavel_ou_a_confusao_demoniaca.pdf · 76 páginas
+[08:22:09] Livro: marxismo.pdf · 657 páginas
+[08:22:09] Livro: o_abandono_dos_ideais.pdf · 14 páginas
+[08:22:10] Livro: o_camarada_enrolevich.pdf · 251 páginas
+[08:22:10] Livro: o_futuro_do_pensamento_brasileiro.pdf · 170 páginas
+[08:22:11] Livro: o_imbecil_coletivo.pdf · 578 páginas
+[08:22:12] Livro: o_imbecil_coletivo_atualidades_inculturais_brasileiras.pdf · 469 páginas
+[08:22:13] Livro: o_imbecil_coletivo_ii.pdf · 349 páginas
+[08:22:15] Livro: o_imbecil_juvenil.pdf · 410 páginas
+[08:22:16] Livro: o_irracional_superior.pdf · 376 páginas
+[08:22:18] Livro: o_leao_e_os_ossos.pdf · 380 páginas
+[08:22:18] Livro: rene_guenon.pdf · 6 páginas
+[08:22:19] Livro: santo_agostinho.pdf · 37 páginas
+[08:22:19] Livro: sobre_a_arte_de_estudar.pdf · 42 páginas
+[08:22:19] Livros: 41 PDFs da pasta LIVROS
+[08:22:19] Índice gravado em E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO\ACERVO\BIBLIOTECA\_indice.json

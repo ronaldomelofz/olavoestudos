@@ -1,9 +1,14 @@
 # Build a partir do GitHub. A pasta base é o site; o filtro tira do dist os vídeos
 # removidos do YouTube e o texto integral das aulas (estudo pessoal, só na pasta local).
+# Credenciais do portal privado: defina VITE_ESTUDO_USER e VITE_ESTUDO_PASS no painel
+# do Netlify (Site settings → Environment variables). Livros/COF/Planeta ficam só na máquina.
 [build]
   base = "site"
   command = "npm run build && python ../scripts/filtrar_publico.py"
   publish = "dist"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
 
 [[redirects]]
   from = "/*"

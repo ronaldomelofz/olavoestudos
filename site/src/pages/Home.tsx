@@ -25,7 +25,10 @@ export function Home() {
             Filosofia — organizados em trilhas, conceitos e um plano de doze semanas.
           </p>
           <div className="hero-actions">
-            <Link className="btn btn-primary" to="/trilhas/vida-intelectual">
+            <Link className="btn btn-primary" to="/biblioteca">
+              Abrir a biblioteca
+            </Link>
+            <Link className="btn btn-ghost" to="/trilhas/vida-intelectual">
               Começar pela vida intelectual
             </Link>
             <Link className="btn btn-ghost" to="/plano">
