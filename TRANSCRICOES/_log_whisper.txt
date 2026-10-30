@@ -478,3 +478,20 @@ O arquivo já está sendo usado por outro processo.
 [08:32:33] Carregando Whisper small (CPU int8, threads=2)…
 [08:32:43] Modelo pronto.
 [08:32:43] [1/1] áudio -ARru63yog0.mp4 (175299 KB) · BATE-PAPO LOBÃO E OLAVO DE CARVALHO em 18/08/2013
+[08:59:47]   OK 4589 palavras em 1673s (ritmo 0.64× a duração)
+[08:59:52] [2/7] áudio YoApKNuOQ1A.mp4 (739270 KB) · Entrevista de Olavo de Carvalho para Leandro Ruschel
+[10:03:56]   OK 15034 palavras em 5473s (ritmo 0.92× a duração)
+[10:03:56] Fim da rodada.
+[10:38:08]   OK 20876 palavras em 5895s (ritmo 0.75× a duração)
+[10:38:13] [3/7] áudio dUtpd4NuivM.mp4 (11905 KB) · Entrevista do Olavo de Carvalho no programa Frente a Frente 
+[10:43:44]   OK 1251 palavras em 331s (ritmo 0.76× a duração)
+[10:43:49] [4/7] áudio kfu6OtIWhDw.mp4 (42882 KB) · Entrevista com Olavo de Carvalho - Parte 1 -  (Setembro de 2
+[10:52:51]   OK 2404 palavras em 542s (ritmo 0.6× a duração)
+[10:52:56] [5/7] áudio pGh0ZLZrhV4.mp4 (88814 KB) · Un filósofo llamado Olavo de Carvalho - Entrevista de Miklos
+[11:14:34]   OK 5712 palavras em 1298s (ritmo 0.59× a duração)
+[11:14:39] — pausa de lote 45s —
+[11:15:24] [6/7] áudio pjMOTYmhuVc.mp4 (9985 KB) · O Antagonista entrevista Olavo de Carvalho – Teaser 1: O boi
+[11:17:24]   OK 568 palavras em 121s (ritmo 0.52× a duração)
+[11:17:29] [7/7] áudio vf5IxZ3Frto.mp4 (98382 KB) · Olavo de Carvalho e Boris Casoy - Entrevista (TV Record - 20
+[11:36:48]   OK 5537 palavras em 1159s (ritmo 0.57× a duração)
+[11:36:48] Fim da rodada.

@@ -83,13 +83,21 @@ export interface CursoLocal {
 interface Acervo {
   videos: Set<string>
   miniaturas: Set<string>
+  audios: Set<string>
   textos: Set<string>
   guias: Set<string>
   cursos: Record<string, CursoLocal>
 }
 
 /** Material salvo em ACERVO/ (só na versão local); vazio no site publicado. */
-export const ACERVO: Acervo = { videos: new Set(), miniaturas: new Set(), textos: new Set(), guias: new Set(), cursos: {} }
+export const ACERVO: Acervo = {
+  videos: new Set(),
+  miniaturas: new Set(),
+  audios: new Set(),
+  textos: new Set(),
+  guias: new Set(),
+  cursos: {},
+}
 
 export async function carregarAcervo(): Promise<void> {
   try {
@@ -98,6 +106,7 @@ export async function carregarAcervo(): Promise<void> {
     const d = await r.json()
     ACERVO.videos = new Set(d.videos)
     ACERVO.miniaturas = new Set(d.miniaturas)
+    ACERVO.audios = new Set(d.audios ?? [])
     ACERVO.textos = new Set(d.textos)
     ACERVO.guias = new Set(d.guias)
     ACERVO.cursos = d.cursos ?? {}
@@ -116,6 +125,7 @@ export const urlYoutube = (id: string) => `https://www.youtube.com/watch?v=${id}
 export const thumb = (id: string) =>
   ACERVO.miniaturas.has(id) ? `/acervo/VIDEOS/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`
 export const videoLocal = (id: string) => (ACERVO.videos.has(id) ? `/acervo/VIDEOS/${id}.mp4` : null)
+export const audioLocal = (id: string) => (ACERVO.audios.has(id) ? `/acervo/AUDIOS/${id}.m4a` : null)
 export const imagemLocal = (nome: string) => `/acervo/SEMINARIO/imagens/${nome}`
 
 export function normalizar(s: string): string {

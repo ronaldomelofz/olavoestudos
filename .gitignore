@@ -9,6 +9,9 @@ __pycache__/
 ACERVO/VIDEOS/*.mp4
 ACERVO/VIDEOS/*.m4a
 ACERVO/VIDEOS/*.webm
+ACERVO/AUDIOS/*.m4a
+ACERVO/AUDIOS/*.mp3
+_tmp_treg/
 ACERVO/VIDEOS/*.part
 ACERVO/VIDEOS/*.ytdl
 ACERVO/VIDEOS/*.jpg

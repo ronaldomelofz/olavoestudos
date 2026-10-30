@@ -50,6 +50,7 @@ const LIVROS = resolve(__dirname, '..', 'LIVROS')
 const TIPOS: Record<string, string> = {
   '.mp4': 'video/mp4',
   '.m4a': 'audio/mp4',
+  '.mp3': 'audio/mpeg',
   '.jpg': 'image/jpeg',
   '.jpeg': 'image/jpeg',
   '.png': 'image/png',
@@ -75,6 +76,7 @@ function indiceAoVivo(res: ServerResponse) {
   const sem = join(ACERVO, 'SEMINARIO')
   indice.videos = nomes(videos, '.mp4')
   indice.miniaturas = nomes(videos, '.jpg')
+  indice.audios = nomes(join(ACERVO, 'AUDIOS'), '.m4a')
   indice.textos = nomes(join(sem, 'textos'), '.json')
   indice.guias = nomes(join(sem, 'guias'), '.json')
   indice.biblioteca = existsSync(join(ACERVO, 'BIBLIOTECA', '_indice.json'))

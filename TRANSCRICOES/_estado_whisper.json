@@ -346,11 +346,9 @@
   "em": "2026-10-29T20:49:30"
  },
  "_xxxcOOS-d8": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 1,
-  "ritmo": 0.03,
-  "em": "2026-10-29T20:49:38"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "vsBZJqcpjhY": {
   "status": "erro",
@@ -393,11 +391,9 @@
   "em": "2026-10-29T21:23:38"
  },
  "bmsafTjjrCU": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:23:46"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "a4FIipEnmcQ": {
   "status": "ok",
@@ -442,46 +438,34 @@
   "em": "2026-10-29T21:27:17"
  },
  "Y-Bn6Ui6N4M": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:27:25"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "ZAw2ym0395A": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:27:34"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "n6mvUne9YcA": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:27:42"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "gmipA84tsHE": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:27:50"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "gjUMR17ql_0": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:28:43"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "UvVDQ-bw3MI": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:28:51"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "huu0XjOsqKU": {
   "status": "ok",
@@ -498,46 +482,34 @@
   "em": "2026-10-29T21:29:16"
  },
  "2Pki-0tg9u0": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:29:24"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "MXcmbKCYn94": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:30:18"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "qkR-MU6sfOo": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:30:26"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "GE8-hPwTK_4": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:30:34"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "gwotbzYhSdc": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:30:42"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "YfJlCbWgghI": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:30:50"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "f3p_J7hIL3I": {
   "status": "ok",
@@ -547,18 +519,14 @@
   "em": "2026-10-29T21:31:56"
  },
  "uRuEMC8Qfdk": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:32:04"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "E4HjxocEPSU": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:32:12"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "I6HbjOFxs-o": {
   "status": "ok",
@@ -575,11 +543,9 @@
   "em": "2026-10-29T21:35:07"
  },
  "mSwYes2NOfM": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T21:36:01"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "9Fi87YPZlb8": {
   "status": "ok",
@@ -603,46 +569,34 @@
   "em": "2026-10-29T22:13:32"
  },
  "vdZm1Rbm7hI": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:13:40"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "91GpdvP2-DE": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:14:33"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "eurRq-FCQJQ": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:14:42"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "N09DvR7xuLw": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:14:50"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "mWUBZdnoHfc": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:14:58"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "hnfMS1TktIk": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:15:07"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "mFgtgW_OAos": {
   "status": "ok",
@@ -722,11 +676,9 @@
   "em": "2026-10-29T22:32:52"
  },
  "_t0JIe5KM8Q": {
-  "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:33:00"
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
  },
  "C36CEXpNRHM": {
   "status": "ok",
@@ -743,10 +695,57 @@
   "em": "2026-10-29T22:52:52"
  },
  "rqyoDMLPibg": {
+  "status": "sem_fala",
+  "erro": "nenhuma fala detectável (vídeo curto/comercial)",
+  "em": "2026-10-30T14:03:05"
+ },
+ "OpKvK75lG0w": {
   "status": "ok",
-  "palavras": 0,
-  "seg": 0,
-  "ritmo": 0.0,
-  "em": "2026-10-29T22:53:00"
+  "palavras": 4589,
+  "seg": 1673,
+  "ritmo": 0.64,
+  "em": "2026-10-30T08:59:47"
+ },
+ "YoApKNuOQ1A": {
+  "status": "ok",
+  "palavras": 20876,
+  "seg": 5895,
+  "ritmo": 0.75,
+  "em": "2026-10-30T10:38:08"
+ },
+ "dUtpd4NuivM": {
+  "status": "ok",
+  "palavras": 1251,
+  "seg": 331,
+  "ritmo": 0.76,
+  "em": "2026-10-30T10:43:44"
+ },
+ "kfu6OtIWhDw": {
+  "status": "ok",
+  "palavras": 2404,
+  "seg": 542,
+  "ritmo": 0.6,
+  "em": "2026-10-30T10:52:51"
+ },
+ "pGh0ZLZrhV4": {
+  "status": "ok",
+  "palavras": 5712,
+  "seg": 1298,
+  "ritmo": 0.59,
+  "em": "2026-10-30T11:14:34"
+ },
+ "pjMOTYmhuVc": {
+  "status": "ok",
+  "palavras": 568,
+  "seg": 121,
+  "ritmo": 0.52,
+  "em": "2026-10-30T11:17:24"
+ },
+ "vf5IxZ3Frto": {
+  "status": "ok",
+  "palavras": 5537,
+  "seg": 1159,
+  "ritmo": 0.57,
+  "em": "2026-10-30T11:36:48"
  }
 }

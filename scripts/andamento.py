@@ -225,6 +225,16 @@ def medir() -> dict:
              "detalhe": "pasta LIVROS + texto por página para leitura e busca"},
             {"id": "planeta", "nome": "Artigos da revista Planeta", "feito": planeta_n, "total": max(planeta_n, 18),
              "detalhe": "PDFs e OCR do Internet Archive"},
+            {"id": "audios", "nome": "Áudios extraídos dos MP4", "feito": contar(AC / "AUDIOS", ".m4a"),
+             "total": max(mp4, 1), "detalhe": "faixa de áudio em ACERVO/AUDIOS (cópia local, sem rede)"},
+            {"id": "imagens", "nome": "Miniaturas e imagens do Seminário",
+             "feito": contar(AC / "VIDEOS", ".jpg") + contar(AC / "SEMINARIO" / "imagens", ".png")
+                      + contar(AC / "SEMINARIO" / "imagens", ".jpg") + contar(AC / "SEMINARIO" / "imagens", ".webp")
+                      + contar(AC / "SEMINARIO" / "imagens", ".jpeg"),
+             "total": max(mp4, 1) + max(contar(AC / "SEMINARIO" / "imagens", ".png")
+                      + contar(AC / "SEMINARIO" / "imagens", ".jpg") + contar(AC / "SEMINARIO" / "imagens", ".webp")
+                      + contar(AC / "SEMINARIO" / "imagens", ".jpeg"), 1),
+             "detalhe": "jpg dos vídeos + capas/imagens baixadas do Seminário"},
             {"id": "cursos", "nome": "Cursos, capas e guias", "feito": contar(AC / "SEMINARIO" / "cursos", ".json") + contar(AC / "SEMINARIO" / "guias", ".json"),
              "total": CURSOS_TOTAL + GUIAS_TOTAL, "detalhe": "30 fichas de curso e 8 guias (parte pública)"},
         ],

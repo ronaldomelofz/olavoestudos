@@ -15,3 +15,85 @@ E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>python -u scripts\retranscrever.py --
 [08:32:33] Carregando Whisper small (CPU int8, threads=2)…
 [08:32:43] Modelo pronto.
 [08:32:43] [1/1] áudio -ARru63yog0.mp4 (175299 KB) · BATE-PAPO LOBÃO E OLAVO DE CARVALHO em 18/08/2013
+[10:03:56]   OK 15034 palavras em 5473s (ritmo 0.92× a duração)
+[10:03:56] Fim da rodada.
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>python -u scripts\editar_estudo.py 
+OK -ARru63yog0 67 parágrafos · integridade 1.0 · BATE-PAPO LOBÃO E OLAVO DE CARVALHO em 18/08/2013
+RECUSADO 2Pki-0tg9u0 integridade=0.0
+RECUSADO 91GpdvP2-DE integridade=0.0
+RECUSADO _t0JIe5KM8Q integridade=0.0
+RECUSADO _xxxcOOS-d8 integridade=0.0
+RECUSADO bmsafTjjrCU integridade=0.0
+RECUSADO E4HjxocEPSU integridade=0.0
+RECUSADO eurRq-FCQJQ integridade=0.0
+RECUSADO GE8-hPwTK_4 integridade=0.0
+RECUSADO gjUMR17ql_0 integridade=0.0
+RECUSADO gmipA84tsHE integridade=0.0
+RECUSADO gwotbzYhSdc integridade=0.0
+RECUSADO hnfMS1TktIk integridade=0.0
+RECUSADO mSwYes2NOfM integridade=0.0
+RECUSADO mWUBZdnoHfc integridade=0.0
+RECUSADO MXcmbKCYn94 integridade=0.0
+RECUSADO N09DvR7xuLw integridade=0.0
+RECUSADO n6mvUne9YcA integridade=0.0
+OK OpKvK75lG0w 21 parágrafos · integridade 1.0 · Entrevista de Olavo de Carvalho à Revista Época
+RECUSADO qkR-MU6sfOo integridade=0.0
+RECUSADO rqyoDMLPibg integridade=0.0
+RECUSADO uRuEMC8Qfdk integridade=0.0
+RECUSADO UvVDQ-bw3MI integridade=0.0
+RECUSADO vdZm1Rbm7hI integridade=0.0
+RECUSADO Y-Bn6Ui6N4M integridade=0.0
+RECUSADO YfJlCbWgghI integridade=0.0
+RECUSADO ZAw2ym0395A integridade=0.0
+Fim: editados=2 pulados=1058 recusados=25 · índice com 1060 textos
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>python -u scripts\montar_dados.py 
+{
+ "videos": 1131,
+ "com_descricao": 829,
+ "lives": 4,
+ "ingles": 24,
+ "playlists": 19,
+ "textos": 2460,
+ "cursos": 30,
+ "guias": 8,
+ "por_trilha": {
+  "vida-intelectual": {
+   "videos": 210,
+   "textos": 138
+  },
+  "personalidade": {
+   "videos": 73,
+   "textos": 102
+  },
+  "conhecimento": {
+   "videos": 341,
+   "textos": 180
+  },
+  "espirito": {
+   "videos": 122,
+   "textos": 173
+  },
+  "politica": {
+   "videos": 419,
+   "textos": 735
+  },
+  "cultura": {
+   "videos": 94,
+   "textos": 160
+  },
+  "mestres": {
+   "videos": 119,
+   "textos": 102
+  }
+ },
+ "sem_trilha": 219,
+ "externos": 112,
+ "videos_locais": 1091,
+ "textos_locais": 2460,
+ "cursos_locais": 30,
+ "com_transcricao": 1060
+}
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>echo FIM 8 faltantes 1>>TRANSCRICOES\_log_faltantes.txt 
