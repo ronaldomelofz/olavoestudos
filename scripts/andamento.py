@@ -171,6 +171,31 @@ def medir() -> dict:
         fresco["agora"] = round(agora, 1)
         fresco["em"] = datetime.now().strftime("%H:%M:%S")
         return fresco
+    bruto = contar(TX / "BRUTO", ".json")
+    estudo = contar(TX / "ESTUDO", ".md")
+    # Meta dos vídeos: tudo o que já está em MP4 (inclui avulsos baixados depois do catálogo).
+    meta_videos = max(mp4, no_ar, 1)
+    # Whisper: só conta alvos que têm (ou tiveram) arquivo local; falhas sem MP4 saem da meta.
+    whis_ok = whis.get("ok", 0)
+    whis_erro = whis.get("erro", 0)
+    whis_sem_arquivo = 0
+    if (TX / "_estado_whisper.json").exists():
+        for vid, item in json.loads((TX / "_estado_whisper.json").read_text(encoding="utf-8")).items():
+            if item.get("status") == "erro" and not (AC / "VIDEOS" / f"{vid}.mp4").exists():
+                whis_sem_arquivo += 1
+    mp4_ids = {p.stem for p in (AC / "VIDEOS").glob("*.mp4")} if (AC / "VIDEOS").exists() else set()
+    bruto_ids = {p.stem for p in (TX / "BRUTO").glob("*.json")} if (TX / "BRUTO").exists() else set()
+    whis_pendentes = len(mp4_ids - bruto_ids)
+    whis_total = max(whis_ok + whis_pendentes + max(0, whis_erro - whis_sem_arquivo), WHISPER_TOTAL, 1)
+    bib = AC / "BIBLIOTECA"
+    cof_n = contar(bib / "cof", ".json")
+    livros_n = contar(bib / "livros", ".json")
+    planeta_n = len({p.stem.split(".")[0] for p in (bib / "planeta").glob("planeta-*.pdf")}) if (bib / "planeta").exists() else 0
+    if not planeta_n and (bib / "_indice.json").exists():
+        try:
+            planeta_n = len(json.loads((bib / "_indice.json").read_text(encoding="utf-8")).get("planeta") or [])
+        except (OSError, json.JSONDecodeError):
+            planeta_n = 0
     dado = {
         "agora": round(agora, 1),
         "em": datetime.now().strftime("%H:%M:%S"),
@@ -178,20 +203,28 @@ def medir() -> dict:
         "vivos": pulso(cache),
         "removidos": off,
         "etapas": [
-            {"id": "videos", "nome": "Vídeos em MP4 no acervo", "feito": mp4, "total": no_ar,
-             "detalhe": f"{gb} GB salvos · o restante não está mais disponível no YouTube"},
+            {"id": "videos", "nome": "Vídeos em MP4 no acervo", "feito": mp4, "total": meta_videos,
+             "detalhe": f"{gb} GB salvos · {off} só para estudo pessoal (sem arquivo no YouTube)"},
             {"id": "seminario", "nome": "Textos integrais do Seminário", "feito": contar(AC / "SEMINARIO" / "textos", ".json"),
              "total": len(textos), "detalhe": "artigos abertos em JSON e Markdown"},
             {"id": "legendas", "nome": "Legendas com marcação de tempo", "feito": extr.get("ok", 0),
-             "total": no_ar, "detalhe": f"sem acesso: {extr.get('sem_acesso', 0)} · erros a repetir: {extr.get('erro', 0)}"},
-            {"id": "estudo", "nome": "Edição para estudo", "feito": contar(TX / "ESTUDO", ".md"),
-             "total": max(contar(TX / "BRUTO", ".json"), contar(TX / "ESTUDO", ".md"), 1),
+             "total": meta_videos,
+             "detalhe": f"sem acesso: {extr.get('sem_acesso', 0)} · erros a repetir: {extr.get('erro', 0)} · "
+                        f"o restante sai do Whisper a partir do MP4"},
+            {"id": "estudo", "nome": "Edição para estudo", "feito": estudo,
+             "total": max(bruto, estudo, 1),
              "detalhe": "parágrafos com tempo, a partir das legendas e retranscrições já extraídas"},
-            {"id": "whisper", "nome": "Retranscrição fina das aulas completas", "feito": whis.get("ok", 0),
-             "total": WHISPER_TOTAL + extr.get("sem_legenda", 0) + extr.get("erro", 0),
-             "detalhe": f"33 aulas completas + {extr.get('sem_legenda', 0) + extr.get('erro', 0)} vídeos sem legenda "
-                        f"ou recusados pelo YouTube, a partir dos MP4 locais · "
-                        f"falhas: {whis.get('erro', 0)}"},
+            {"id": "whisper", "nome": "Retranscrição a partir dos MP4", "feito": whis_ok,
+             "total": whis_total,
+             "detalhe": f"pendentes com MP4: {whis_pendentes} · "
+                        f"falhas sem arquivo: {whis_sem_arquivo} · outras falhas: {max(0, whis_erro - whis_sem_arquivo)}"},
+            {"id": "cof", "nome": "COF transcrito (osescribas)", "feito": cof_n, "total": max(cof_n, 589),
+             "detalhe": "aulas em Markdown/HTML na biblioteca local"},
+            {"id": "livros", "nome": "Livros e escritos (PDFs)", "feito": livros_n,
+             "total": max(livros_n, contar(ROOT / "LIVROS", ".pdf")),
+             "detalhe": "pasta LIVROS + texto por página para leitura e busca"},
+            {"id": "planeta", "nome": "Artigos da revista Planeta", "feito": planeta_n, "total": max(planeta_n, 18),
+             "detalhe": "PDFs e OCR do Internet Archive"},
             {"id": "cursos", "nome": "Cursos, capas e guias", "feito": contar(AC / "SEMINARIO" / "cursos", ".json") + contar(AC / "SEMINARIO" / "guias", ".json"),
              "total": CURSOS_TOTAL + GUIAS_TOTAL, "detalhe": "30 fichas de curso e 8 guias (parte pública)"},
         ],

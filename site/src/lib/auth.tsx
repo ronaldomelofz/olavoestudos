@@ -1,44 +1,62 @@
-import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
-
-const CHAVE = 'olavo-estudo-sessao'
-const USER = import.meta.env.VITE_ESTUDO_USER ?? ''
-const PASS = import.meta.env.VITE_ESTUDO_PASS ?? ''
+import { createContext, useContext, useEffect, useMemo, useState, type FormEvent, type ReactNode } from 'react'
 
 interface AuthCtx {
   ok: boolean
-  entrar: (user: string, pass: string) => boolean
-  sair: () => void
+  carregando: boolean
+  entrar: (user: string, pass: string) => Promise<boolean>
+  sair: () => Promise<void>
 }
 
-const Ctx = createContext<AuthCtx>({ ok: false, entrar: () => false, sair: () => {} })
+const Ctx = createContext<AuthCtx>({
+  ok: false,
+  carregando: true,
+  entrar: async () => false,
+  sair: async () => {},
+})
+
+async function api(method: string, corpo?: unknown) {
+  const r = await fetch('/.netlify/functions/login', {
+    method,
+    credentials: 'same-origin',
+    headers: corpo ? { 'Content-Type': 'application/json' } : undefined,
+    body: corpo ? JSON.stringify(corpo) : undefined,
+  }).catch(() => null)
+  if (!r) return { ok: false as const }
+  const d = await r.json().catch(() => ({ ok: false }))
+  return { ok: Boolean(d.ok) }
+}
 
 export function AuthProvider({ children }: { children: ReactNode }) {
-  const [ok, setOk] = useState(() => {
-    try {
-      return sessionStorage.getItem(CHAVE) === '1'
-    } catch {
-      return false
+  const [ok, setOk] = useState(false)
+  const [carregando, setCarregando] = useState(true)
+
+  useEffect(() => {
+    let vivo = true
+    api('GET').then((d) => {
+      if (!vivo) return
+      setOk(d.ok)
+      setCarregando(false)
+    })
+    return () => {
+      vivo = false
     }
-  })
+  }, [])
 
   const valor = useMemo<AuthCtx>(
     () => ({
       ok,
-      entrar: (user, pass) => {
-        if (!USER || !PASS) return false
-        const certo = user.trim() === USER && pass === PASS
-        if (certo) {
-          sessionStorage.setItem(CHAVE, '1')
-          setOk(true)
-        }
-        return certo
+      carregando,
+      entrar: async (user, pass) => {
+        const d = await api('POST', { user, pass })
+        setOk(d.ok)
+        return d.ok
       },
-      sair: () => {
-        sessionStorage.removeItem(CHAVE)
+      sair: async () => {
+        await api('DELETE')
         setOk(false)
       },
     }),
-    [ok],
+    [ok, carregando],
   )
 
   return <Ctx.Provider value={valor}>{children}</Ctx.Provider>
@@ -46,29 +64,32 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
 export const useAuth = () => useContext(Ctx)
 
-/** Tela de entrada do portal privado de estudo. */
+/** Tela de entrada do portal privado — a senha fica só no servidor (função Netlify / middleware local). */
 export function LoginGate({ children }: { children: ReactNode }) {
-  const { ok, entrar } = useAuth()
+  const { ok, carregando, entrar } = useAuth()
   const [user, setUser] = useState('')
   const [pass, setPass] = useState('')
   const [erro, setErro] = useState(false)
+  const [enviando, setEnviando] = useState(false)
 
   useEffect(() => {
-    document.body.classList.toggle('login-ativo', !ok)
+    document.body.classList.toggle('login-ativo', !ok && !carregando)
     return () => document.body.classList.remove('login-ativo')
-  }, [ok])
+  }, [ok, carregando])
 
+  if (carregando) return <p className="carregando">Carregando…</p>
   if (ok) return <>{children}</>
+
+  const enviar = async (e: FormEvent) => {
+    e.preventDefault()
+    setEnviando(true)
+    setErro(!(await entrar(user, pass)))
+    setEnviando(false)
+  }
 
   return (
     <div className="login-tela">
-      <form
-        className="login-caixa"
-        onSubmit={(e) => {
-          e.preventDefault()
-          setErro(!entrar(user, pass))
-        }}
-      >
+      <form className="login-caixa" onSubmit={enviar}>
         <p className="kicker">Portal privado · estudo pessoal</p>
         <h1>Olavo de Carvalho</h1>
         <p className="lede">
@@ -84,8 +105,8 @@ export function LoginGate({ children }: { children: ReactNode }) {
           <input type="password" autoComplete="current-password" value={pass} onChange={(e) => setPass(e.target.value)} />
         </label>
         {erro && <p className="aviso">Usuário ou senha incorretos.</p>}
-        <button type="submit" className="btn btn-primary">
-          Entrar
+        <button type="submit" className="btn btn-primary" disabled={enviando}>
+          {enviando ? 'Entrando…' : 'Entrar'}
         </button>
       </form>
     </div>

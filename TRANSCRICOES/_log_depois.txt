@@ -1,0 +1,17 @@
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>chcp 65001  1>nul 
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>cd /d E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO 
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>timeout /t 30 /nobreak  1>nul 
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>tasklist /fi "IMAGENAME eq python.exe" /v   | findstr /i retranscrever  1>nul 
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>if not errorlevel 1 goto wait 
+
+E:\PROJETOS-CURSOR\ESTUDOS\PROFESSOR-OLAVO>python -u scripts\retranscrever.py --pausa 5 --ids=-ARru63yog0 
+[08:32:24] ============================================================
+[08:32:24] RETRANSCRIÇÃO FINA | modelo=small | pendentes=1
+[08:32:33] Carregando Whisper small (CPU int8, threads=2)…
+[08:32:43] Modelo pronto.
+[08:32:43] [1/1] áudio -ARru63yog0.mp4 (175299 KB) · BATE-PAPO LOBÃO E OLAVO DE CARVALHO em 18/08/2013

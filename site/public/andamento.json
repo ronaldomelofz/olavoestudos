@@ -1,6 +1,6 @@
 {
- "agora": 1793359439.6,
- "em": "08:23:59",
+ "agora": 1793360021.2,
+ "em": "08:33:41",
  "gb": 51.79,
  "vivos": [
   {
@@ -20,9 +20,10 @@
   {
    "id": "whisper",
    "nome": "Retranscrição fina",
-   "estado": "parado",
-   "visto_em": 1793325180.8,
-   "linha": "[22:53:00] Fim da rodada."
+   "estado": "ativo",
+   "visto_em": 1793359963.8,
+   "linha": "[08:32:43] [1/1] áudio -ARru63yog0.mp4 (175299 KB) · BATE-PAPO LOBÃO E OLAVO DE CARVALHO em 18/08/2013",
+   "cpu": true
   }
  ],
  "removidos": 48,
@@ -31,8 +32,8 @@
    "id": "videos",
    "nome": "Vídeos em MP4 no acervo",
    "feito": 1091,
-   "total": 1083,
-   "detalhe": "51.79 GB salvos · o restante não está mais disponível no YouTube"
+   "total": 1091,
+   "detalhe": "51.79 GB salvos · 48 só para estudo pessoal (sem arquivo no YouTube)"
   },
   {
    "id": "seminario",
@@ -45,8 +46,8 @@
    "id": "legendas",
    "nome": "Legendas com marcação de tempo",
    "feito": 1010,
-   "total": 1083,
-   "detalhe": "sem acesso: 45 · erros a repetir: 22"
+   "total": 1091,
+   "detalhe": "sem acesso: 45 · erros a repetir: 22 · o restante sai do Whisper a partir do MP4"
   },
   {
    "id": "estudo",
@@ -57,10 +58,31 @@
   },
   {
    "id": "whisper",
-   "nome": "Retranscrição fina das aulas completas",
+   "nome": "Retranscrição a partir dos MP4",
    "feito": 105,
-   "total": 109,
-   "detalhe": "33 aulas completas + 76 vídeos sem legenda ou recusados pelo YouTube, a partir dos MP4 locais · falhas: 3"
+   "total": 113,
+   "detalhe": "pendentes com MP4: 8 · falhas sem arquivo: 3 · outras falhas: 0"
+  },
+  {
+   "id": "cof",
+   "nome": "COF transcrito (osescribas)",
+   "feito": 589,
+   "total": 589,
+   "detalhe": "aulas em Markdown/HTML na biblioteca local"
+  },
+  {
+   "id": "livros",
+   "nome": "Livros e escritos (PDFs)",
+   "feito": 41,
+   "total": 42,
+   "detalhe": "pasta LIVROS + texto por página para leitura e busca"
+  },
+  {
+   "id": "planeta",
+   "nome": "Artigos da revista Planeta",
+   "feito": 23,
+   "total": 23,
+   "detalhe": "PDFs e OCR do Internet Archive"
   },
   {
    "id": "cursos",
